@@ -3,7 +3,8 @@
 Compile the 78 tarot card prompts from every source in this repo.
 
 Inputs (the four scanned assets):
-  17-the-star.png          -> visual anchor image, passed as a reference to the image model
+  cards/17-the-star.jpg    -> visual anchor (FULL-BLEED), attached to every render call
+  17-the-star.png          -> RETIRED original (matted 84.1%) — never attach this
   00-MASTER-PROMPT.md      -> frame / depth-layer / anatomy standard + master prompt template
   02-CHARACTER-SPECS.md    -> 72 female character specs (age, eyes, hair, build grade, skin, signature, aura)
   cards.json               -> 78 cards: title, scene, emblem, count-lock, hair, age
@@ -19,6 +20,41 @@ ROOT = Path(__file__).resolve().parent.parent
 PIPE = ROOT / "pipeline"
 
 STAR_SLUG = "17-the-star"
+
+# The image attached to every render call.
+#
+# This MUST be the full-bleed Star (cards/17-the-star.jpg, ~99.8% coverage), never the original
+# 17-the-star.png in the repo root (~84.1%, brushed-silver mat + parchment title strip). Attaching
+# the matted original while the prompt says "no silver mat" hands the model two contradictory
+# instructions, and the picture wins — that is how the mat kept creeping back.
+ANCHOR = ROOT / "cards" / "17-the-star.jpg"
+LEGACY_ANCHOR = ROOT / "17-the-star.png"
+
+# Layout contract shared by the prompt text and 00-MASTER-PROMPT.md. If the doc drifts away from
+# the code, the build fails loudly instead of silently emitting the retired layout.
+LAYOUT_VERSION = "FULL-BLEED v3"
+
+
+def resolve_anchor():
+    """Return the reference image to attach, refusing the retired matted card."""
+    if not ANCHOR.exists():
+        raise SystemExit(
+            f"anchor missing: {ANCHOR.relative_to(ROOT)}\n"
+            f"Render the full-bleed Star first — do NOT fall back to "
+            f"{LEGACY_ANCHOR.name} (matted, retired)."
+        )
+    return ANCHOR
+
+
+def load_master():
+    """00-MASTER-PROMPT.md is a real dependency: it must agree with LAYOUT_VERSION."""
+    text = (ROOT / "00-MASTER-PROMPT.md").read_text(encoding="utf-8")
+    if LAYOUT_VERSION not in text:
+        raise SystemExit(
+            f"00-MASTER-PROMPT.md does not declare '{LAYOUT_VERSION}'.\n"
+            f"The spec still describes the retired matted layout — update it before building."
+        )
+    return text
 
 # ---------------------------------------------------------------- sources ---
 
@@ -75,11 +111,15 @@ FRAME_STANDARD = (
     "card edge like a gilded overlay so the artwork shows through and continues past it on every side."
 )
 
-TITLE_STANDARD = (
-    "At the bottom, resting directly on the artwork, a slim elegant gold-edged banner ribbon "
-    'carries the title "{title}" in antique gold gothic lettering, correctly spelled and centered '
-    "— the scene stays visible behind and beneath the banner."
-)
+def title_standard(title):
+    """Titles get spelled out letter by letter — the model rendered STRENGTH as 'STRENGTR' once."""
+    letters = ", ".join(list(title.replace(" ", "")))
+    return (
+        f"TITLE — spell it exactly, letter by letter: {letters}. At the bottom, resting directly "
+        f"on the artwork, a slim elegant gold-edged banner ribbon carries the title "
+        f'"{title}" in antique gold gothic capitals, correctly spelled and centered. '
+        f"The scene stays visible behind and beneath the banner."
+    )
 
 NEGATIVE = (
     "no silver border, no grey mat, no brushed metal bevel, no parchment frame, no empty margins, "
@@ -162,13 +202,13 @@ def character_block(card, en, vi):
 def build_prompt(card, en, vi):
     title = card["title"]
     scene = card["scene"]
-    return f"""A single tarot card "{title}", matching the painterly quality, palette discipline and lighting style of the reference card THE STAR.
+    return f"""A single tarot card "{title}". The attached reference image is THE STAR from this same deck, already in the correct FULL-BLEED layout — copy its layout exactly, and match its painterly quality, palette discipline and lighting style.
 
 {FRAME_STANDARD}
 
-{TITLE_STANDARD.format(title=title)}
+{title_standard(title)}
 
-The scene, covering the whole card and running out under the gold border on every side:
+The scene, covering the whole card and running out under the gold border on every side, composed with generous open space and deep air:
 {soften(scene)}.
 
 {character_block(card, en, vi)}
@@ -189,13 +229,13 @@ Avoid: {NEGATIVE}"""
 def build_compact(card, en, vi):
     title = card["title"]
     bits = [
-        f'Tarot card "{title}", painted with the same fine-art quality and lighting as the '
-        f'attached reference card THE STAR.',
+        f'Tarot card "{title}". The attached reference image is THE STAR from this same deck, '
+        f'already in the correct FULL-BLEED layout — copy its layout exactly, and match its '
+        f'painterly fine-art quality, warm lighting and level of detail.',
         FRAME_STANDARD,
-        TITLE_STANDARD.format(title=title),
+        title_standard(title),
         f'The scene, covering the whole card and running out under the gold border on every '
-        f'side, open and airy like The Star with no inner stone arch or columns: '
-        f'{soften(card["scene"])}.',
+        f'side, composed with generous open space and deep air: {soften(card["scene"])}.',
     ]
 
     if card.get("femme") and en:
@@ -234,6 +274,8 @@ def main():
     meta, cards = load_cards()
     vi_rows = load_spec_table()
     en_rows = load_english_specs()
+    anchor = resolve_anchor()
+    load_master()
 
     missing_en = [s for s in vi_rows if s not in en_rows]
     if missing_en:
@@ -259,9 +301,10 @@ def main():
         json.dumps({
             "meta": {
                 "deck": meta["deck"],
-                "anchor": "17-the-star.png",
+                "anchor": str(anchor.relative_to(ROOT)),
+                "layout": LAYOUT_VERSION,
                 "sources": ["00-MASTER-PROMPT.md", "02-CHARACTER-SPECS.md",
-                            "cards.json", "17-the-star.png"],
+                            "cards.json", str(anchor.relative_to(ROOT))],
                 "count": len(out),
             },
             "cards": out,
@@ -273,6 +316,8 @@ def main():
     print(f"compiled {len(out)} prompts -> pipeline/prompts.json")
     print(f"  {figs} figure cards, {len(out) - figs} object-only cards")
     print(f"  character specs merged: {len(vi_rows)} rows x EN layer")
+    print(f"  layout: {LAYOUT_VERSION}")
+    print(f"  anchor attached to every render: {anchor.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":

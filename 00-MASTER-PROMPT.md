@@ -2,12 +2,28 @@
 
 Bản chuẩn hóa quy chuẩn tạo hình và bố cục toàn bộ 78 lá bài Tarot:
 
-1. **Quy chuẩn hiển thị nội dung & khung viền (Visual Anchor Standard — THE STAR)**:
-   * Lấy lá **`cards/17-the-star.png`** làm quy chuẩn DUY NHẤT cho toàn bộ bộ bài — chuẩn cho cả **phần ảnh bên trong** lẫn **phần viền bên ngoài**.
-   * **Phần viền ngoài**: khung viền mạ vàng Gothic mỏng, sắc nét, đối xứng hoàn hảo trên nền giấy da cổ (*aged parchment/vellum*).
-   * **Phần ảnh bên trong**: phong cách hội họa fine-art của The Star — phối cảnh thoáng đãng, ánh sáng ấm, chiều sâu không gian lùi dần về hậu cảnh, chi tiết sắc nét. Mỗi lá vẫn giữ bối cảnh và bảng màu riêng của mình, chỉ chuẩn hóa về chất lượng nét vẽ, cách đổ sáng và độ chi tiết theo The Star.
-   * Vùng hiển thị nội dung mở rộng tối đa, phủ kín toàn bộ vòm trung tâm từ mép này sang mép kia của khung viền Gothic mỏng.
-   * **Loại bỏ cổng vòm / cột đá phụ chiếm diện tích**: Không dùng cột đá nhân tạo đóng khung gò bó, để không gian khoáng đạt, tự nhiên theo đúng bối cảnh của từng lá bài.
+1. **Quy chuẩn hiển thị nội dung & khung viền — `FULL-BLEED v3`**:
+   * **Ảnh tham chiếu DUY NHẤT: `cards/17-the-star.jpg`** (bản full-bleed, độ phủ 99.8%).
+     ⚠️ **KHÔNG** dùng `17-the-star.png` ở thư mục gốc — đó là bản cũ còn viền bạc + dải giấy da
+     (độ phủ 84.1%), đã **khai tử**. Đính kèm bản cũ trong khi prompt ghi "no silver mat" là đưa
+     model hai chỉ thị mâu thuẫn, và ảnh luôn thắng chữ → viền bạc quay lại.
+   * **Tranh phủ TOÀN BỘ mặt thẻ**, tràn hết 4 cạnh (full bleed). Không viền bạc, không vát xám,
+     không lề giấy da, không panel tên riêng.
+   * **Viền vàng Gothic mỏng vẽ ĐÈ LÊN TRÊN tranh** như một lớp mạ nổi, tranh chạy tiếp ra ngoài
+     và vượt qua viền ở mọi phía.
+   * **Tên lá** nằm trên **dải ruy băng vàng mảnh đặt trực tiếp lên tranh**, cảnh vẫn nhìn thấy
+     phía sau và bên dưới ruy băng.
+   * **Phần ảnh**: phong cách hội họa fine-art của The Star — ánh sáng ấm, chiều sâu không gian
+     lùi dần về hậu cảnh, chi tiết sắc nét. Mỗi lá giữ bối cảnh và bảng màu riêng, chỉ chuẩn hóa
+     chất lượng nét vẽ, cách đổ sáng và độ chi tiết.
+   * **Loại bỏ cổng vòm / cột đá phụ chiếm diện tích**: không dùng cột đá nhân tạo đóng khung gò bó.
+
+   | | Bố cục cũ (khai tử) | `FULL-BLEED v3` |
+   |---|---|---|
+   | Tranh chiếm | 84.1% | **99.8%** |
+   | Lề chết T/B/L/R | 42/43/40/41 px | 0/1/0/1 px |
+   | Panel tên | dải giấy da riêng | ruy băng đặt trên tranh |
+   | Ảnh tham chiếu | `17-the-star.png` | `cards/17-the-star.jpg` |
 
 2. **Quy chuẩn tạo hình nhân vật (Sensual Fine-Art Figure Standard)**:
    * Kế thừa phong cách tạo hình sống động, gợi cảm và cổ điển từ tài liệu gốc `01-CARD-TABLE.md` (hình mẫu tiêu biểu như lá **The Empress**: *"a voluptuous nude empress, one breast bared, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her"*).
@@ -23,17 +39,47 @@ Bản chuẩn hóa quy chuẩn tạo hình và bố cục toàn bộ 78 lá bài
 
 ---
 
-## Master Prompt Template (Chuẩn The Star)
+## Master Prompt Template (`FULL-BLEED v3`)
+
+> Template này là bản rút gọn để đọc. Bản thực thi do `pipeline/build_prompts.py` sinh ra
+> (`FRAME_STANDARD` + `TITLE_STANDARD`), luôn đính kèm **`cards/17-the-star.jpg`**.
 
 ```text
-A single tarot card "{TITLE}" built inside the reference frame, matching the EXACT open window display, scale, and lighting style of THE STAR: keep the intricate thin golden line-art border in vintage gothic style and aged parchment background texture.
+A single tarot card "{TITLE}". The attached reference image is THE STAR from this same deck,
+already in the correct FULL-BLEED layout — copy its layout exactly, and match its painterly
+quality, palette discipline and lighting style.
 
-At the BOTTOM: inside the ribbon banner, the title "{TITLE}" in clean antique gold lettering.
+FULL-BLEED LAYOUT — the painted scene covers the ENTIRE card surface, edge to edge and corner
+to corner, 100% full bleed. There is NO brushed silver mat, NO grey bevel, NO parchment margin
+and NO separate title panel anywhere: the painting itself IS the card. Painted ON TOP of that
+full-bleed artwork, keep the thin gothic gold line-art border with its corner flourishes,
+floating just inside the card edge like a gilded overlay so the artwork continues past it.
 
-In the large open center panel (filling the entire inner window edge to edge and bleeding slightly beneath the golden border, matching the open space of The Star without heavy inner arch barriers):
+At the bottom, resting directly on the artwork, a slim gold-edged banner ribbon carries the
+title "{TITLE}" in antique gold gothic lettering, correctly spelled and centered — the scene
+stays visible behind and beneath the banner.
+
+The scene, covering the whole card and running out under the gold border on every side,
+composed with generous open space and deep air:
 {SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth.
+Depth: the painted scene is the full card; the gold line-art border, flourishes and title
+banner are painted ON TOP of it. Compose so the subject sits clear of the gold overlay and
+nothing important hides behind the banner.
 
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric
+perspective, crisp detail, symmetrical gold overlay, perfectly centered, portrait 7:12,
+vintage gothic fine-art illustration, high detail.
+
+Avoid: no silver border, no grey mat, no brushed metal bevel, no parchment frame, no empty
+margins, no letterboxing, no separate title panel, ...
+```
+
+---
+
+## Kiểm tra tự động
+
+```bash
+python3 pipeline/build_prompts.py     # dừng ngay nếu spec này lệch khỏi FULL-BLEED v3
+python3 pipeline/finalize.py check    # báo lá nào tụt về bố cục viền bạc (<93% phủ màu)
 ```
