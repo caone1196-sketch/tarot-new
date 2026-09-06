@@ -61,17 +61,33 @@ ANATOMY_LOCK = (
     "clearly separated from the torso with visible armpit, elbow and wrist."
 )
 
+# FULL-BLEED LAYOUT (v3) — the painting covers the whole card, 99.8% vs the old 84.1%.
+# The reference card wastes ~16% of its surface on a brushed-silver mat plus a separate
+# parchment title strip. That mat is dropped: art runs corner to corner, the gold line-art
+# border floats on top of it, and the title rides a slim banner laid over the artwork.
 FRAME_STANDARD = (
-    "Match the reference card exactly for framing: the same thin, crisp gothic gold line-art border "
-    "with the same corner flourishes and scrollwork, the same aged parchment / vellum ground, the same "
-    "brushed silver-pearl outer bevel and rounded corners, and the same bottom title panel."
+    "FULL-BLEED LAYOUT — this is the most important instruction. The painted scene covers the "
+    "ENTIRE card surface, edge to edge and corner to corner, 100% full bleed. There is NO brushed "
+    "silver mat, NO grey bevel, NO parchment margin and NO separate title panel anywhere: the "
+    "painting itself IS the card, running all the way to the outer trim on all four sides. "
+    "Painted ON TOP of that full-bleed artwork, keep the reference card's thin gothic gold "
+    "line-art border with its delicate corner flourishes and scrollwork, floating just inside the "
+    "card edge like a gilded overlay so the artwork shows through and continues past it on every side."
+)
+
+TITLE_STANDARD = (
+    "At the bottom, resting directly on the artwork, a slim elegant gold-edged banner ribbon "
+    'carries the title "{title}" in antique gold gothic lettering, correctly spelled and centered '
+    "— the scene stays visible behind and beneath the banner."
 )
 
 NEGATIVE = (
-    "no extra limbs, no third arm, no fused limbs, no deformed hands, no malformed fingers, "
-    "no broken joints, no dark or deep-brown skin shading, no plus-size or exaggerated proportions, "
-    "no heavy inner stone arch or columns, no modern clothing, no text other than the title, "
-    "no watermark, no signature, no blurry background."
+    "no silver border, no grey mat, no brushed metal bevel, no parchment frame, no empty margins, "
+    "no letterboxing, no separate title panel, no extra limbs, no third arm, no fused limbs, "
+    "no deformed hands, no malformed fingers, no broken joints, no dark or deep-brown skin shading, "
+    "no plus-size or exaggerated proportions, no heavy inner stone arch or columns, no modern "
+    "clothing, no misspelled title, no text other than the title, no watermark, no signature, "
+    "no blurry background."
 )
 
 
@@ -146,22 +162,22 @@ def character_block(card, en, vi):
 def build_prompt(card, en, vi):
     title = card["title"]
     scene = card["scene"]
-    return f"""A single tarot card "{title}", built inside the reference frame and matching the EXACT open-window display, scale, palette discipline and lighting style of the reference card THE STAR.
+    return f"""A single tarot card "{title}", matching the painterly quality, palette discipline and lighting style of the reference card THE STAR.
 
 {FRAME_STANDARD}
 
-At the BOTTOM, inside the title panel: the words "{title}" in clean antique gold gothic lettering, correctly spelled, centered.
+{TITLE_STANDARD.format(title=title)}
 
-In the large open center panel — filling the entire inner window edge to edge and bleeding slightly beneath the golden border, with the same open airy space as The Star and no heavy inner arch or stone columns:
-{scene}.
+The scene, covering the whole card and running out under the gold border on every side:
+{soften(scene)}.
 
 {character_block(card, en, vi)}
 
 {count_lock(card)}
 
-Depth layering (4 layers): aged parchment ground; then the scene enlarged so its edges extend slightly under the inner edge of the golden border; then the thin gold line-art border, corner flourishes and bottom title panel painted ON TOP of the scene edges — foreground ornament overlapping the background scene for a strong sense of depth.
+Depth layering: the painted scene is the full card; the thin gold line-art border, its corner flourishes and the title banner are painted ON TOP of it — foreground ornament overlapping the background scene for a strong sense of depth. Compose the scene so the subject sits clear of the gold overlay and nothing important is hidden behind the banner.
 
-Rendering: sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective receding into the background, crisp detail, symmetrical golden frame, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. This card keeps its own setting and colour palette; only linework quality, lighting and detail level are standardized to The Star.
+Rendering: sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective receding into the background, crisp detail, symmetrical gold overlay, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. This card keeps its own setting and colour palette; only linework quality, lighting and detail level are standardized to The Star.
 
 Avoid: {NEGATIVE}"""
 
@@ -173,12 +189,12 @@ Avoid: {NEGATIVE}"""
 def build_compact(card, en, vi):
     title = card["title"]
     bits = [
-        f'Tarot card "{title}" in the EXACT style of the attached reference card THE STAR: '
-        f'same thin gothic gold line-art border, same corner flourishes, same aged parchment '
-        f'ground, same brushed silver outer bevel, same rounded corners, same bottom title panel.',
-        f'Bottom title panel reads "{title}" in antique gold gothic lettering, correctly spelled.',
-        f'Center panel fills the inner window edge to edge and bleeds slightly under the gold '
-        f'border, open and airy like The Star, no inner stone arch or columns: '
+        f'Tarot card "{title}", painted with the same fine-art quality and lighting as the '
+        f'attached reference card THE STAR.',
+        FRAME_STANDARD,
+        TITLE_STANDARD.format(title=title),
+        f'The scene, covering the whole card and running out under the gold border on every '
+        f'side, open and airy like The Star with no inner stone arch or columns: '
         f'{soften(card["scene"])}.',
     ]
 
@@ -200,12 +216,13 @@ def build_compact(card, en, vi):
     )
     bits.append(count_lock(card))
     bits.append(
-        'Depth: scene enlarged under the border, then the gold line-art border, flourishes and title '
-        'panel painted ON TOP of the scene edges for layered depth.'
+        'Depth: the painted scene is the full card; the gold line-art border, flourishes and title '
+        'banner are painted ON TOP of it for layered depth. Compose so the subject sits clear of the '
+        'gold overlay and nothing important hides behind the banner.'
     )
     bits.append(
         'Sensual fine-art anatomy, painterly warm light and soft shadow, atmospheric depth, crisp '
-        'detail, symmetrical gold frame, centered, portrait 7:12, vintage gothic fine-art painting. '
+        'detail, symmetrical gold overlay, centered, portrait 7:12, vintage gothic fine-art painting. '
         'This card keeps its own setting and palette; only linework, lighting and detail level match '
         'The Star.'
     )

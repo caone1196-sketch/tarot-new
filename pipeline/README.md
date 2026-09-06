@@ -13,14 +13,36 @@ Nhân vật lá **The Star** (`17-the-star`, hàng 20 tuổi trong bảng đặc
 chiếu: mọi lá khác kế thừa chất da sáng bóng, giải phẫu fine-art, ánh sáng ấm và độ nét của
 cô, nhưng giữ **đặc điểm riêng** của mình (mắt, tóc, dáng, nét riêng) theo bảng 72 nhân vật.
 
+## Bố cục FULL-BLEED (v3 — chuẩn hiện hành)
+
+Lá The Star gốc phí ~16% mặt thẻ cho **viền bạc + dải giấy da đựng tên** ở đáy: nội dung
+tranh chỉ chiếm **84.1%**. Chuẩn mới bỏ hẳn phần đó:
+
+- Tranh phủ **toàn bộ mặt thẻ**, tràn 4 cạnh, không viền bạc, không lề giấy da → **99.8%**.
+- Viền vàng Gothic mỏng **vẽ đè lên trên** tranh như một lớp mạ nổi, tranh chạy tiếp ra ngoài.
+- Tên lá nằm trên **dải ruy băng vàng mảnh đặt trực tiếp lên tranh**, cảnh vẫn thấy phía sau.
+
+| | Bố cục cũ | Bố cục mới |
+|---|---|---|
+| Tranh chiếm | 84.1% | **99.8%** |
+| Lề chết T/B/L/R | 42/43/40/41 px | 0/1/0/1 px |
+| Panel tên | dải giấy da riêng | ruy băng đặt trên tranh |
+
+Chuẩn này nằm trong `FRAME_STANDARD` + `TITLE_STANDARD` (`build_prompts.py`) nên **mọi lá
+sinh về sau đều tự động áp dụng**. Các cụm "silver border / grey mat / parchment frame /
+separate title panel" đã được đưa vào danh sách `NEGATIVE`.
+
 ## Chạy
 
 ```bash
 python3 pipeline/build_prompts.py      # 4 nguồn  -> pipeline/prompts.json (78 prompt)
 python3 pipeline/finalize.py status    # đã render bao nhiêu / còn thiếu lá nào
+python3 pipeline/finalize.py check     # CẢNH BÁO lá nào lỡ quay về bố cục viền bạc cũ
 python3 pipeline/finalize.py convert   # PNG -> JPEG q92 4:4:4, xoá PNG
 python3 pipeline/finalize.py sheet     # contact-sheet.jpg
 ```
+
+`check` đo độ phủ màu: full-bleed ~99%, bố cục cũ ~84%. Dưới 93% là lá lỗi, cần render lại.
 
 ## `prompts.json` có gì
 

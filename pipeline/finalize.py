@@ -58,6 +58,57 @@ def status():
     print(f"\ncards/ total: {size / 1024 / 1024:.1f} MB")
 
 
+def check():
+    """Flag any card that regressed to the old matted layout.
+
+    Full-bleed cards read ~99% colour coverage; the retired silver-mat layout reads ~84%
+    with a dead ~40px border on every side.
+    """
+    slugs, _ = order()
+    bad = []
+    for slug in slugs:
+        p = CARDS / f"{slug}.jpg"
+        if not p.exists():
+            p = CARDS / f"{slug}.png"
+        if not p.exists():
+            continue
+        with Image.open(p) as im:
+            im = im.convert("RGB")
+            W, H = im.size
+            px = im.load()
+
+            def sat_row(y):
+                t = 0
+                for x in range(0, W, 6):
+                    r, g, b = px[x, y]
+                    mx, mn = max(r, g, b), min(r, g, b)
+                    t += 0 if mx == 0 else (mx - mn) / mx
+                return t / len(range(0, W, 6))
+
+            def sat_col(x):
+                t = 0
+                for y in range(0, H, 6):
+                    r, g, b = px[x, y]
+                    mx, mn = max(r, g, b), min(r, g, b)
+                    t += 0 if mx == 0 else (mx - mn) / mx
+                return t / len(range(0, H, 6))
+
+            TH = 0.16
+            top = next((y for y in range(0, H, 2) if sat_row(y) > TH), 0)
+            bot = next((y for y in range(H - 1, 0, -2) if sat_row(y) > TH), H)
+            left = next((x for x in range(0, W, 2) if sat_col(x) > TH), 0)
+            right = next((x for x in range(W - 1, 0, -2) if sat_col(x) > TH), W)
+            pct = 100 * (right - left) * (bot - top) / (W * H)
+
+        flag = "" if pct >= 93 else "  <-- MATTED, re-render"
+        if pct < 93:
+            bad.append(slug)
+        print(f"  {slug:<20} coverage {pct:5.1f}%{flag}")
+
+    print(f"\n{'FAIL: ' + str(len(bad)) + ' matted card(s)' if bad else 'OK: all cards full-bleed'}")
+    return 1 if bad else 0
+
+
 def sheet():
     slugs, meta = order()
     have = [s for s in slugs if (CARDS / f"{s}.jpg").exists() or (CARDS / f"{s}.png").exists()]
@@ -90,4 +141,4 @@ def sheet():
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "status"
-    {"convert": convert, "sheet": sheet, "status": status}[cmd]()
+    sys.exit({"convert": convert, "sheet": sheet, "status": status, "check": check}[cmd]() or 0)
