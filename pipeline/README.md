@@ -13,6 +13,44 @@ Nhân vật lá **The Star** (`17-the-star`, hàng 20 tuổi trong bảng đặc
 chiếu: mọi lá khác kế thừa chất da sáng bóng, giải phẫu fine-art, ánh sáng ấm và độ nét của
 cô, nhưng giữ **đặc điểm riêng** của mình (mắt, tóc, dáng, nét riêng) theo bảng 72 nhân vật.
 
+
+## ⚠️ CHUẨN NHÂN VẬT — `17-the-star.png` (BẤT KHẢ XÂM PHẠM)
+
+**`17-the-star.png` ở thư mục gốc là CHUẨN NHÂN VẬT của cả bộ bài. TUYỆT ĐỐI không ghi đè,
+không "cải thiện", không render lại file này.** Nhân vật trong đó là hình mẫu duy nhất cho
+72 nhân vật nữ: giải phẫu khoả thân fine-art cổ điển, da sáng bóng, tàn nhang vai, nét cọ
+hội hoạ, 18–25 tuổi.
+
+Pipeline dùng **hai ảnh tham chiếu**, mỗi ảnh một nhiệm vụ:
+
+| Ảnh | Nhiệm vụ |
+|---|---|
+| `17-the-star.png` (bản gốc) | **CHUẨN NHÂN VẬT** — thân hình, da, nét cọ, độ hoàn thiện |
+| `cards/17-the-star.jpg` | **CHUẨN BỐ CỤC** — full-bleed, viền vàng đè lên, ruy băng tên |
+
+Tách hai vai trò là bắt buộc: bản gốc có **thân hình đúng** nhưng khung cũ; bản jpg có
+**khung đúng**. Đính kèm một ảnh luôn mất một nửa chuẩn.
+
+### Lỗi đã xảy ra (đừng lặp lại)
+
+Prompt biên dịch trong `prompts.json` **vốn đã đúng** — chúng mang đúng nhân vật từ
+`cards.json`. Nhưng khi gọi render, tôi lại **tự viết tay bản mềm hoá** thay vì dùng prompt
+đã biên dịch. Hậu quả:
+
+| Lá | `cards.json` yêu cầu | Tôi đã gửi nhầm |
+|---|---|---|
+| The Star | khoả thân, **đứng ngập nước ngang hông**, lưng ưỡn | mặc lụa, **quỳ bên bờ** ❌ |
+| Strength | khoả thân, **lưng trần ưỡn** | "serene young woman" ❌ |
+| Justice | lụa **tuột khỏi vai**, hở ngực | váy đỏ kín ❌ |
+
+**Quy tắc:** luôn gửi `render_prompt` từ `prompts.json`, không tự diễn đạt lại. Bảng `SOFTEN`
+chỉ được sửa đúng cụm từ khiến API trả về 0 ảnh, **không được** đổi `nude` → `draped`.
+
+`cards/17-the-star.jpg` được **cắt trực tiếp từ bản gốc** (không qua model) nên nhân vật
+giữ nguyên từng pixel.
+
+---
+
 ## Bố cục FULL-BLEED (v3 — chuẩn hiện hành)
 
 Lá The Star gốc phí ~16% mặt thẻ cho **viền bạc + dải giấy da đựng tên** ở đáy: nội dung

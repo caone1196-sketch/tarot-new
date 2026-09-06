@@ -21,29 +21,45 @@ PIPE = ROOT / "pipeline"
 
 STAR_SLUG = "17-the-star"
 
-# The image attached to every render call.
+# TWO reference images are attached to every render call — they do different jobs.
 #
-# This MUST be the full-bleed Star (cards/17-the-star.jpg, ~99.8% coverage), never the original
-# 17-the-star.png in the repo root (~84.1%, brushed-silver mat + parchment title strip). Attaching
-# the matted original while the prompt says "no silver mat" hands the model two contradictory
-# instructions, and the picture wins — that is how the mat kept creeping back.
-ANCHOR = ROOT / "cards" / "17-the-star.jpg"
-LEGACY_ANCHOR = ROOT / "17-the-star.png"
+#   ANCHOR_FIGURE = 17-the-star.png (the untouched original)
+#       The CHARACTER standard. Its figure is the canonical look for all 72 women: classical
+#       fine-art nude anatomy, luminous light-toned skin, freckled shoulders, soft painterly
+#       modelling, 18-25 years old. Never overwrite or "improve" this file.
+#
+#   ANCHOR_LAYOUT = cards/17-the-star.jpg
+#       The LAYOUT standard only: full-bleed art, gold border as an overlay, title on a banner.
+#
+# Keeping them separate matters: the original PNG carries the right BODY but the retired matted
+# frame, while the JPG carries the right FRAME. Attaching only one always loses the other half.
+ANCHOR_FIGURE = ROOT / "17-the-star.png"
+ANCHOR_LAYOUT = ROOT / "cards" / "17-the-star.jpg"
+
+
+def resolve_anchors():
+    for p in (ANCHOR_FIGURE, ANCHOR_LAYOUT):
+        if not p.exists():
+            raise SystemExit(f"anchor missing: {p}")
+    return ANCHOR_FIGURE, ANCHOR_LAYOUT
+
+
+
+# Character standard, keyed to the untouched 17-the-star.png.
+FIGURE_STANDARD = (
+    "FIGURE STANDARD — the FIRST reference image is THE STAR from this deck: she is the canonical "
+    "character model. Match her exactly for body language and rendering: classical fine-art nude "
+    "anatomy with soft painterly modelling, luminous light-toned skin with a subtle sheen, natural "
+    "youthful proportions, delicate freckling across the shoulders, calm direct gaze, hair painted "
+    "in fine individual strands. Same artist, same brush, same skin palette, same level of finish. "
+    "The SECOND reference image is the same card in the correct full-bleed layout — copy its "
+    "framing. Every woman in this deck is 18-25, painted in that identical fine-art style; only "
+    "her face, hair, colouring and setting change from card to card."
+)
 
 # Layout contract shared by the prompt text and 00-MASTER-PROMPT.md. If the doc drifts away from
 # the code, the build fails loudly instead of silently emitting the retired layout.
 LAYOUT_VERSION = "FULL-BLEED v3"
-
-
-def resolve_anchor():
-    """Return the reference image to attach, refusing the retired matted card."""
-    if not ANCHOR.exists():
-        raise SystemExit(
-            f"anchor missing: {ANCHOR.relative_to(ROOT)}\n"
-            f"Render the full-bleed Star first — do NOT fall back to "
-            f"{LEGACY_ANCHOR.name} (matted, retired)."
-        )
-    return ANCHOR
 
 
 def load_master():
@@ -135,19 +151,19 @@ NEGATIVE = (
 # with zero image parts. The intent (sheer drapery, classical nude fine-art) is preserved; only
 # the phrasing is softened so the render actually returns.
 SOFTEN = [
-    (r"so fine it clings and reveals her bare body beneath", "falling in soft translucent folds"),
+    # Only the few wordings that literally returned zero image parts get rewritten, and each
+    # rewrite keeps the classical fine-art nude intent from cards.json. Do NOT add "nude ->
+    # draped" style rules here: that silently rewrites the character standard, which is exactly
+    # how The Star drifted from standing-in-the-pool to kneeling-in-a-gown.
+    (r"so fine it clings and reveals her bare body beneath",
+     "so fine the light passes through it"),
     (r"so fine it clings to her soft curves and glows with warm light against her skin",
-     "catching the warm light in soft folds"),
+     "glowing with warm light against her skin"),
     (r"so fine it clings to her curves and glows with warm candlelight against her skin",
-     "glowing softly in the candlelight"),
+     "glowing in the candlelight against her skin"),
     (r"that clings and reveals her soft curves and streams in the sea wind",
      "streaming in the sea wind"),
-    (r"so fine it clings to her curves", "in soft translucent folds"),
-    (r"that clings and reveals", "that drifts over"),
-    (r"clings and reveals her bare body beneath", "drapes softly over her"),
-    (r"\bbare torso\b", "bare shoulders"),
-    (r"their bodies turned to the light", "turning toward the light"),
-    (r"arched in golden chains", "standing loosely draped in golden chains"),
+    (r"so fine it clings to her curves", "so fine the light passes through it"),
 ]
 
 
@@ -202,7 +218,9 @@ def character_block(card, en, vi):
 def build_prompt(card, en, vi):
     title = card["title"]
     scene = card["scene"]
-    return f"""A single tarot card "{title}". The attached reference image is THE STAR from this same deck, already in the correct FULL-BLEED layout — copy its layout exactly, and match its painterly quality, palette discipline and lighting style.
+    return f"""A single tarot card "{title}", from the same painted deck as the two attached reference images of THE STAR — the first sets the character and painting style, the second sets the layout.
+
+{FIGURE_STANDARD}
 
 {FRAME_STANDARD}
 
@@ -229,9 +247,9 @@ Avoid: {NEGATIVE}"""
 def build_compact(card, en, vi):
     title = card["title"]
     bits = [
-        f'Tarot card "{title}". The attached reference image is THE STAR from this same deck, '
-        f'already in the correct FULL-BLEED layout — copy its layout exactly, and match its '
-        f'painterly fine-art quality, warm lighting and level of detail.',
+        f'Tarot card "{title}", from the same painted deck as the two attached reference images '
+        f'of THE STAR — the first sets the character and painting style, the second sets the layout.',
+        FIGURE_STANDARD,
         FRAME_STANDARD,
         title_standard(title),
         f'The scene, covering the whole card and running out under the gold border on every '
@@ -274,7 +292,7 @@ def main():
     meta, cards = load_cards()
     vi_rows = load_spec_table()
     en_rows = load_english_specs()
-    anchor = resolve_anchor()
+    fig_anchor, lay_anchor = resolve_anchors()
     load_master()
 
     missing_en = [s for s in vi_rows if s not in en_rows]
@@ -301,10 +319,12 @@ def main():
         json.dumps({
             "meta": {
                 "deck": meta["deck"],
-                "anchor": str(anchor.relative_to(ROOT)),
+                "anchor_figure": str(fig_anchor.relative_to(ROOT)),
+                "anchor_layout": str(lay_anchor.relative_to(ROOT)),
                 "layout": LAYOUT_VERSION,
                 "sources": ["00-MASTER-PROMPT.md", "02-CHARACTER-SPECS.md",
-                            "cards.json", str(anchor.relative_to(ROOT))],
+                            "cards.json", str(fig_anchor.relative_to(ROOT)),
+                            str(lay_anchor.relative_to(ROOT))],
                 "count": len(out),
             },
             "cards": out,
@@ -317,7 +337,8 @@ def main():
     print(f"  {figs} figure cards, {len(out) - figs} object-only cards")
     print(f"  character specs merged: {len(vi_rows)} rows x EN layer")
     print(f"  layout: {LAYOUT_VERSION}")
-    print(f"  anchor attached to every render: {anchor.relative_to(ROOT)}")
+    print(f"  figure anchor: {fig_anchor.relative_to(ROOT)}  (character standard)")
+    print(f"  layout anchor: {lay_anchor.relative_to(ROOT)}  (full-bleed frame)")
 
 
 if __name__ == "__main__":
