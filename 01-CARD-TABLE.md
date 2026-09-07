@@ -1,7 +1,7 @@
 # 🌹 BẢNG THÔNG SỐ NHÂN VẬT — 72 NHÂN VẬT NỮ (QUYẾN RŨ · GỢI CẢM · GOTHIC FINE-ART)
 
 > File **phát triển từ** `01-CARD-TABLE.md` (bảng chuẩn — nguồn gốc tuổi/tóc/vóc dáng/huy hiệu/tên)
-> và `tarot prompt/cards.json`. Tuổi được **giữ nguyên 100%** so với bảng chuẩn; kiểu tóc **giữ nguyên kiểu dáng & màu**
+> và `cards.json`. Tuổi được **giữ nguyên 100%** so với bảng chuẩn; kiểu tóc **giữ nguyên kiểu dáng & màu**
 > (chỉ gỡ từ ngữ chiến binh/thô cứng khỏi câu mô tả).
 > File này **bổ sung** 4 thuộc tính mới: **Đôi mắt · Màu da · Nét riêng (signature) · Không khí (aura)**,
 > và **chuẩn hóa vóc dáng** vào dải **Thanh mảnh → Trung bình** (không vượt trần "trung bình").
