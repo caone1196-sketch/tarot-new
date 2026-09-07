@@ -29,7 +29,7 @@
       "image_file": "cards/02-priestess.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "03-empress",
@@ -129,7 +129,7 @@
       "image_file": "cards/12-hanged.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "13-death",
@@ -149,7 +149,7 @@
       "image_file": "cards/14-temperance.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: exactly 2 chalices. exactly two chalices, one in each hand, both bowls fully visible and un-occluded.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "15-devil",
@@ -782,6 +782,6 @@
       "artwork_status": "pending-generation"
     }
   ],
-  "artwork_generated_count": 7,
-  "artwork_pending_count": 71
+  "artwork_generated_count": 10,
+  "artwork_pending_count": 68
 }

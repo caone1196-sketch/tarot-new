@@ -5,11 +5,11 @@ This folder is the self-contained deliverable generated from the repository sour
 - `cards.json` is an exact copy of the supplied 78-card standard; it is the source of truth for title, scene, character, and count locks.
 - `prompts/` contains one fully expanded prompt per card. Each prompt preserves the exact `scene`, `hair`, `age`, `build`, and count instruction from `cards.json`, then adds the individual eye/skin/signature/aura traits from `02-CHARACTER-SPECS.md` when a card has a character.
 - `cards/` is the artwork output directory; the manifest reserves one PNG filename per source slug.
-- `the moon.png` is the only local image reference used by this clean rebuild. The Star and blank-template references are intentionally excluded from the output folder.
+- `the moon.png` is the only local image reference used by this rebuild: `cards/08-strength.png`. The Star and blank-template references are intentionally excluded from the output folder.
 - `prompt-manifest.json` maps all 78 source records to their prompt and image files.
 - `upscale_pngs.py` converts newly rendered 784x1360 PNGs to the 2x 1568x2720 delivery size.
 
-Visual lock: `the moon.png` is the only image reference for character rendering, atmospheric fine-art lighting, anatomy, and color depth. Its frame, corner flourishes, parchment margin, medallion, emblem, icon, and banner are intentionally not copied. Every card is borderless full-bleed artwork with the scene reaching all four edges and only the title overlaid at the bottom. Artwork is exported as PNG with a high-detail, high-resolution finish; generated cards are upscaled 2x to 1568x2720 pixels after rendering.
+Visual lock: `cards/08-strength.png` is the only image reference for character rendering, atmospheric fine-art lighting, anatomy, and color depth. Its frame, corner flourishes, parchment margin, medallion, emblem, icon, and banner are intentionally not copied. Every card is borderless full-bleed artwork with the scene reaching all four edges and only the title overlaid at the bottom. Artwork is exported as PNG with a high-detail, high-resolution finish; generated cards are upscaled 2x to 1568x2720 pixels after rendering.
 
 Suit-object counts are hard constraints. For any card whose source `count` is `null`, the prompt explicitly prohibits adding suit objects. The six object-only cards remain object-only.
 
