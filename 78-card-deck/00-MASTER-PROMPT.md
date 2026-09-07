@@ -35,5 +35,5 @@ In the large open center panel (filling the entire inner window edge to edge and
 
 Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border and corner flourishes ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth. The top of the card must remain a completely open continuation of the scene: no oval medallion, no top frame emblem, no top icon, and no decorative badge above the artwork. Symbols explicitly required inside the card scene remain part of that scene.
 
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, ultra-high detail, crisp fine brushwork, high-resolution finish, high pixel density.
 ```
