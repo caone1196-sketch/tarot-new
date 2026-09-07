@@ -7,6 +7,15 @@ Mỗi lá = 1 file PNG tên theo `slug`, tỉ lệ **784×1360 (7:12)**, full-bl
 | `00-fool.png` | THE FOOL | Kẻ Ngây Thơ | ✅ batch 1 |
 | `01-magician.png` | THE MAGICIAN | Pháp Sư | ✅ batch 1 |
 | `02-priestess.png` | THE HIGH PRIESTESS | Nữ Tư Tế | ✅ batch 1 |
+| `03-empress.png` | THE EMPRESS | Nữ Hoàng | ✅ batch 2 |
+| `04-emperor.png` | THE EMPEROR | Hoàng Đế | ✅ batch 2 ⚠️ xem chú thích |
+| `05-hierophant.png` | THE HIEROPHANT | Giáo Hoàng | ✅ batch 2 |
+| `06-lovers.png` | THE LOVERS | Tình Nhân | ✅ batch 2 |
+| `07-chariot.png` | THE CHARIOT | Chiến Xa | ✅ batch 2 |
+
+> ⚠️ **04-emperor**: bản gốc "nằm nghiêng trên ngai" bị bộ lọc nội dung chặn.
+> Đã đổi thành **ngồi ngự thẳng trên ngai** + voan che cả vai và ngực (hở một vai).
+> Tất cả các lá khác vẫn giữ đúng tư thế gốc. Chi tiết trong `wardrobe-standard.json` (trường `note`).
 
 ## Cấu trúc
 

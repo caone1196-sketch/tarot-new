@@ -24,7 +24,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "cards" / "prompts"
 
-TARGETS = ["00-fool", "01-magician", "02-priestess"]
+# batch 1-2 (chạy thêm: python 04-AI-GUIDE/make-prompts.py 08-strength 09-hermit)
+TARGETS = [
+    "00-fool", "01-magician", "02-priestess",
+    "03-empress", "04-emperor", "05-hierophant", "06-lovers", "07-chariot",
+]
 
 # ---------------------------------------------------------------- 1. STYLE
 STYLE_ANCHOR = (
@@ -74,6 +78,11 @@ SUBJECT_LOCK = (
 PROPS_GUARD = {
     "01-magician": " The four suit objects on the altar — cup, sword, wand, coin — are required by this card and must not be removed by any other rule.",
     "02-priestess": " The two stone pillars, the scroll in her lap and the silver crescent at her feet are required by this card and must not be removed by any other rule.",
+    "03-empress": " The crown of flowers, the heart-shaped shield of Venus, the ripe wheat and the throne are required by this card and must not be removed by any other rule.",
+    "04-emperor": " The stone throne carved with ram heads, the ankh sceptre and the barren mountains are required by this card and must not be removed by any other rule.",
+    "05-hierophant": " The two kneeling female acolytes, the sacred temple pillars and the raised blessing hand are required by this card and must not be removed by any other rule.",
+    "06-lovers": " The great winged angel, the tree of knowledge with the serpent and the tree of flames are required by this card and must not be removed by any other rule.",
+    "07-chariot": " The two sphinxes, the stone chariot, the starry canopy and the walled city are required by this card and must not be removed by any other rule.",
 }
 
 # ---------------------------------------------------------- 4. TRANG PHỤC
@@ -88,6 +97,8 @@ def scene_rewrite(slug: str, text: str) -> str:
     if rw:
         text, n = re.subn(re.escape(rw["find"]), rw["replace"], text)
         if n:
+            for find, repl in rw.get("extra", []):
+                text = re.sub(re.escape(find), repl, text)
             return text
     # không có rewrite riêng -> dùng rule chung
     for g in STD["generic_rewrites"]:
@@ -95,12 +106,12 @@ def scene_rewrite(slug: str, text: str) -> str:
     return text
 
 
-def main():
+def main(slugs=None):
     data = json.loads((ROOT / "prompts-full.json").read_text(encoding="utf-8"))
     prompts = {p["slug"]: p for p in data["prompts"]}
     OUT.mkdir(parents=True, exist_ok=True)
 
-    for slug in TARGETS:
+    for slug in (slugs or TARGETS):
         card = prompts[slug]
         title = card["title"]
         text = card["prompt"]
@@ -130,4 +141,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    main(sys.argv[1:] or None)

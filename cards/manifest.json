@@ -1,6 +1,6 @@
 {
   "deck": "Sensual Tarot 78",
-  "generated": "2026-09-07 16:34 UTC",
+  "generated": "2026-09-07 16:40 UTC",
   "cards": [
     {
       "slug": "00-fool",
@@ -34,6 +34,61 @@
       "height": 1360,
       "scene": "a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet",
       "prompt": "cards/prompts/02-priestess.txt"
+    },
+    {
+      "slug": "03-empress",
+      "file": "cards/03-empress.png",
+      "title": "Nữ Hoàng",
+      "title_en": "THE EMPRESS",
+      "title_vn": "Nữ Hoàng",
+      "width": 784,
+      "height": 1360,
+      "scene": "a slender nude empress, one breast bared, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her",
+      "prompt": "cards/prompts/03-empress.txt"
+    },
+    {
+      "slug": "04-emperor",
+      "file": "cards/04-emperor.png",
+      "title": "Hoàng Đế",
+      "title_en": "THE EMPEROR",
+      "title_vn": "Hoàng Đế",
+      "width": 784,
+      "height": 1360,
+      "scene": "a serene 25-year-old female emperor reclining gracefully on a stone throne carved with ram heads, draped only in a diaphanous transparent silk veil so fine it clings to her soft curves and glows with warm light against her skin, the gossamer fabric slipping from one shoulder, holding an ankh scepter loosely in one hand, barren rugged mountains behind her",
+      "prompt": "cards/prompts/04-emperor.txt"
+    },
+    {
+      "slug": "05-hierophant",
+      "file": "cards/05-hierophant.png",
+      "title": "Giáo Hoàng",
+      "title_en": "THE HIEROPHANT",
+      "title_vn": "Giáo Hoàng",
+      "width": 784,
+      "height": 1360,
+      "scene": "a serene 24-year-old female high mystic priestess draped only in a diaphanous transparent red silk veil so fine it clings to her curves and glows with warm candlelight against her skin, the gossamer-thin fabric slipping from one shoulder, raising one blessing hand, two fair-skinned kneeling female acolytes before her, sacred temple pillars behind",
+      "prompt": "cards/prompts/05-hierophant.txt"
+    },
+    {
+      "slug": "06-lovers",
+      "file": "cards/06-lovers.png",
+      "title": "Tình Nhân",
+      "title_en": "THE LOVERS",
+      "title_vn": "Tình Nhân",
+      "width": 784,
+      "height": 1360,
+      "scene": "a fair-skinned nude young man and a nude young woman standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer with silk fallen to her hip and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him",
+      "prompt": "cards/prompts/06-lovers.txt"
+    },
+    {
+      "slug": "07-chariot",
+      "file": "cards/07-chariot.png",
+      "title": "Chiến Xa",
+      "title_en": "THE CHARIOT",
+      "title_vn": "Chiến Xa",
+      "width": 784,
+      "height": 1360,
+      "scene": "a heroic bare-shouldered woman charioteer wrapped in loose sheer white silk with no armor, standing tall in a stone chariot between two sphinxes under a starry canopy, a walled city behind her",
+      "prompt": "cards/prompts/07-chariot.txt"
     }
   ]
 }
