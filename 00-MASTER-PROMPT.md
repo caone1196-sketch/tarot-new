@@ -212,7 +212,7 @@ Prompt chỉ là một phần — chất lượng cuối còn phụ thuộc cài
 
 | File | Vai trò |
 |---|---|
-| **`AI-INSTRUCTIONS.md`** | **Bản vận hành tự động cho AI** — đưa file này cho AI là tự biết mọi quy trình (vẽ · sửa · xuất prompt) |
+| **`04-AI-GUIDE/AI-INSTRUCTIONS.md`** | **Bản vận hành tự động cho AI** — đưa file này cho AI là tự biết mọi quy trình (vẽ · sửa · xuất prompt) |
 | `cards.json` | Nguồn dữ liệu 78 lá (scene/count) — v5: thêm quality lock |
 | `01-CARD-TABLE.md` | Bảng chuẩn 72 nhân vật (tuổi · mắt · tóc · da · vóc dáng · nét riêng · không khí) |
 | `03-PROMPTS-78-FULL.md` | **78 prompt hoàn chỉnh full-bleed + quality lock, copy-paste được ngay** |

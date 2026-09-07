@@ -33,8 +33,11 @@
 
 ## 2. BẢN ĐỒ FILE (khi có repo `tarot-new`)
 
+> 📁 File này nằm ở `04-AI-GUIDE/AI-INSTRUCTIONS.md`. Các đường dẫn dưới đây tính từ **thư mục gốc repo**.
+
 | File | Dùng khi |
 |---|---|
+| `04-AI-GUIDE/AI-INSTRUCTIONS.md` | Chính file này — bản vận hành cho AI |
 | `03-PROMPTS-78-FULL.md` | **Nguồn prompt chính** — 78 prompt hoàn chỉnh, copy-paste được ngay |
 | `prompts-full.json` | Như trên, bản máy đọc được (slug/title/prompt) |
 | `cards.json` | Dữ liệu nguồn 78 lá: scene, emblem, count lock, tóc/tuổi/vóc dáng |
