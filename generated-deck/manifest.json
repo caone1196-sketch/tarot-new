@@ -1,0 +1,791 @@
+{
+  "deck": "Sensual Tarot — 78 cards",
+  "reference_files": [
+    "the moon.png",
+    "17-the-star.png",
+    "card-blank.png"
+  ],
+  "source_prompt": "00-MASTER-PROMPT.md",
+  "cards": [
+    {
+      "index": 1,
+      "number": "0",
+      "slug": "00-fool",
+      "title": "THE FOOL",
+      "group": "major",
+      "prompt": "prompts/01-00-fool.txt",
+      "scene": "scenes/00-fool.jpg",
+      "card": "cards/01-00-fool.jpg"
+    },
+    {
+      "index": 2,
+      "number": "I",
+      "slug": "01-magician",
+      "title": "THE MAGICIAN",
+      "group": "major",
+      "prompt": "prompts/02-01-magician.txt",
+      "scene": "scenes/01-magician.jpg",
+      "card": "cards/02-01-magician.jpg"
+    },
+    {
+      "index": 3,
+      "number": "II",
+      "slug": "02-priestess",
+      "title": "THE HIGH PRIESTESS",
+      "group": "major",
+      "prompt": "prompts/03-02-priestess.txt",
+      "scene": "scenes/02-priestess.jpg",
+      "card": "cards/03-02-priestess.jpg"
+    },
+    {
+      "index": 4,
+      "number": "III",
+      "slug": "03-empress",
+      "title": "THE EMPRESS",
+      "group": "major",
+      "prompt": "prompts/04-03-empress.txt",
+      "scene": "scenes/03-empress.jpg",
+      "card": "cards/04-03-empress.jpg"
+    },
+    {
+      "index": 5,
+      "number": "IV",
+      "slug": "04-emperor",
+      "title": "THE EMPEROR",
+      "group": "major",
+      "prompt": "prompts/05-04-emperor.txt",
+      "scene": "scenes/04-emperor.jpg",
+      "card": "cards/05-04-emperor.jpg"
+    },
+    {
+      "index": 6,
+      "number": "V",
+      "slug": "05-hierophant",
+      "title": "THE HIEROPHANT",
+      "group": "major",
+      "prompt": "prompts/06-05-hierophant.txt",
+      "scene": "scenes/05-hierophant.jpg",
+      "card": "cards/06-05-hierophant.jpg"
+    },
+    {
+      "index": 7,
+      "number": "VI",
+      "slug": "06-lovers",
+      "title": "THE LOVERS",
+      "group": "major",
+      "prompt": "prompts/07-06-lovers.txt",
+      "scene": "scenes/06-lovers.jpg",
+      "card": "cards/07-06-lovers.jpg"
+    },
+    {
+      "index": 8,
+      "number": "VII",
+      "slug": "07-chariot",
+      "title": "THE CHARIOT",
+      "group": "major",
+      "prompt": "prompts/08-07-chariot.txt",
+      "scene": "scenes/07-chariot.jpg",
+      "card": "cards/08-07-chariot.jpg"
+    },
+    {
+      "index": 9,
+      "number": "VIII",
+      "slug": "08-strength",
+      "title": "STRENGTH",
+      "group": "major",
+      "prompt": "prompts/09-08-strength.txt",
+      "scene": "scenes/08-strength.jpg",
+      "card": "cards/09-08-strength.jpg"
+    },
+    {
+      "index": 10,
+      "number": "IX",
+      "slug": "09-hermit",
+      "title": "THE HERMIT",
+      "group": "major",
+      "prompt": "prompts/10-09-hermit.txt",
+      "scene": "scenes/09-hermit.jpg",
+      "card": "cards/10-09-hermit.jpg"
+    },
+    {
+      "index": 11,
+      "number": "X",
+      "slug": "10-wheel",
+      "title": "WHEEL OF FORTUNE",
+      "group": "major",
+      "prompt": "prompts/11-10-wheel.txt",
+      "scene": "scenes/10-wheel.jpg",
+      "card": "cards/11-10-wheel.jpg"
+    },
+    {
+      "index": 12,
+      "number": "XI",
+      "slug": "11-justice",
+      "title": "JUSTICE",
+      "group": "major",
+      "prompt": "prompts/12-11-justice.txt",
+      "scene": "scenes/11-justice.jpg",
+      "card": "cards/12-11-justice.jpg"
+    },
+    {
+      "index": 13,
+      "number": "XII",
+      "slug": "12-hanged",
+      "title": "THE HANGED MAN",
+      "group": "major",
+      "prompt": "prompts/13-12-hanged.txt",
+      "scene": "scenes/12-hanged.jpg",
+      "card": "cards/13-12-hanged.jpg"
+    },
+    {
+      "index": 14,
+      "number": "XIII",
+      "slug": "13-death",
+      "title": "DEATH",
+      "group": "major",
+      "prompt": "prompts/14-13-death.txt",
+      "scene": "scenes/13-death.jpg",
+      "card": "cards/14-13-death.jpg"
+    },
+    {
+      "index": 15,
+      "number": "XIV",
+      "slug": "14-temperance",
+      "title": "TEMPERANCE",
+      "group": "major",
+      "prompt": "prompts/15-14-temperance.txt",
+      "scene": "scenes/14-temperance.jpg",
+      "card": "cards/15-14-temperance.jpg"
+    },
+    {
+      "index": 16,
+      "number": "XV",
+      "slug": "15-devil",
+      "title": "THE DEVIL",
+      "group": "major",
+      "prompt": "prompts/16-15-devil.txt",
+      "scene": "scenes/15-devil.jpg",
+      "card": "cards/16-15-devil.jpg"
+    },
+    {
+      "index": 17,
+      "number": "XVI",
+      "slug": "16-tower",
+      "title": "THE TOWER",
+      "group": "major",
+      "prompt": "prompts/17-16-tower.txt",
+      "scene": "scenes/16-tower.jpg",
+      "card": "cards/17-16-tower.jpg"
+    },
+    {
+      "index": 18,
+      "number": "XVII",
+      "slug": "17-the-star",
+      "title": "THE STAR",
+      "group": "major",
+      "prompt": "prompts/18-17-the-star.txt",
+      "scene": "scenes/17-the-star.jpg",
+      "card": "cards/18-17-the-star.jpg"
+    },
+    {
+      "index": 19,
+      "number": "XVIII",
+      "slug": "18-moon",
+      "title": "THE MOON",
+      "group": "major",
+      "prompt": "prompts/19-18-moon.txt",
+      "scene": "scenes/18-moon.jpg",
+      "card": "cards/19-18-moon.jpg"
+    },
+    {
+      "index": 20,
+      "number": "XIX",
+      "slug": "19-sun",
+      "title": "THE SUN",
+      "group": "major",
+      "prompt": "prompts/20-19-sun.txt",
+      "scene": "scenes/19-sun.jpg",
+      "card": "cards/20-19-sun.jpg"
+    },
+    {
+      "index": 21,
+      "number": "XX",
+      "slug": "20-judgement",
+      "title": "JUDGEMENT",
+      "group": "major",
+      "prompt": "prompts/21-20-judgement.txt",
+      "scene": "scenes/20-judgement.jpg",
+      "card": "cards/21-20-judgement.jpg"
+    },
+    {
+      "index": 22,
+      "number": "XXI",
+      "slug": "21-world",
+      "title": "THE WORLD",
+      "group": "major",
+      "prompt": "prompts/22-21-world.txt",
+      "scene": "scenes/21-world.jpg",
+      "card": "cards/22-21-world.jpg"
+    },
+    {
+      "index": 23,
+      "number": "A",
+      "slug": "wands-ace",
+      "title": "ACE OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/23-wands-ace.txt",
+      "scene": "scenes/wands-ace.jpg",
+      "card": "cards/23-wands-ace.jpg"
+    },
+    {
+      "index": 24,
+      "number": "2",
+      "slug": "wands-02",
+      "title": "TWO OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/24-wands-02.txt",
+      "scene": "scenes/wands-02.jpg",
+      "card": "cards/24-wands-02.jpg"
+    },
+    {
+      "index": 25,
+      "number": "3",
+      "slug": "wands-03",
+      "title": "THREE OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/25-wands-03.txt",
+      "scene": "scenes/wands-03.jpg",
+      "card": "cards/25-wands-03.jpg"
+    },
+    {
+      "index": 26,
+      "number": "4",
+      "slug": "wands-04",
+      "title": "FOUR OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/26-wands-04.txt",
+      "scene": "scenes/wands-04.jpg",
+      "card": "cards/26-wands-04.jpg"
+    },
+    {
+      "index": 27,
+      "number": "5",
+      "slug": "wands-05",
+      "title": "FIVE OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/27-wands-05.txt",
+      "scene": "scenes/wands-05.jpg",
+      "card": "cards/27-wands-05.jpg"
+    },
+    {
+      "index": 28,
+      "number": "6",
+      "slug": "wands-06",
+      "title": "SIX OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/28-wands-06.txt",
+      "scene": "scenes/wands-06.jpg",
+      "card": "cards/28-wands-06.jpg"
+    },
+    {
+      "index": 29,
+      "number": "7",
+      "slug": "wands-07",
+      "title": "SEVEN OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/29-wands-07.txt",
+      "scene": "scenes/wands-07.jpg",
+      "card": "cards/29-wands-07.jpg"
+    },
+    {
+      "index": 30,
+      "number": "8",
+      "slug": "wands-08",
+      "title": "EIGHT OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/30-wands-08.txt",
+      "scene": "scenes/wands-08.jpg",
+      "card": "cards/30-wands-08.jpg"
+    },
+    {
+      "index": 31,
+      "number": "9",
+      "slug": "wands-09",
+      "title": "NINE OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/31-wands-09.txt",
+      "scene": "scenes/wands-09.jpg",
+      "card": "cards/31-wands-09.jpg"
+    },
+    {
+      "index": 32,
+      "number": "10",
+      "slug": "wands-10",
+      "title": "TEN OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/32-wands-10.txt",
+      "scene": "scenes/wands-10.jpg",
+      "card": "cards/32-wands-10.jpg"
+    },
+    {
+      "index": 33,
+      "number": "P",
+      "slug": "wands-page",
+      "title": "PAGE OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/33-wands-page.txt",
+      "scene": "scenes/wands-page.jpg",
+      "card": "cards/33-wands-page.jpg"
+    },
+    {
+      "index": 34,
+      "number": "N",
+      "slug": "wands-knight",
+      "title": "KNIGHT OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/34-wands-knight.txt",
+      "scene": "scenes/wands-knight.jpg",
+      "card": "cards/34-wands-knight.jpg"
+    },
+    {
+      "index": 35,
+      "number": "Q",
+      "slug": "wands-queen",
+      "title": "QUEEN OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/35-wands-queen.txt",
+      "scene": "scenes/wands-queen.jpg",
+      "card": "cards/35-wands-queen.jpg"
+    },
+    {
+      "index": 36,
+      "number": "K",
+      "slug": "wands-king",
+      "title": "KING OF WANDS",
+      "group": "wands",
+      "prompt": "prompts/36-wands-king.txt",
+      "scene": "scenes/wands-king.jpg",
+      "card": "cards/36-wands-king.jpg"
+    },
+    {
+      "index": 37,
+      "number": "A",
+      "slug": "cups-ace",
+      "title": "ACE OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/37-cups-ace.txt",
+      "scene": "scenes/cups-ace.jpg",
+      "card": "cards/37-cups-ace.jpg"
+    },
+    {
+      "index": 38,
+      "number": "2",
+      "slug": "cups-02",
+      "title": "TWO OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/38-cups-02.txt",
+      "scene": "scenes/cups-02.jpg",
+      "card": "cards/38-cups-02.jpg"
+    },
+    {
+      "index": 39,
+      "number": "3",
+      "slug": "cups-03",
+      "title": "THREE OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/39-cups-03.txt",
+      "scene": "scenes/cups-03.jpg",
+      "card": "cards/39-cups-03.jpg"
+    },
+    {
+      "index": 40,
+      "number": "4",
+      "slug": "cups-04",
+      "title": "FOUR OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/40-cups-04.txt",
+      "scene": "scenes/cups-04.jpg",
+      "card": "cards/40-cups-04.jpg"
+    },
+    {
+      "index": 41,
+      "number": "5",
+      "slug": "cups-05",
+      "title": "FIVE OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/41-cups-05.txt",
+      "scene": "scenes/cups-05.jpg",
+      "card": "cards/41-cups-05.jpg"
+    },
+    {
+      "index": 42,
+      "number": "6",
+      "slug": "cups-06",
+      "title": "SIX OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/42-cups-06.txt",
+      "scene": "scenes/cups-06.jpg",
+      "card": "cards/42-cups-06.jpg"
+    },
+    {
+      "index": 43,
+      "number": "7",
+      "slug": "cups-07",
+      "title": "SEVEN OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/43-cups-07.txt",
+      "scene": "scenes/cups-07.jpg",
+      "card": "cards/43-cups-07.jpg"
+    },
+    {
+      "index": 44,
+      "number": "8",
+      "slug": "cups-08",
+      "title": "EIGHT OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/44-cups-08.txt",
+      "scene": "scenes/cups-08.jpg",
+      "card": "cards/44-cups-08.jpg"
+    },
+    {
+      "index": 45,
+      "number": "9",
+      "slug": "cups-09",
+      "title": "NINE OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/45-cups-09.txt",
+      "scene": "scenes/cups-09.jpg",
+      "card": "cards/45-cups-09.jpg"
+    },
+    {
+      "index": 46,
+      "number": "10",
+      "slug": "cups-10",
+      "title": "TEN OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/46-cups-10.txt",
+      "scene": "scenes/cups-10.jpg",
+      "card": "cards/46-cups-10.jpg"
+    },
+    {
+      "index": 47,
+      "number": "P",
+      "slug": "cups-page",
+      "title": "PAGE OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/47-cups-page.txt",
+      "scene": "scenes/cups-page.jpg",
+      "card": "cards/47-cups-page.jpg"
+    },
+    {
+      "index": 48,
+      "number": "N",
+      "slug": "cups-knight",
+      "title": "KNIGHT OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/48-cups-knight.txt",
+      "scene": "scenes/cups-knight.jpg",
+      "card": "cards/48-cups-knight.jpg"
+    },
+    {
+      "index": 49,
+      "number": "Q",
+      "slug": "cups-queen",
+      "title": "QUEEN OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/49-cups-queen.txt",
+      "scene": "scenes/cups-queen.jpg",
+      "card": "cards/49-cups-queen.jpg"
+    },
+    {
+      "index": 50,
+      "number": "K",
+      "slug": "cups-king",
+      "title": "KING OF CUPS",
+      "group": "cups",
+      "prompt": "prompts/50-cups-king.txt",
+      "scene": "scenes/cups-king.jpg",
+      "card": "cards/50-cups-king.jpg"
+    },
+    {
+      "index": 51,
+      "number": "A",
+      "slug": "swords-ace",
+      "title": "ACE OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/51-swords-ace.txt",
+      "scene": "scenes/swords-ace.jpg",
+      "card": "cards/51-swords-ace.jpg"
+    },
+    {
+      "index": 52,
+      "number": "2",
+      "slug": "swords-02",
+      "title": "TWO OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/52-swords-02.txt",
+      "scene": "scenes/swords-02.jpg",
+      "card": "cards/52-swords-02.jpg"
+    },
+    {
+      "index": 53,
+      "number": "3",
+      "slug": "swords-03",
+      "title": "THREE OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/53-swords-03.txt",
+      "scene": "scenes/swords-03.jpg",
+      "card": "cards/53-swords-03.jpg"
+    },
+    {
+      "index": 54,
+      "number": "4",
+      "slug": "swords-04",
+      "title": "FOUR OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/54-swords-04.txt",
+      "scene": "scenes/swords-04.jpg",
+      "card": "cards/54-swords-04.jpg"
+    },
+    {
+      "index": 55,
+      "number": "5",
+      "slug": "swords-05",
+      "title": "FIVE OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/55-swords-05.txt",
+      "scene": "scenes/swords-05.jpg",
+      "card": "cards/55-swords-05.jpg"
+    },
+    {
+      "index": 56,
+      "number": "6",
+      "slug": "swords-06",
+      "title": "SIX OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/56-swords-06.txt",
+      "scene": "scenes/swords-06.jpg",
+      "card": "cards/56-swords-06.jpg"
+    },
+    {
+      "index": 57,
+      "number": "7",
+      "slug": "swords-07",
+      "title": "SEVEN OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/57-swords-07.txt",
+      "scene": "scenes/swords-07.jpg",
+      "card": "cards/57-swords-07.jpg"
+    },
+    {
+      "index": 58,
+      "number": "8",
+      "slug": "swords-08",
+      "title": "EIGHT OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/58-swords-08.txt",
+      "scene": "scenes/swords-08.jpg",
+      "card": "cards/58-swords-08.jpg"
+    },
+    {
+      "index": 59,
+      "number": "9",
+      "slug": "swords-09",
+      "title": "NINE OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/59-swords-09.txt",
+      "scene": "scenes/swords-09.jpg",
+      "card": "cards/59-swords-09.jpg"
+    },
+    {
+      "index": 60,
+      "number": "10",
+      "slug": "swords-10",
+      "title": "TEN OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/60-swords-10.txt",
+      "scene": "scenes/swords-10.jpg",
+      "card": "cards/60-swords-10.jpg"
+    },
+    {
+      "index": 61,
+      "number": "P",
+      "slug": "swords-page",
+      "title": "PAGE OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/61-swords-page.txt",
+      "scene": "scenes/swords-page.jpg",
+      "card": "cards/61-swords-page.jpg"
+    },
+    {
+      "index": 62,
+      "number": "N",
+      "slug": "swords-knight",
+      "title": "KNIGHT OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/62-swords-knight.txt",
+      "scene": "scenes/swords-knight.jpg",
+      "card": "cards/62-swords-knight.jpg"
+    },
+    {
+      "index": 63,
+      "number": "Q",
+      "slug": "swords-queen",
+      "title": "QUEEN OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/63-swords-queen.txt",
+      "scene": "scenes/swords-queen.jpg",
+      "card": "cards/63-swords-queen.jpg"
+    },
+    {
+      "index": 64,
+      "number": "K",
+      "slug": "swords-king",
+      "title": "KING OF SWORDS",
+      "group": "swords",
+      "prompt": "prompts/64-swords-king.txt",
+      "scene": "scenes/swords-king.jpg",
+      "card": "cards/64-swords-king.jpg"
+    },
+    {
+      "index": 65,
+      "number": "A",
+      "slug": "pentacles-ace",
+      "title": "ACE OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/65-pentacles-ace.txt",
+      "scene": "scenes/pentacles-ace.jpg",
+      "card": "cards/65-pentacles-ace.jpg"
+    },
+    {
+      "index": 66,
+      "number": "2",
+      "slug": "pentacles-02",
+      "title": "TWO OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/66-pentacles-02.txt",
+      "scene": "scenes/pentacles-02.jpg",
+      "card": "cards/66-pentacles-02.jpg"
+    },
+    {
+      "index": 67,
+      "number": "3",
+      "slug": "pentacles-03",
+      "title": "THREE OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/67-pentacles-03.txt",
+      "scene": "scenes/pentacles-03.jpg",
+      "card": "cards/67-pentacles-03.jpg"
+    },
+    {
+      "index": 68,
+      "number": "4",
+      "slug": "pentacles-04",
+      "title": "FOUR OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/68-pentacles-04.txt",
+      "scene": "scenes/pentacles-04.jpg",
+      "card": "cards/68-pentacles-04.jpg"
+    },
+    {
+      "index": 69,
+      "number": "5",
+      "slug": "pentacles-05",
+      "title": "FIVE OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/69-pentacles-05.txt",
+      "scene": "scenes/pentacles-05.jpg",
+      "card": "cards/69-pentacles-05.jpg"
+    },
+    {
+      "index": 70,
+      "number": "6",
+      "slug": "pentacles-06",
+      "title": "SIX OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/70-pentacles-06.txt",
+      "scene": "scenes/pentacles-06.jpg",
+      "card": "cards/70-pentacles-06.jpg"
+    },
+    {
+      "index": 71,
+      "number": "7",
+      "slug": "pentacles-07",
+      "title": "SEVEN OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/71-pentacles-07.txt",
+      "scene": "scenes/pentacles-07.jpg",
+      "card": "cards/71-pentacles-07.jpg"
+    },
+    {
+      "index": 72,
+      "number": "8",
+      "slug": "pentacles-08",
+      "title": "EIGHT OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/72-pentacles-08.txt",
+      "scene": "scenes/pentacles-08.jpg",
+      "card": "cards/72-pentacles-08.jpg"
+    },
+    {
+      "index": 73,
+      "number": "9",
+      "slug": "pentacles-09",
+      "title": "NINE OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/73-pentacles-09.txt",
+      "scene": "scenes/pentacles-09.jpg",
+      "card": "cards/73-pentacles-09.jpg"
+    },
+    {
+      "index": 74,
+      "number": "10",
+      "slug": "pentacles-10",
+      "title": "TEN OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/74-pentacles-10.txt",
+      "scene": "scenes/pentacles-10.jpg",
+      "card": "cards/74-pentacles-10.jpg"
+    },
+    {
+      "index": 75,
+      "number": "P",
+      "slug": "pentacles-page",
+      "title": "PAGE OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/75-pentacles-page.txt",
+      "scene": "scenes/pentacles-page.jpg",
+      "card": "cards/75-pentacles-page.jpg"
+    },
+    {
+      "index": 76,
+      "number": "N",
+      "slug": "pentacles-knight",
+      "title": "KNIGHT OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/76-pentacles-knight.txt",
+      "scene": "scenes/pentacles-knight.jpg",
+      "card": "cards/76-pentacles-knight.jpg"
+    },
+    {
+      "index": 77,
+      "number": "Q",
+      "slug": "pentacles-queen",
+      "title": "QUEEN OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/77-pentacles-queen.txt",
+      "scene": "scenes/pentacles-queen.jpg",
+      "card": "cards/77-pentacles-queen.jpg"
+    },
+    {
+      "index": 78,
+      "number": "K",
+      "slug": "pentacles-king",
+      "title": "KING OF PENTACLES",
+      "group": "pentacles",
+      "prompt": "prompts/78-pentacles-king.txt",
+      "scene": "scenes/pentacles-king.jpg",
+      "card": "cards/78-pentacles-king.jpg"
+    }
+  ]
+}

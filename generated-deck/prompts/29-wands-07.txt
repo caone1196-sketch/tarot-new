@@ -1,0 +1,14 @@
+A single tarot card "SEVEN OF WANDS" built inside the reference frame, matching the EXACT open window display, scale, and lighting style of THE STAR: keep the intricate thin golden line-art border in vintage gothic style and aged parchment background texture.
+
+At the BOTTOM: inside the ribbon banner, the title "SEVEN OF WANDS" in clean antique gold lettering.
+
+In the large open center panel (filling the entire inner window edge to edge and bleeding slightly beneath the golden border, matching the open space of The Star without heavy inner arch barriers):
+a serene young woman standing atop a high crag, draped in a diaphanous transparent silk veil, holding one great wand gently with both hands, six wands rising from below. Character specification: a clearly adult woman, 21 years old, with dark espresso hair falling in soft loose curls; slender, serene and graceful, calm composed stance. COUNT LOCK — exactly seven wands: one held in the young woman's two hands plus six rising from below the cliff edge in front of her — 1 + 6 = 7; the six lower tips evenly spaced along the cliff line, none overlapping
+
+Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth.
+
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+
+Generation locks: use THE MOON as the character and mood reference, and THE STAR plus CARD-BLANK as the deck-layout references. All people are clearly adult women aged 18–25 where a woman is specified; keep one head, one torso, no more than two arms and two legs per person, with naturally connected joints and anatomically correct hands. Keep the scene open and atmospheric, never add a second frame, pillars, or an extra inner arch. Use tasteful classical fine-art drapery or implied nudity only; no explicit sexual detail. Preserve the exact object count and arrangement in the count lock; no extra suit symbols.
+
+For this production pass, render the illustration only in the open center panel. Do not render any text, title, border, frame, ribbon, letterforms, watermark, or logo inside the generated artwork; those are composited from the synchronized deck template after generation.
