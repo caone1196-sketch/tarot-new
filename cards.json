@@ -3,7 +3,7 @@
     "deck": "Sensual Tarot — 78 cards",
     "version": "v2 (count-locked, sensual edition)",
     "refs": [
-      "cards/card-blank.jpg (blank template, position 1)",
+      "card-blank.png (blank template, position 1)",
       "the moon.png (style anchor — inner image & outer border standard, position 2)"
     ],
     "note": "count = null -> emits the 'no suit objects' COUNT LOCK. count.n is a HARD constraint."
