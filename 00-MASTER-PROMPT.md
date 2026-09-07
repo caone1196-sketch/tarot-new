@@ -35,5 +35,5 @@ In the large open center panel (filling the entire inner window edge to edge and
 
 Depth layering: let the scene fill the entire canvas edge to edge. Do not paint any frame, border, corner flourishes, medallion, emblem, icon, banner, or parchment margin over the artwork. The title is the only graphic text and sits directly over the bottom of the scene. Symbols explicitly required inside the card scene remain part of that scene.
 
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, ultra-high detail, razor-sharp microdetail, crisp fine brushwork, no blur or soft focus, high-resolution finish, high pixel density.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, perfectly centered, portrait orientation 7:12 aspect ratio, vintage fine-art illustration, ultra-high detail, razor-sharp microdetail, crisp fine brushwork, no blur or soft focus, high-resolution finish, high pixel density. Minimal wardrobe lock: use only the garments explicitly named in cards.json, with no added armor, costume layers, shoes, or modern clothing.
 ```

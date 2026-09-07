@@ -19,7 +19,7 @@
       "image_file": "cards/01-magician.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: exactly 4 suit objects on the altar. exactly four objects, one of each: one cup, one sword, one wand, one coin — all four resting on the altar table, all four wholly visible, no duplicates, nothing else on the table.",
-      "artwork_status": "generated"
+      "artwork_status": "pending-generation"
     },
     {
       "slug": "02-priestess",
@@ -79,7 +79,7 @@
       "image_file": "cards/07-chariot.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
-      "artwork_status": "generated"
+      "artwork_status": "pending-generation"
     },
     {
       "slug": "08-strength",
@@ -782,6 +782,6 @@
       "artwork_status": "pending-generation"
     }
   ],
-  "artwork_generated_count": 3,
-  "artwork_pending_count": 75
+  "artwork_generated_count": 1,
+  "artwork_pending_count": 77
 }
