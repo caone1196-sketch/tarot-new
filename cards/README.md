@@ -18,24 +18,34 @@ cards/
 └── README.md             # file này
 ```
 
-## ⚠️ Một điểm khác duy nhất so với `03-PROMPTS-78-FULL.md`
+## ⚠️ 3 điểm khác so với `03-PROMPTS-78-FULL.md` (bản v2)
 
-Prompt nguồn của 3 lá đầu mô tả nhân vật **khỏa thân** ("nude", "reveals her bare body").
-Để sinh được trên các công cụ tạo ảnh có bộ lọc an toàn, script `04-AI-GUIDE/make-prompts.py`
-giữ nguyên **toàn bộ** prompt gốc và chỉ thay đúng câu tả trang phục + chèn thêm 1 khối:
+Script `04-AI-GUIDE/make-prompts.py` lấy prompt gốc và áp **đúng 3 chỉnh sửa**:
+
+| # | Sửa gì | Vì sao |
+|---|---|---|
+| 1 | Đoạn "matching … THE MOON reference image" → **STYLE ANCHOR** mô tả phong cách bằng chữ | Dùng `the moon.png` làm ảnh tham chiếu làm model **kéo bối cảnh THE MOON sang lá khác** (tháp đôi, chó/sói, hồ trăng) |
+| 2 | Thêm **Subject lock** + danh sách chống lẫn | Chốt đúng chủ đề, cấm mượn hình ảnh lá khác |
+| 3 | Câu tả trang phục + **Wardrobe lock** | Prompt gốc mô tả khỏa thân rõ ("nude", "reveals her bare body") → đổi sang **lụa mỏng trong suốt dính sát người, da trần vai/lưng/eo** kiểu wet-drapery cổ điển |
 
 ```
-Wardrobe lock (hard rule): elegant fine-art drapery — silk, chiffon and gauze garments
-that follow and outline her form like a classical museum oil painting. No nudity, no
-exposed breasts, nipples, buttocks or genitals, no see-through fabric over intimate
-areas; the figure is tastefully and fully draped at all times.
+Wardrobe lock (hard rule): the sensuality comes from clinging translucent silk, bare
+shoulders, arms, back and midriff, and the pose — in the manner of a classical wet-drapery
+marble sculpture. No explicit nudity: no visible breasts or nipples, no buttocks or genitals,
+no see-through fabric over intimate areas, no sexual acts or overtly sexual posing.
 ```
 
 **5 khóa gốc vẫn giữ nguyên 100%**: FRAMING · SKIN TONE · ANATOMY · COUNT · QUALITY.
-Bố cục, nhân vật (mắt/tóc/da/vóc dáng/nét riêng), đạo cụ và count lock **không đổi**.
+Bố cục, nhân vật (mắt/tóc/da/vóc dáng/nét riêng), đạo cụ, count lock **không đổi** —
+riêng Magician có thêm câu bảo vệ 4 món trên bàn thờ, Priestess bảo vệ 2 cột đá + cuộn giấy + trăng lưỡi liềm.
 
 > Nếu công cụ của bạn cho phép khỏa thân nghệ thuật: xóa khối `Wardrobe lock` và khôi phục
 > câu tả trang phục gốc trong `cards/prompts/<slug>.txt`, rồi sinh lại.
+
+## 📜 Lịch sử
+
+- **v1** (`63b94c4`) — có tham chiếu `the moon.png`, trang phục váy kín → **bị chê: sai tham chiếu, sai chủ đề, sai tạo hình/trang phục**
+- **v2** (hiện tại) — bỏ tham chiếu, thêm Subject lock, trang phục lụa mỏng dính người
 
 ## Sinh thêm lá
 

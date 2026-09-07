@@ -183,8 +183,9 @@ if (!DATA.cards.length) {
 for (const c of DATA.cards) {
   const f = document.createElement('figure');
   const size = c.width ? c.width + '×' + c.height : '';
+  const src = c.file + '?v=' + encodeURIComponent(DATA.generated);
   f.innerHTML =
-    '<div class="frame"><img loading="lazy" src="' + c.file + '" alt="' + c.title_en + '"></div>' +
+    '<div class="frame"><img loading="lazy" src="' + src + '" alt="' + c.title_en + '"></div>' +
     '<figcaption>' +
       '<div class="en">' + c.title_en + '</div>' +
       '<div class="vn">' + c.title_vn + '</div>' +
@@ -198,7 +199,7 @@ for (const c of DATA.cards) {
 
 const lb = document.getElementById('lb');
 function open(c){
-  document.getElementById('lbimg').src = c.file;
+  document.getElementById('lbimg').src = c.file + '?v=' + encodeURIComponent(DATA.generated);
   document.getElementById('lbcap').textContent = c.title_en + ' — ' + c.title_vn;
   lb.classList.add('on');
 }

@@ -58,7 +58,7 @@
 </div></div>
 
 <script>
-const DATA = {"cards": [{"slug": "00-fool", "file": "cards/00-fool.png", "title": "Kẻ Ngây Thơ", "title_en": "THE FOOL", "title_vn": "Kẻ Ngây Thơ", "width": 784, "height": 1360, "scene": "a carefree 19-year-old woman wanderer draped only in a transparent silk veil so fine it clings and reveals her bare body beneath, the veil slipping from one shoulder and streaming behind her, a white rose lifted in one hand and her eyes lowered to look at it, stepping lightly toward a cliff edge, a small white dog leaping at her heel, distant mountains under a golden morning sun", "prompt": "cards/prompts/00-fool.txt"}, {"slug": "01-magician", "file": "cards/01-magician.png", "title": "Pháp Sư", "title_en": "THE MAGICIAN", "title_vn": "Pháp Sư", "width": 784, "height": 1360, "scene": "a nude young woman magician, bare torso with a length of silk slung low across her hips, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her", "prompt": "cards/prompts/01-magician.txt"}, {"slug": "02-priestess", "file": "cards/02-priestess.png", "title": "Nữ Tư Tế", "title_en": "THE HIGH PRIESTESS", "title_vn": "Nữ Tư Tế", "width": 784, "height": 1360, "scene": "a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet", "prompt": "cards/prompts/02-priestess.txt"}], "total": 78, "generated": "2026-09-07 16:10 UTC"};
+const DATA = {"cards": [{"slug": "00-fool", "file": "cards/00-fool.png", "title": "Kẻ Ngây Thơ", "title_en": "THE FOOL", "title_vn": "Kẻ Ngây Thơ", "width": 784, "height": 1360, "scene": "a carefree 19-year-old woman wanderer draped only in a transparent silk veil so fine it clings and reveals her bare body beneath, the veil slipping from one shoulder and streaming behind her, a white rose lifted in one hand and her eyes lowered to look at it, stepping lightly toward a cliff edge, a small white dog leaping at her heel, distant mountains under a golden morning sun", "prompt": "cards/prompts/00-fool.txt"}, {"slug": "01-magician", "file": "cards/01-magician.png", "title": "Pháp Sư", "title_en": "THE MAGICIAN", "title_vn": "Pháp Sư", "width": 784, "height": 1360, "scene": "a nude young woman magician, bare torso with a length of silk slung low across her hips, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her", "prompt": "cards/prompts/01-magician.txt"}, {"slug": "02-priestess", "file": "cards/02-priestess.png", "title": "Nữ Tư Tế", "title_en": "THE HIGH PRIESTESS", "title_vn": "Nữ Tư Tế", "width": 784, "height": 1360, "scene": "a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet", "prompt": "cards/prompts/02-priestess.txt"}], "total": 78, "generated": "2026-09-07 16:19 UTC"};
 const grid = document.getElementById('grid');
 const pct = Math.round(DATA.cards.length / DATA.total * 100);
 document.getElementById('n').textContent = DATA.cards.length;
@@ -72,8 +72,9 @@ if (!DATA.cards.length) {
 for (const c of DATA.cards) {
   const f = document.createElement('figure');
   const size = c.width ? c.width + '×' + c.height : '';
+  const src = c.file + '?v=' + encodeURIComponent(DATA.generated);
   f.innerHTML =
-    '<div class="frame"><img loading="lazy" src="' + c.file + '" alt="' + c.title_en + '"></div>' +
+    '<div class="frame"><img loading="lazy" src="' + src + '" alt="' + c.title_en + '"></div>' +
     '<figcaption>' +
       '<div class="en">' + c.title_en + '</div>' +
       '<div class="vn">' + c.title_vn + '</div>' +
@@ -87,7 +88,7 @@ for (const c of DATA.cards) {
 
 const lb = document.getElementById('lb');
 function open(c){
-  document.getElementById('lbimg').src = c.file;
+  document.getElementById('lbimg').src = c.file + '?v=' + encodeURIComponent(DATA.generated);
   document.getElementById('lbcap').textContent = c.title_en + ' — ' + c.title_vn;
   lb.classList.add('on');
 }
