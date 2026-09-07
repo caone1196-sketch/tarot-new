@@ -1,12 +1,12 @@
 {
   "meta": {
     "deck": "Sensual Tarot — 78 cards",
-    "version": "v3 (count-locked, sensual edition, light-skin lock)",
+    "version": "v4 (full-bleed, count-locked, sensual edition, light-skin lock)",
     "refs": [
       "card-blank.png (blank template, position 1)",
       "the moon.png (style anchor — inner image & outer border standard, position 2)"
     ],
-    "note": "count = null -> emits the 'no suit objects' COUNT LOCK. count.n is a HARD constraint. v3: all scenes pass the light-skin lock (no dark/Black skin tones anywhere); prompt source of truth = 03-PROMPTS-78-FULL.md / prompts-full.json."
+    "note": "count = null -> emits the 'no suit objects' COUNT LOCK. count.n is a HARD constraint. v4: FULL-BLEED — no border, no emblem, no ribbon banner; only the card title remains. All scenes pass the light-skin lock (no dark/Black skin tones anywhere). Prompt source of truth = 03-PROMPTS-78-FULL.md / prompts-full.json."
   },
   "cards": [
     {

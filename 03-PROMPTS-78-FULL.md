@@ -1,12 +1,14 @@
-# 🃏 SENSUAL TAROT — 78 PROMPT HOÀN CHỈNH (FULL-DETAIL EDITION v3)
+# 🃏 SENSUAL TAROT — 78 PROMPT HOÀN CHỈNH (FULL-BLEED EDITION v4)
 
-> Sinh từ `cards.json` + bảng thông số `01-CARD-TABLE.md`, theo **Master Prompt v3** trong `00-MASTER-PROMPT.md`.
+> Sinh từ `cards.json` + bảng thông số `01-CARD-TABLE.md`, theo **Master Prompt v4** trong `00-MASTER-PROMPT.md`.
 >
-> Mỗi prompt là MỘT khối copy-paste được ngay, đã gồm đủ: **khung chuẩn THE MOON · emblem · bối cảnh chi tiết · 
-> thông số nhân vật (tuổi · mắt: màu+dáng+ánh nhìn · tóc · màu da · vóc dáng A–D · nét riêng · không khí) · 
-> SKIN TONE LOCK (toàn bộ nhân vật da sáng, không nhân vật da đen/da sẫm) · ANATOMY LOCK · COUNT LOCK · depth layering**.
+> **KHÔNG khung viền · KHÔNG emblem · KHÔNG ribbon banner** — tranh phủ kín toàn khung hình (full-bleed 4 cạnh), 
+> chỉ giữ lại **TÊN LÁ BÀI** phủ dưới đáy ảnh.
 >
-> **Cách dùng**: đính kèm 2 ảnh tham chiếu — `card-blank.png` (vị trí 1: khung trống) và `the moon.png` (vị trí 2: chuẩn phong cách) — rồi dán prompt của lá cần tạo.
+> Mỗi prompt là MỘT khối copy-paste được ngay, đã gồm đủ: **bối cảnh chi tiết · 8 thông số nhân vật (tuổi · mắt · tóc · da · vóc dáng · nét riêng · không khí) · 
+> FRAMING LOCK · SKIN TONE LOCK · ANATOMY LOCK · COUNT LOCK**.
+>
+> **Cách dùng**: (tùy chọn) đính kèm `the moon.png` làm tham chiếu phong cách ảnh trong — bỏ qua khung viền của nó; không cần `card-blank.png` nữa.
 >
 > 6 lá vật thể thuần (không nhân vật): `wands-ace`, `wands-08`, `cups-ace`, `swords-ace`, `swords-03`, `pentacles-ace`.
 
@@ -18,15 +20,16 @@
 
 ## THE FOOL · `00-fool`
 
-Emblem: a white rose · Count lock: —
+Count lock: — · (emblem không dùng: a white rose)
 
 ```text
-A single tarot card "THE FOOL" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE FOOL": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a white rose — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE FOOL" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE FOOL" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a carefree 19-year-old woman wanderer draped only in a transparent silk veil so fine it clings and reveals her bare body beneath, the veil slipping from one shoulder and streaming behind her, a white rose lifted in one hand and her eyes lowered to look at it, stepping lightly toward a cliff edge, a small white dog leaping at her heel, distant mountains under a golden morning sun.
 
 Main figure — the carefree young wanderer — render exactly as specified: a 19-year-old young woman.
@@ -43,23 +46,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE MAGICIAN · `01-magician`
 
-Emblem: an infinity symbol · Count lock: 4
+Count lock: 4 · (emblem không dùng: an infinity symbol)
 
 ```text
-A single tarot card "THE MAGICIAN" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE MAGICIAN": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — an infinity symbol — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE MAGICIAN" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE MAGICIAN" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a nude young woman magician, bare torso with a length of silk slung low across her hips, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her.
 
 Main figure — the magician — render exactly as specified: a 22-year-old young woman.
@@ -74,25 +76,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly four objects, one of each: one cup, one sword, one wand, one coin — all four resting on the altar table, all four wholly visible, no duplicates, nothing else on the table
+Count lock (hard rule): exactly four objects, one of each: one cup, one sword, one wand, one coin — all four resting on the altar table, all four wholly visible, no duplicates, nothing else on the table.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE HIGH PRIESTESS · `02-priestess`
 
-Emblem: a pomegranate · Count lock: —
+Count lock: — · (emblem không dùng: a pomegranate)
 
 ```text
-A single tarot card "THE HIGH PRIESTESS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE HIGH PRIESTESS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a pomegranate — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE HIGH PRIESTESS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HIGH PRIESTESS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet.
 
 Main figure — the high priestess — render exactly as specified: a 23-year-old young woman.
@@ -109,23 +110,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE EMPRESS · `03-empress`
 
-Emblem: a twelve-star crown · Count lock: —
+Count lock: — · (emblem không dùng: a twelve-star crown)
 
 ```text
-A single tarot card "THE EMPRESS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE EMPRESS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a twelve-star crown — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE EMPRESS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE EMPRESS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a slender nude empress, one breast bared, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her.
 
 Main figure — the empress — render exactly as specified: a 24-year-old young woman.
@@ -142,23 +142,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE EMPEROR · `04-emperor`
 
-Emblem: a ram's head · Count lock: —
+Count lock: — · (emblem không dùng: a ram's head)
 
 ```text
-A single tarot card "THE EMPEROR" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE EMPEROR": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a ram's head — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE EMPEROR" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE EMPEROR" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene 25-year-old female emperor reclining gracefully on a stone throne carved with ram heads, draped only in a diaphanous transparent silk veil so fine it clings to her soft curves and glows with warm light against her skin, the gossamer fabric slipping from one shoulder, holding an ankh scepter loosely in one hand, barren rugged mountains behind her.
 
 Main figure — the female emperor — render exactly as specified: a 25-year-old young woman.
@@ -175,23 +174,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE HIEROPHANT · `05-hierophant`
 
-Emblem: two crossed golden keys · Count lock: —
+Count lock: — · (emblem không dùng: two crossed golden keys)
 
 ```text
-A single tarot card "THE HIEROPHANT" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE HIEROPHANT": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — two crossed golden keys — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE HIEROPHANT" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HIEROPHANT" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene 24-year-old female high mystic priestess draped only in a diaphanous transparent red silk veil so fine it clings to her curves and glows with warm candlelight against her skin, the gossamer-thin fabric slipping from one shoulder, raising one blessing hand, two fair-skinned kneeling female acolytes before her, sacred temple pillars behind.
 
 Main figure — the high mystic priestess — render exactly as specified: a 24-year-old young woman.
@@ -208,23 +206,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE LOVERS · `06-lovers`
 
-Emblem: an apple coiled by a serpent · Count lock: —
+Count lock: — · (emblem không dùng: an apple coiled by a serpent)
 
 ```text
-A single tarot card "THE LOVERS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE LOVERS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — an apple coiled by a serpent — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE LOVERS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE LOVERS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a fair-skinned nude young man and a nude young woman standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer with silk fallen to her hip and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him.
 
 Main figure — the young woman of the pair — render exactly as specified: a 21-year-old young woman.
@@ -241,23 +238,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE CHARIOT · `07-chariot`
 
-Emblem: a winged sun disk · Count lock: —
+Count lock: — · (emblem không dùng: a winged sun disk)
 
 ```text
-A single tarot card "THE CHARIOT" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE CHARIOT": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a winged sun disk — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE CHARIOT" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE CHARIOT" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a heroic bare-shouldered woman charioteer wrapped in loose sheer white silk with no armor, standing tall in a stone chariot between two sphinxes under a starry canopy, a walled city behind her.
 
 Main figure — the charioteer — render exactly as specified: a 22-year-old young woman.
@@ -274,23 +270,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## STRENGTH · `08-strength`
 
-Emblem: a red rose · Count lock: —
+Count lock: — · (emblem không dùng: a red rose)
 
 ```text
-A single tarot card "STRENGTH" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "STRENGTH": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a red rose — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "STRENGTH" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "STRENGTH" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a nude woman garlanded with roses, one knee raised, leaning in close to calmly close the jaws of a great golden lion, her bare back arched and her hip lit by low sun, an infinity sign glowing above her head.
 
 Main figure — the maiden — render exactly as specified: a 23-year-old young woman.
@@ -307,23 +302,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE HERMIT · `09-hermit`
 
-Emblem: a glowing lantern · Count lock: —
+Count lock: — · (emblem không dùng: a glowing lantern)
 
 ```text
-A single tarot card "THE HERMIT" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE HERMIT": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a glowing lantern — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE HERMIT" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HERMIT" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a hermit woman standing on a bare mountain peak under a deep star-filled night sky, holding up a lit lantern with warm golden light pouring out of it, draped only in a loose sheer white silk gauze that slips from her bare shoulders and pools low around her hips, her bare back and the curve of one breast veiled and revealed by the golden lantern light.
 
 Main figure — the hermit — render exactly as specified: a 23-year-old young woman.
@@ -340,23 +334,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## WHEEL OF FORTUNE · `10-wheel`
 
-Emblem: a spoked golden wheel · Count lock: 1
+Count lock: 1 · (emblem không dùng: a spoked golden wheel)
 
 ```text
-A single tarot card "WHEEL OF FORTUNE" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "WHEEL OF FORTUNE": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a spoked golden wheel — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "WHEEL OF FORTUNE" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "WHEEL OF FORTUNE" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a great golden wheel of fortune inscribed with mystic letters, a serene fair-skinned winged female sphinx draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, seated gently atop the wheel holding a single upright sword loosely in one hand, a rising golden serpent on one side and a golden jackal-headed deity on the other, four graceful fair-skinned winged female watchers in flowing transparent silk reclining softly at the four corners.
 
 Main figure — the winged sphinx atop the wheel — render exactly as specified: a 22-year-old young woman.
@@ -371,25 +364,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one sword, held upright by the sphinx on top of the wheel; no other blade anywhere on the card
+Count lock (hard rule): exactly one sword, held upright by the sphinx on top of the wheel; no other blade anywhere on the card.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## JUSTICE · `11-justice`
 
-Emblem: balanced golden scales · Count lock: 1
+Count lock: 1 · (emblem không dùng: balanced golden scales)
 
 ```text
-A single tarot card "JUSTICE" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "JUSTICE": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — balanced golden scales — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "JUSTICE" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "JUSTICE" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a statuesque bare-shouldered queen, a length of sheer silk sliding fully off one shoulder to bare one breast and one hip, a sword upright in one hand and balanced scales in the other, seated on a stone throne between pillars.
 
 Main figure — the queen of justice — render exactly as specified: a 24-year-old young woman.
@@ -404,25 +396,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one sword, held upright in her left hand; no other blade on the card
+Count lock (hard rule): exactly one sword, held upright in her left hand; no other blade on the card.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE HANGED MAN · `12-hanged`
 
-Emblem: an inverted living branch · Count lock: —
+Count lock: — · (emblem không dùng: an inverted living branch)
 
 ```text
-A single tarot card "THE HANGED MAN" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE HANGED MAN": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — an inverted living branch — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE HANGED MAN" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HANGED MAN" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene nude 21-year-old young woman suspended upside-down by one ankle from a living tree shaped like a cross, one leg bent gracefully, a radiant halo of golden light glowing around her head.
 
 Main figure — the suspended maiden — render exactly as specified: a 21-year-old young woman.
@@ -439,23 +430,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## DEATH · `13-death`
 
-Emblem: a five-petaled white rose · Count lock: —
+Count lock: — · (emblem không dùng: a five-petaled white rose)
 
 ```text
-A single tarot card "DEATH" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "DEATH": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a five-petaled white rose — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "DEATH" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "DEATH" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a striking 22-year-old pale female figure draped in sheer black silk that veils and reveals her bare form, riding a calm black charger, holding a black banner adorned with a five-petaled white rose, a golden sunrise glowing between twin distant towers.
 
 Main figure — the pale rider — render exactly as specified: a 22-year-old young woman.
@@ -472,23 +462,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## TEMPERANCE · `14-temperance`
 
-Emblem: a triangle within a square · Count lock: 2
+Count lock: 2 · (emblem không dùng: a triangle within a square)
 
 ```text
-A single tarot card "TEMPERANCE" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "TEMPERANCE": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a triangle within a square — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "TEMPERANCE" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEMPERANCE" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a graceful winged figure with long loosened hair, draped in a diaphanous transparent silk veil, seated gracefully on a mossy stone by the pool with one leg trailing into the water, pouring from a golden chalice tilted high in her raised hand while her other hand holds a second golden chalice positioned directly beneath the upper chalice's lip so that its open mouth catches the falling water, a single smooth unbroken stream of water pouring straight down from the tilted upper chalice and landing inside the lower chalice's bowl, irises blooming around the pool, warm sepia and ochre light.
 
 Main figure — the winged water-pourer — render exactly as specified: a 22-year-old young woman.
@@ -503,25 +492,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly two chalices, one in each hand, both bowls fully visible and un-occluded
+Count lock (hard rule): exactly two chalices, one in each hand, both bowls fully visible and un-occluded.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE DEVIL · `15-devil`
 
-Emblem: an inverted pentagram · Count lock: —
+Count lock: — · (emblem không dùng: an inverted pentagram)
 
 ```text
-A single tarot card "THE DEVIL" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE DEVIL": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — an inverted pentagram — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE DEVIL" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE DEVIL" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a horned winged female arch-devil draped in sheer black silk upon a dark pedestal; beside her two alluring fair-skinned nude young women arched in golden chains, their bodies glowing in candlelit shadow inside an obsidian cavern.
 
 Main figure — the horned arch-devil — render exactly as specified: a 21-year-old young woman.
@@ -538,23 +526,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE TOWER · `16-tower`
 
-Emblem: a jagged lightning bolt · Count lock: —
+Count lock: — · (emblem không dùng: a jagged lightning bolt)
 
 ```text
-A single tarot card "THE TOWER" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE TOWER": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a jagged lightning bolt — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE TOWER" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE TOWER" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a tall stone tower struck by a jagged bolt of lightning, its golden crown toppling in flames, two graceful fair-skinned young women falling through the storm and ash, their bodies illuminated by the brilliant flash.
 
 Main figure — the foremost falling woman — render exactly as specified: a 20-year-old young woman.
@@ -571,23 +558,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE STAR · `17-the-star`
 
-Emblem: an eight-pointed star · Count lock: 2
+Count lock: 2 · (emblem không dùng: an eight-pointed star)
 
 ```text
-A single tarot card "THE STAR" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE STAR": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — an eight-pointed star — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE STAR" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE STAR" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a nude woman standing waist-deep in a clear pool at night, her body arched back and turned three-quarters toward the viewer, wet hair falling down her back, both arms raised pouring water from two jugs, one knee lifted, a great eight-pointed star and seven smaller stars above.
 
 Main figure — the star maiden — render exactly as specified: a 20-year-old young woman.
@@ -602,25 +588,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly two jugs, one in each hand, both fully visible
+Count lock (hard rule): exactly two jugs, one in each hand, both fully visible.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE MOON · `18-moon`
 
-Emblem: a crescent moon dripping dew · Count lock: —
+Count lock: — · (emblem không dùng: a crescent moon dripping dew)
 
 ```text
-A single tarot card "THE MOON" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE MOON": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a crescent moon dripping dew — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE MOON" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE MOON" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a pale moon with a serene face dropping dew, two towers and a winding path, a nude water nymph rising from the dark pool with water streaming over her bare shoulders, a wolf and a dog howling, a crayfish in the water.
 
 Main figure — the water nymph — render exactly as specified: a 21-year-old young woman.
@@ -637,23 +622,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE SUN · `19-sun`
 
-Emblem: a radiant sun face · Count lock: —
+Count lock: — · (emblem không dùng: a radiant sun face)
 
 ```text
-A single tarot card "THE SUN" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE SUN": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a radiant sun face — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE SUN" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE SUN" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a joyful nude young woman with a wreath of red flowers riding a calm white horse, her bare torso turned toward the light, a red banner streaming, a radiant sun with a gentle face, a low sunflower wall.
 
 Main figure — the joyful rider — render exactly as specified: a 19-year-old young woman.
@@ -670,23 +654,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## JUDGEMENT · `20-judgement`
 
-Emblem: a golden trumpet · Count lock: —
+Count lock: — · (emblem không dùng: a golden trumpet)
 
 ```text
-A single tarot card "JUDGEMENT" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "JUDGEMENT": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a golden trumpet — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "JUDGEMENT" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "JUDGEMENT" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene fair-skinned winged female angel draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, gently lifting a golden trumpet with a white banner; below, rising from calm waters, three beautiful fair-skinned young women with softly open arms turning toward the divine light — one ivory-skinned with flowing golden-blonde hair, one warm-toned with dark auburn curls, and one porcelain-skinned with soft raven-black waves — each with a distinct face and figure, each draped in sheer transparent silk.
 
 Main figure — the winged angel — render exactly as specified: a 22-year-old young woman.
@@ -703,23 +686,22 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THE WORLD · `21-world`
 
-Emblem: a laurel wreath oval · Count lock: 2
+Count lock: 2 · (emblem không dùng: a laurel wreath oval)
 
 ```text
-A single tarot card "THE WORLD" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THE WORLD": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a laurel wreath oval — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THE WORLD" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE WORLD" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene adult woman dancer posed gracefully with a gentle curve, one hip softly out and one knee lightly lifted, her body relaxed with her head tilted back, draped only in a diaphanous transparent white silk veil that clings to her soft curves and streams softly behind her, one slim wand held lightly in each hand, dancing within a great oval laurel wreath, a fair-skinned angel, an eagle, a lion and a bull at the corners.
 
 Main figure — the dancing woman — render exactly as specified: a 22-year-old young woman.
@@ -734,11 +716,9 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly two wands, one gripped in each hand, both shafts visible from hand to tip
+Count lock (hard rule): exactly two wands, one gripped in each hand, both shafts visible from hand to tip.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
@@ -749,40 +729,40 @@ Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich a
 
 ## ACE OF WANDS · `wands-ace`
 
-Emblem: one leafy wand · Count lock: 1
+Count lock: 1 · (emblem không dùng: one leafy wand)
 
 ```text
-A single tarot card "ACE OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "ACE OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — one leafy wand — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "ACE OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a graceful feminine divine hand emerging from soft clouds offering a single living sprouting wand, a delicate transparent silk veil fluttering around the wrist, a serene landscape and a distant castle below.
 
 Skin-tone lock (hard rule): every human figure on this card — the main figure and every secondary or background figure (partners, companions, crowds, children) — is light-skinned only, within these ten tones: porcelain, ivory, fair, warm peach, light olive, sand, warm tan, honey, light bronze, amber-gold. No deep bronze, dark-brown or Black skin tones appear anywhere on the card; lighting, shadow and candle glow must never darken skin beyond these tones.
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one wand, sprouting and alive, held by the divine hand; no second staff anywhere, not even in the landscape
+Count lock (hard rule): exactly one wand, sprouting and alive, held by the divine hand; no second staff anywhere, not even in the landscape.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## TWO OF WANDS · `wands-02`
 
-Emblem: two crossed leafy wands · Count lock: 2
+Count lock: 2 · (emblem không dùng: two crossed leafy wands)
 
 ```text
-A single tarot card "TWO OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "TWO OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — two crossed leafy wands — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "TWO OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene noblewoman on a battlement, draped in a diaphanous transparent silk veil slipping from one shoulder, a globe of the world resting in one palm with her eyes lowered to look at it, one wand upright in her other hand, the second wand mounted on the wall behind her.
 
 Main figure — the noblewoman — render exactly as specified: a 22-year-old young woman.
@@ -797,25 +777,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly two wands: one held upright in her right hand, one mounted upright on the stone battlement to her left — 1 + 1 = 2; both shafts complete from base to tip, they do not cross
+Count lock (hard rule): exactly two wands: one held upright in her right hand, one mounted upright on the stone battlement to her left — 1 + 1 = 2; both shafts complete from base to tip, they do not cross.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THREE OF WANDS · `wands-03`
 
-Emblem: three leafy wands in a fan · Count lock: 3
+Count lock: 3 · (emblem không dùng: three leafy wands in a fan)
 
 ```text
-A single tarot card "THREE OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THREE OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — three leafy wands in a fan — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THREE OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene woman merchant seen from behind on a high rocky headland, standing tall with her long back line turned to us, draped only in a diaphanous transparent silk veil that clings and reveals her soft curves and streams in the sea wind, one hand resting high on the staff beside her and the other raised to shade her eyes as she gazes far out to sea, three staves planted upright in a row around her, sailing ships on a golden sea.
 
 Main figure — the woman merchant — render exactly as specified: a 23-year-old young woman.
@@ -830,25 +809,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly three wands planted upright in one straight diagonal row across the foreground, evenly spaced and widely separated, all three tips clear of the horizon, none overlapping or crossing — count them left to right: 1, 2, 3
+Count lock (hard rule): exactly three wands planted upright in one straight diagonal row across the foreground, evenly spaced and widely separated, all three tips clear of the horizon, none overlapping or crossing — count them left to right: 1, 2, 3.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## FOUR OF WANDS · `wands-04`
 
-Emblem: four wands with a garland · Count lock: 4
+Count lock: 4 · (emblem không dùng: four wands with a garland)
 
 ```text
-A single tarot card "FOUR OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "FOUR OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — four wands with a garland — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "FOUR OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 four garlanded wands forming a festive canopy, two graceful young women dancing gently beneath it, both draped in diaphanous transparent silk veils and both fair-skinned — the foremost light-olive-skinned with blue-black hair piled high in a floral-pinned braided updo, the other rosy ivory-skinned with deep auburn ringlets — each with a distinct face and figure — a manor beyond.
 
 Main figure — the foremost dancer — render exactly as specified: a 20-year-old young woman.
@@ -863,25 +841,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly four wands as the four corner posts of a canopy — two on the left, two on the right — 2 + 2 = 4; draw the two rear posts slightly taller than the two front posts so no post is hidden behind another; all four shafts fully visible from ground to tip, their tops joined by one flower garland
+Count lock (hard rule): exactly four wands as the four corner posts of a canopy — two on the left, two on the right — 2 + 2 = 4; draw the two rear posts slightly taller than the two front posts so no post is hidden behind another; all four shafts fully visible from ground to tip, their tops joined by one flower garland.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## FIVE OF WANDS · `wands-05`
 
-Emblem: five wands crossed in a star · Count lock: 5
+Count lock: 5 · (emblem không dùng: five wands crossed in a star)
 
 ```text
-A single tarot card "FIVE OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "FIVE OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — five wands crossed in a star — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "FIVE OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 five graceful young women draped in diaphanous transparent silk veils standing in a loose circle in a soft meadow, every one fair-skinned — the central woman sand-toned with a short tousled copper-brown bob, and around her four companions: one porcelain-skinned with long platinum-blonde hair, one rosy ivory-skinned with copper-red waves, one warm ivory-skinned with deep chocolate-brown hair, one fair-skinned with raven-black straight hair — each holding exactly one wand planted upright beside her.
 
 Main figure — the central woman — render exactly as specified: a 21-year-old young woman.
@@ -896,25 +873,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly five wands in total, exactly one gripped in each of the five women's hands — five women, five wands, one wand per woman, nobody holds two, no extra wand on the ground, no wand leaning anywhere, no wand in the background — count the wands: 1, 2, 3, 4, 5 and no more
+Count lock (hard rule): exactly five wands in total, exactly one gripped in each of the five women's hands — five women, five wands, one wand per woman, nobody holds two, no extra wand on the ground, no wand leaning anywhere, no wand in the background — count the wands: 1, 2, 3, 4, 5 and no more.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## SIX OF WANDS · `wands-06`
 
-Emblem: six slender wands standing side by side in one neat row, one of them crowned with a small laurel wreath — exactly six shafts, no more and no fewer · Count lock: 6
+Count lock: 6 · (emblem không dùng: six slender wands standing side by side in one neat row, one of them crowned with a small laurel wreath — exactly six shafts, no more and no fewer)
 
 ```text
-A single tarot card "SIX OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "SIX OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — six slender wands standing side by side in one neat row, one of them crowned with a small laurel wreath — exactly six shafts, no more and no fewer — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "SIX OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene woman on a white horse, draped in a diaphanous transparent silk veil, a laurel wreath on her brow, one crowned wand raised gently in her hand, five fair-skinned admirers behind her each holding one wand.
 
 Main figure — the crowned heroine — render exactly as specified: a 22-year-old young woman.
@@ -929,25 +905,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly six wands: one laurel-crowned wand raised in the heroine's hand plus five held by the five followers behind her — 1 + 5 = 6; each follower holds their wand upright and well above shoulder height so all five are separately countable against the sky, no wand resting on a shoulder
+Count lock (hard rule): exactly six wands: one laurel-crowned wand raised in the heroine's hand plus five held by the five followers behind her — 1 + 5 = 6; each follower holds their wand upright and well above shoulder height so all five are separately countable against the sky, no wand resting on a shoulder.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## SEVEN OF WANDS · `wands-07`
 
-Emblem: seven wands in a palisade · Count lock: 7
+Count lock: 7 · (emblem không dùng: seven wands in a palisade)
 
 ```text
-A single tarot card "SEVEN OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "SEVEN OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — seven wands in a palisade — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "SEVEN OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene young woman standing atop a high crag, draped in a diaphanous transparent silk veil, holding one great wand gently with both hands, six wands rising from below.
 
 Main figure — the young woman on the crag — render exactly as specified: a 21-year-old young woman.
@@ -962,50 +937,48 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly seven wands: one held in the young woman's two hands plus six rising from below the cliff edge in front of her — 1 + 6 = 7; the six lower tips evenly spaced along the cliff line, none overlapping
+Count lock (hard rule): exactly seven wands: one held in the young woman's two hands plus six rising from below the cliff edge in front of her — 1 + 6 = 7; the six lower tips evenly spaced along the cliff line, none overlapping.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## EIGHT OF WANDS · `wands-08`
 
-Emblem: eight parallel wands · Count lock: 8
+Count lock: 8 · (emblem không dùng: eight parallel wands)
 
 ```text
-A single tarot card "EIGHT OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "EIGHT OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — eight parallel wands — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "EIGHT OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 eight wands with leaf tips drifting in one parallel diagonal row across a soft open sky toward a river town below.
 
 Skin-tone lock (hard rule): every human figure on this card — the main figure and every secondary or background figure (partners, companions, crowds, children) — is light-skinned only, within these ten tones: porcelain, ivory, fair, warm peach, light olive, sand, warm tan, honey, light bronze, amber-gold. No deep bronze, dark-brown or Black skin tones appear anywhere on the card; lighting, shadow and candle glow must never darken skin beyond these tones.
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly eight wands in ONE single parallel diagonal row across the open sky — 1 row of 8, evenly spaced, all eight pointing the same way, none crossing, none cropped by the frame
+Count lock (hard rule): exactly eight wands in ONE single parallel diagonal row across the open sky — 1 row of 8, evenly spaced, all eight pointing the same way, none crossing, none cropped by the frame.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## NINE OF WANDS · `wands-09`
 
-Emblem: nine wands in a rampart row · Count lock: 9
+Count lock: 9 · (emblem không dùng: nine wands in a rampart row)
 
 ```text
-A single tarot card "NINE OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "NINE OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — nine wands in a rampart row — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "NINE OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene young woman draped in a diaphanous transparent silk veil, gently resting her hands on one standing wand, eight wands upright behind her like a palisade.
 
 Main figure — the young woman by the palisade — render exactly as specified: a 24-year-old young woman.
@@ -1020,25 +993,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly nine wands: eight planted upright in one straight palisade row BEHIND her, evenly spaced and clear of her body, plus the one she holds in front of her — 8 + 1 = 9; all nine countable against open sky
+Count lock (hard rule): exactly nine wands: eight planted upright in one straight palisade row BEHIND her, evenly spaced and clear of her body, plus the one she holds in front of her — 8 + 1 = 9; all nine countable against open sky.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## TEN OF WANDS · `wands-10`
 
-Emblem: ten wands in a bundle · Count lock: 10
+Count lock: 10 · (emblem không dùng: ten wands in a bundle)
 
 ```text
-A single tarot card "TEN OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "TEN OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — ten wands in a bundle — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "TEN OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene 23-year-old woman reclining gracefully on soft grass, nude but for a sheer transparent silk veil draped across her form, resting beside a boulder; leaning against the boulder behind her is one natural bundle of ten long wooden wands tied loosely at the middle with a thin cord, their upper ends spreading apart in a natural fan like an open hand fan, every wand the same length and thickness, evenly spaced with a clear gap of sky between each shaft, all ten tips clearly separated and countable, the lower ends gathered together in the grass, none crossing, none hidden, a distant sunlit castle beyond.
 
 Main figure — the reclining woman — render exactly as specified: a 23-year-old young woman.
@@ -1053,25 +1025,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly ten wands in one natural bundle tied at the middle — count the ten tips of the fan: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; no nine, no eleven
+Count lock (hard rule): exactly ten wands in one natural bundle tied at the middle — count the ten tips of the fan: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; no nine, no eleven.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## PAGE OF WANDS · `wands-page`
 
-Emblem: a wand with a feather plume · Count lock: 1
+Count lock: 1 · (emblem không dùng: a wand with a feather plume)
 
 ```text
-A single tarot card "PAGE OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "PAGE OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a wand with a feather plume — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "PAGE OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene adult woman page standing farther back in the landscape so her whole figure sits smaller within the wide desert vista, draped in a diaphanous transparent silk veil sliding off one shoulder, holding one living wand, desert dunes and pyramids behind her.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
@@ -1086,25 +1057,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one living wand; no second staff, no decorative staffs in the dunes
+Count lock (hard rule): exactly one living wand; no second staff, no decorative staffs in the dunes.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## KNIGHT OF WANDS · `wands-knight`
 
-Emblem: a wand over a horse · Count lock: 1
+Count lock: 1 · (emblem không dùng: a wand over a horse)
 
 ```text
-A single tarot card "KNIGHT OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "KNIGHT OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a wand over a horse — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "KNIGHT OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene 22-year-old female knight, nearly bare with only a wisp of sheer transparent silk draped across her form, riding a calm pure-white horse trotting forward, holding one flourishing living wand out before her, a golden meadow and distant hills behind.
 
 Main figure — the knight — render exactly as specified: a 22-year-old young woman.
@@ -1119,25 +1089,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one wand, raised gently in her hand; no other staff
+Count lock (hard rule): exactly one wand, raised gently in her hand; no other staff.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## QUEEN OF WANDS · `wands-queen`
 
-Emblem: a sunflower wand between two flames · Count lock: 1
+Count lock: 1 · (emblem không dùng: a sunflower wand between two flames)
 
 ```text
-A single tarot card "QUEEN OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "QUEEN OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a sunflower wand between two flames — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "QUEEN OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene queen with dark loosened hair on a lion-carved throne, draped only in a diaphanous transparent silk veil that clings to her soft curves, one sunflower wand held gently in her hand, a black cat at her feet, her throne set at the edge of a bright spring birch grove — slender white birch trunks, soft green undergrowth and a carpet of wildflowers and sunflowers, dappled sunlight filtering through young leaves.
 
 Main figure — the queen — render exactly as specified: a 24-year-old young woman.
@@ -1152,25 +1121,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one sunflower wand; no other staff
+Count lock (hard rule): exactly one sunflower wand; no other staff.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## KING OF WANDS · `wands-king`
 
-Emblem: a flaming wand rising from a lion head · Count lock: 1
+Count lock: 1 · (emblem không dùng: a flaming wand rising from a lion head)
 
 ```text
-A single tarot card "KING OF WANDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "KING OF WANDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a flaming wand rising from a lion head — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "KING OF WANDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene 25-year-old female sovereign with a lion-carved crown seated on a flame-carved throne, draped in a diaphanous transparent silk veil, holding one blossoming wand gently in her hand, her throne set in a clearing of a majestic ancient oak forest — towering dark oak trunks with warm golden sunlight streaming down through the dense canopy, shafts of amber light and drifting golden embers between the trees.
 
 Main figure — the sovereign — render exactly as specified: a 25-year-old young woman.
@@ -1185,11 +1153,9 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one living green wand; no other staff
+Count lock (hard rule): exactly one living green wand; no other staff.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
@@ -1200,40 +1166,40 @@ Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich a
 
 ## ACE OF CUPS · `cups-ace`
 
-Emblem: one overflowing chalice · Count lock: 1
+Count lock: 1 · (emblem không dùng: one overflowing chalice)
 
 ```text
-A single tarot card "ACE OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "ACE OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — one overflowing chalice — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "ACE OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a divine hand offering one ornate chalice, a dove descending, five streams overflowing into a pool of lilies.
 
 Skin-tone lock (hard rule): every human figure on this card — the main figure and every secondary or background figure (partners, companions, crowds, children) — is light-skinned only, within these ten tones: porcelain, ivory, fair, warm peach, light olive, sand, warm tan, honey, light bronze, amber-gold. No deep bronze, dark-brown or Black skin tones appear anywhere on the card; lighting, shadow and candle glow must never darken skin beyond these tones.
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one chalice; the five overflowing streams are water, not cups — do not draw extra chalices in the pool
+Count lock (hard rule): exactly one chalice; the five overflowing streams are water, not cups — do not draw extra chalices in the pool.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## TWO OF CUPS · `cups-02`
 
-Emblem: two interlocked rings · Count lock: 2
+Count lock: 2 · (emblem không dùng: two interlocked rings)
 
 ```text
-A single tarot card "TWO OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "TWO OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — two interlocked rings — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "TWO OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a nude young woman and a fair-skinned nude young man facing one another, her body turned three-quarters toward the viewer with one arm across her breast, each raising one chalice in a toast, a caduceus with a lion head above them.
 
 Main figure — the young woman of the pair — render exactly as specified: a 21-year-old young woman.
@@ -1248,25 +1214,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly two chalices, one raised in each lover's hand, one on the left and one on the right, both bowls fully visible and not overlapping — no third cup
+Count lock (hard rule): exactly two chalices, one raised in each lover's hand, one on the left and one on the right, both bowls fully visible and not overlapping — no third cup.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THREE OF CUPS · `cups-03`
 
-Emblem: three chalices in a triangle · Count lock: 3
+Count lock: 3 · (emblem không dùng: three chalices in a triangle)
 
 ```text
-A single tarot card "THREE OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THREE OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — three chalices in a triangle — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THREE OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 three nude maidens with flower wreaths dancing in a circle, their bodies turned to the light, each raising one chalice, fruits on the ground.
 
 Main figure — the three maidens — render exactly as specified: three young women of 20, each with a distinct face and figure.
@@ -1281,25 +1246,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly three chalices — one raised by each of the three maidens, three dancers and three cups, one per figure; all three bowls held above shoulder height and countable
+Count lock (hard rule): exactly three chalices — one raised by each of the three maidens, three dancers and three cups, one per figure; all three bowls held above shoulder height and countable.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## FOUR OF CUPS · `cups-04`
 
-Emblem: three chalices and one offered · Count lock: 4
+Count lock: 4 · (emblem không dùng: three chalices and one offered)
 
 ```text
-A single tarot card "FOUR OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "FOUR OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — three chalices and one offered — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "FOUR OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a contemplative young woman seated beneath a tree, arms crossed, regarding three cups on the grass while a celestial hand offers a fourth cup from a cloud.
 
 Main figure — the contemplative young woman — render exactly as specified: a 22-year-old young woman.
@@ -1314,25 +1278,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly four chalices: three standing upright in a row on the grass in front of him, evenly spaced, plus the one offered by the hand from the cloud — 3 + 1 = 4; all four bowls visible
+Count lock (hard rule): exactly four chalices: three standing upright in a row on the grass in front of him, evenly spaced, plus the one offered by the hand from the cloud — 3 + 1 = 4; all four bowls visible.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## FIVE OF CUPS · `cups-05`
 
-Emblem: three spilled, two standing · Count lock: 5
+Count lock: 5 · (emblem không dùng: three spilled, two standing)
 
 ```text
-A single tarot card "FIVE OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "FIVE OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — three spilled, two standing — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "FIVE OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a graceful adult woman in a dark cloak slipping off one bare shoulder, standing bowed with her back to the light by the river, three spilled chalices lying emptied and overturned in the foreground at her feet, two full chalices still standing upright on the bank behind her.
 
 Main figure — the mourning woman — render exactly as specified: a 22-year-old young woman.
@@ -1347,25 +1310,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly five chalices: three spilled and empty lying in the foreground plus two still upright and full standing on the bank behind him — 3 + 2 = 5; all five bowls countable, none hidden behind his cloak
+Count lock (hard rule): exactly five chalices: three spilled and empty lying in the foreground plus two still upright and full standing on the bank behind him — 3 + 2 = 5; all five bowls countable, none hidden behind his cloak.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## SIX OF CUPS · `cups-06`
 
-Emblem: six chalices with flowers · Count lock: 6
+Count lock: 6 · (emblem không dùng: six chalices with flowers)
 
 ```text
-A single tarot card "SIX OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "SIX OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — six chalices with flowers — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "SIX OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 two graceful young women in sheer summer dresses in an old courtyard garden, exchanging one flower-filled chalice, five more set along the wall behind them.
 
 Main figure — the young woman with the chalice — render exactly as specified: a 19-year-old young woman.
@@ -1380,25 +1342,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly six chalices, each filled with flowers: one being passed between their hands plus five standing in a row along the courtyard wall behind them — 1 + 5 = 6; all six bowls separate and countable
+Count lock (hard rule): exactly six chalices, each filled with flowers: one being passed between their hands plus five standing in a row along the courtyard wall behind them — 1 + 5 = 6; all six bowls separate and countable.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## SEVEN OF CUPS · `cups-07`
 
-Emblem: seven chalices on a cloud · Count lock: 7
+Count lock: 7 · (emblem không dùng: seven chalices on a cloud)
 
 ```text
-A single tarot card "SEVEN OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "SEVEN OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — seven chalices on a cloud — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "SEVEN OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a mesmerized young woman seen from behind, marveling at seven floating cups within glowing clouds containing mystical treasures.
 
 Main figure — the mesmerized young woman — render exactly as specified: a 21-year-old young woman.
@@ -1413,25 +1374,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly seven chalices on ONE luminous cloud, arranged as two clean rows: 4 on the lower row and 3 on the upper row — 4 + 3 = 7; evenly spaced against open sky, each bowl separate and un-occluded
+Count lock (hard rule): exactly seven chalices on ONE luminous cloud, arranged as two clean rows: 4 on the lower row and 3 on the upper row — 4 + 3 = 7; evenly spaced against open sky, each bowl separate and un-occluded.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## EIGHT OF CUPS · `cups-08`
 
-Emblem: eight chalices stacked · Count lock: 8
+Count lock: 8 · (emblem không dùng: eight chalices stacked)
 
 ```text
-A single tarot card "EIGHT OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "EIGHT OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — eight chalices stacked — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "EIGHT OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a solitary young woman in a deep crimson cloak walking away with a staff, leaving eight stacked cups behind to journey toward misty moonlit peaks.
 
 Main figure — the wanderer — render exactly as specified: a 23-year-old young woman.
@@ -1446,25 +1406,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly eight chalices stacked on the rocky ledge as 3 + 3 + 2, with one clearly empty gap between the sixth and the seventh — 3 + 3 + 2 = 8; all eight bowls countable, none cropped by the frame
+Count lock (hard rule): exactly eight chalices stacked on the rocky ledge as 3 + 3 + 2, with one clearly empty gap between the sixth and the seventh — 3 + 3 + 2 = 8; all eight bowls countable, none cropped by the frame.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## NINE OF CUPS · `cups-09`
 
-Emblem: nine chalices in an arc · Count lock: 9
+Count lock: 9 · (emblem không dùng: nine chalices in an arc)
 
 ```text
-A single tarot card "NINE OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "NINE OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — nine chalices in an arc — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "NINE OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a content adult woman with bare shoulders seated at a banquet table, silk slipping from one shoulder, before nine golden chalices proudly arranged in a neat grid on a shelf behind her.
 
 Main figure — the contented woman — render exactly as specified: a 24-year-old young woman.
@@ -1479,25 +1438,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly nine chalices on the shelf behind him as a neat 3 x 3 grid — three rows of three, 3 + 3 + 3 = 9; evenly spaced, all nine bowls fully visible
+Count lock (hard rule): exactly nine chalices on the shelf behind him as a neat 3 x 3 grid — three rows of three, 3 + 3 + 3 = 9; evenly spaced, all nine bowls fully visible.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## TEN OF CUPS · `cups-10`
 
-Emblem: ten chalices under a rainbow · Count lock: 10
+Count lock: 10 · (emblem không dùng: ten chalices under a rainbow)
 
 ```text
-A single tarot card "TEN OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "TEN OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — ten chalices under a rainbow — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "TEN OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a blissful fair-skinned couple embracing in a meadow, she in slipping silk with one bare shoulder and the long line of her back to the light, his arms around her waist, ten chalices along a rainbow arc, a cottage and fair-skinned dancing children beyond.
 
 Main figure — the woman of the couple — render exactly as specified: a 22-year-old young woman.
@@ -1512,25 +1470,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly ten chalices along ONE rainbow arc — 4 on the left half, 4 on the right half, 2 at the apex — 4 + 4 + 2 = 10; evenly spaced against open sky, all ten bowls countable
+Count lock (hard rule): exactly ten chalices along ONE rainbow arc — 4 on the left half, 4 on the right half, 2 at the apex — 4 + 4 + 2 = 10; evenly spaced against open sky, all ten bowls countable.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## PAGE OF CUPS · `cups-page`
 
-Emblem: a chalice with a fish · Count lock: 1
+Count lock: 1 · (emblem không dùng: a chalice with a fish)
 
 ```text
-A single tarot card "PAGE OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "PAGE OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a chalice with a fish — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "PAGE OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a graceful young woman page by the sea in an open robe sliding off one shoulder, holding one chalice from which a curious fish looks out.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
@@ -1545,25 +1502,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one chalice; no other cup anywhere in the scene
+Count lock (hard rule): exactly one chalice; no other cup anywhere in the scene.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## KNIGHT OF CUPS · `cups-knight`
 
-Emblem: a chalice on a horseshoe · Count lock: 1
+Count lock: 1 · (emblem không dùng: a chalice on a horseshoe)
 
 ```text
-A single tarot card "KNIGHT OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "KNIGHT OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a chalice on a horseshoe — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "KNIGHT OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a graceful 22-year-old female knight in winged silver armor riding a calm white steed beside a stream, extending a golden chalice of peace.
 
 Main figure — the knight — render exactly as specified: a 22-year-old young woman.
@@ -1578,25 +1534,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one golden chalice; no other cup
+Count lock (hard rule): exactly one golden chalice; no other cup.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## QUEEN OF CUPS · `cups-queen`
 
-Emblem: a lidded chalice between waves · Count lock: 1
+Count lock: 1 · (emblem không dùng: a lidded chalice between waves)
 
 ```text
-A single tarot card "QUEEN OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "QUEEN OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a lidded chalice between waves — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "QUEEN OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a youthful adult queen seated on a shell throne at the water's edge, her shoulders bare beneath wet platinum-blonde hair, wearing a gown of antique WHITE SILK GAUZE so sheer and transparent that the light shines through it and the long line of her body reads clearly beneath, holding one lidded golden chalice in her lap, sea foam and breaking waves behind her.
 
 Main figure — the queen — render exactly as specified: a 23-year-old young woman.
@@ -1611,25 +1566,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one lidded golden chalice; no other cup
+Count lock (hard rule): exactly one lidded golden chalice; no other cup.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## KING OF CUPS · `cups-king`
 
-Emblem: a chalice between two fish · Count lock: 1
+Count lock: 1 · (emblem không dùng: a chalice between two fish)
 
 ```text
-A single tarot card "KING OF CUPS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "KING OF CUPS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a chalice between two fish — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "KING OF CUPS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a serene 25-year-old oceanic queen on a throne floating upon rolling waves, holding a lotus scepter and a golden cup, a dolphin leaping in the distance.
 
 Main figure — the oceanic queen — render exactly as specified: a 25-year-old young woman.
@@ -1644,11 +1598,9 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one chalice; no other cup
+Count lock (hard rule): exactly one chalice; no other cup.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
@@ -1659,40 +1611,40 @@ Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich a
 
 ## ACE OF SWORDS · `swords-ace`
 
-Emblem: one upright sword with a crown · Count lock: 1
+Count lock: 1 · (emblem không dùng: one upright sword with a crown)
 
 ```text
-A single tarot card "ACE OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "ACE OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — one upright sword with a crown — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "ACE OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a divine hand grasping one upright sword, a jeweled crown hovering at its tip, barren peaks below.
 
 Skin-tone lock (hard rule): every human figure on this card — the main figure and every secondary or background figure (partners, companions, crowds, children) — is light-skinned only, within these ten tones: porcelain, ivory, fair, warm peach, light olive, sand, warm tan, honey, light bronze, amber-gold. No deep bronze, dark-brown or Black skin tones appear anywhere on the card; lighting, shadow and candle glow must never darken skin beyond these tones.
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one sword, upright in the divine hand; no second blade anywhere
+Count lock (hard rule): exactly one sword, upright in the divine hand; no second blade anywhere.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## TWO OF SWORDS · `swords-02`
 
-Emblem: two crossed swords · Count lock: 2
+Count lock: 2 · (emblem không dùng: two crossed swords)
 
 ```text
-A single tarot card "TWO OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "TWO OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — two crossed swords — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "TWO OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a blindfolded adult woman in a very thin veil of antique silk gauze, almost transparent, her shoulders bare, seated on a stone seat by the sea, two long swords crossed over her chest, the moon rising behind her.
 
 Main figure — the blindfolded woman — render exactly as specified: a 21-year-old young woman.
@@ -1707,50 +1659,48 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly two long blades forming a single X across her chest, one over each shoulder; no third blade, no dagger at her belt
+Count lock (hard rule): exactly two long blades forming a single X across her chest, one over each shoulder; no third blade, no dagger at her belt.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THREE OF SWORDS · `swords-03`
 
-Emblem: three swords through a heart · Count lock: 3
+Count lock: 3 · (emblem không dùng: three swords through a heart)
 
 ```text
-A single tarot card "THREE OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THREE OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — three swords through a heart — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THREE OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a large anatomical heart pierced by three swords, rain and storm clouds behind.
 
 Skin-tone lock (hard rule): every human figure on this card — the main figure and every secondary or background figure (partners, companions, crowds, children) — is light-skinned only, within these ten tones: porcelain, ivory, fair, warm peach, light olive, sand, warm tan, honey, light bronze, amber-gold. No deep bronze, dark-brown or Black skin tones appear anywhere on the card; lighting, shadow and candle glow must never darken skin beyond these tones.
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly three swords through one heart — one vertical from above and two angled from the left and right; three separate hilts clearly countable against the storm sky, 1, 2, 3
+Count lock (hard rule): exactly three swords through one heart — one vertical from above and two angled from the left and right; three separate hilts clearly countable against the storm sky, 1, 2, 3.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## FOUR OF SWORDS · `swords-04`
 
-Emblem: three swords on a wall, one below · Count lock: 4
+Count lock: 4 · (emblem không dùng: three swords on a wall, one below)
 
 ```text
-A single tarot card "FOUR OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "FOUR OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — three swords on a wall, one below — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "FOUR OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a graceful adult woman in a flowing antique gown lying at rest on a stone tomb in a chapel, her hands folded, three swords mounted on the wall above her and one lying beneath her, a stained-glass window behind.
 
 Main figure — the resting woman — render exactly as specified: a 22-year-old young woman.
@@ -1765,25 +1715,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly four swords: three mounted horizontally on the wall above him, stacked in a row of 3, plus one lying flat on the tomb slab beneath him — 3 + 1 = 4; all four blades complete and countable
+Count lock (hard rule): exactly four swords: three mounted horizontally on the wall above him, stacked in a row of 3, plus one lying flat on the tomb slab beneath him — 3 + 1 = 4; all four blades complete and countable.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## FIVE OF SWORDS · `swords-05`
 
-Emblem: five swords, two discarded · Count lock: 5
+Count lock: 5 · (emblem không dùng: five swords, two discarded)
 
 ```text
-A single tarot card "FIVE OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "FIVE OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — five swords, two discarded — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "FIVE OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a confident young woman holding three swords over her shoulder and watching two retreating female companions on a stormy coastline, two swords lying in the sand.
 
 Main figure — the confident victor — render exactly as specified: a 22-year-old young woman.
@@ -1798,25 +1747,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly five swords: three gathered in the victor's hands, held upright and fanned so all three hilts are separate, plus two lying abandoned in the sand behind him — 3 + 2 = 5
+Count lock (hard rule): exactly five swords: three gathered in the victor's hands, held upright and fanned so all three hilts are separate, plus two lying abandoned in the sand behind him — 3 + 2 = 5.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## SIX OF SWORDS · `swords-06`
 
-Emblem: six swords in a boat · Count lock: 6
+Count lock: 6 · (emblem không dùng: six swords in a boat)
 
 ```text
-A single tarot card "SIX OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "SIX OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — six swords in a boat — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "SIX OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a cloaked woman and a fair-skinned child being poled across a river by a fair-skinned ferryman, six swords upright along the boat.
 
 Main figure — the cloaked passenger — render exactly as specified: a 21-year-old young woman.
@@ -1831,25 +1779,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly six swords standing upright in the boat — three on the left of the passengers and three on the right, 3 + 3 = 6; evenly spaced, all six hilts above the gunwale, none crossing the figures
+Count lock (hard rule): exactly six swords standing upright in the boat — three on the left of the passengers and three on the right, 3 + 3 = 6; evenly spaced, all six hilts above the gunwale, none crossing the figures.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## SEVEN OF SWORDS · `swords-07`
 
-Emblem: seven swords, two left behind · Count lock: 7
+Count lock: 7 · (emblem không dùng: seven swords, two left behind)
 
 ```text
-A single tarot card "SEVEN OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "SEVEN OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — seven swords, two left behind — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "SEVEN OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a nimble young woman stealthily carrying five swords in her arms while looking back at a military encampment where two swords remain upright.
 
 Main figure — the nimble thief — render exactly as specified: a 20-year-old young woman.
@@ -1864,25 +1811,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): five swords carried in his arms, held upright and fanned apart so that there are FOUR GAPS of clear sky between the five hilts — five hilts, four gaps — plus TWO swords planted upright in the grass behind him with ONE WIDE GAP of bare grass between them — two swords, one gap; 5 + 2 = 7. THIS CARD HAS ALREADY FAILED ONCE BY SHOWING NINE SWORDS: the usual mistake is drawing FOUR swords planted in the grass instead of two. Plant exactly TWO in the grass, never four, and count them: 1, 2
+Count lock (hard rule): five swords carried in his arms, held upright and fanned apart so that there are FOUR GAPS of clear sky between the five hilts — five hilts, four gaps — plus TWO swords planted upright in the grass behind him with ONE WIDE GAP of bare grass between them — two swords, one gap; 5 + 2 = 7. THIS CARD HAS ALREADY FAILED ONCE BY SHOWING NINE SWORDS: the usual mistake is drawing FOUR swords planted in the grass instead of two. Plant exactly TWO in the grass, never four, and count them: 1, 2.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## EIGHT OF SWORDS · `swords-08`
 
-Emblem: eight swords in a ring · Count lock: 8
+Count lock: 8 · (emblem không dùng: eight swords in a ring)
 
 ```text
-A single tarot card "EIGHT OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "EIGHT OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — eight swords in a ring — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "EIGHT OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a blindfolded woman in a flowing gown loosened from one shoulder and loosely bound, standing in a ring of eight swords, a fortress on the cliff behind.
 
 Main figure — the bound woman — render exactly as specified: a 20-year-old young woman.
@@ -1897,25 +1843,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): eight swords planted in one open ring around her — THREE in front of her with two gaps between them, ONE at her left side, ONE at her right side, THREE behind her with two gaps between them; 3 + 1 + 1 + 3 = 8. Walk the ring and count the eight gaps of bare ground between neighbours: 1, 2, 3, 4, 5, 6, 7, 8. THIS CARD HAS ALREADY FAILED ONCE BY SHOWING NINE SWORDS: the usual mistake is adding one extra sword to the group behind her. Keep the group behind her at exactly THREE
+Count lock (hard rule): eight swords planted in one open ring around her — THREE in front of her with two gaps between them, ONE at her left side, ONE at her right side, THREE behind her with two gaps between them; 3 + 1 + 1 + 3 = 8. Walk the ring and count the eight gaps of bare ground between neighbours: 1, 2, 3, 4, 5, 6, 7, 8. THIS CARD HAS ALREADY FAILED ONCE BY SHOWING NINE SWORDS: the usual mistake is adding one extra sword to the group behind her. Keep the group behind her at exactly THREE.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## NINE OF SWORDS · `swords-09`
 
-Emblem: nine swords on a wall · Count lock: 9
+Count lock: 9 · (emblem không dùng: nine swords on a wall)
 
 ```text
-A single tarot card "NINE OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "NINE OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — nine swords on a wall — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "NINE OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a distressed woman sitting up in bed at night, her bare shoulder and back above the sheet, face in her hands, nine swords mounted in rows on the dark wall.
 
 Main figure — the distressed woman — render exactly as specified: a 22-year-old young woman.
@@ -1930,25 +1875,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly nine swords mounted on the dark wall in three rows of three — 3 + 3 + 3 = 9; a neat 3 x 3 grid of horizontal blades, all nine countable, none hidden behind her head or hands
+Count lock (hard rule): exactly nine swords mounted on the dark wall in three rows of three — 3 + 3 + 3 = 9; a neat 3 x 3 grid of horizontal blades, all nine countable, none hidden behind her head or hands.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## TEN OF SWORDS · `swords-10`
 
-Emblem: ten swords along a back · Count lock: 10
+Count lock: 10 · (emblem không dùng: ten swords along a back)
 
 ```text
-A single tarot card "TEN OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "TEN OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — ten swords along a back — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "TEN OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a peaceful young woman lying draped in crimson silk on a shoreline at dawn beneath ten upright swords, golden sunlight breaking across dark waters.
 
 Main figure — the woman at rest — render exactly as specified: a 23-year-old young woman.
@@ -1963,25 +1907,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly ten swords planted along the back in two staggered rows of five — 5 + 5 = 10; all ten hilts countable in a row from shoulder to hip, evenly spaced, none overlapping
+Count lock (hard rule): exactly ten swords planted along the back in two staggered rows of five — 5 + 5 = 10; all ten hilts countable in a row from shoulder to hip, evenly spaced, none overlapping.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## PAGE OF SWORDS · `swords-page`
 
-Emblem: a sword with a feather plume · Count lock: 1
+Count lock: 1 · (emblem không dùng: a sword with a feather plume)
 
 ```text
-A single tarot card "PAGE OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "PAGE OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a sword with a feather plume — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "PAGE OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 an alert young woman page in a flowing cape on a windy mound holding one raised sword with both hands.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
@@ -1996,25 +1939,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one sword, gripped in both hands; no dagger, no second blade
+Count lock (hard rule): exactly one sword, gripped in both hands; no dagger, no second blade.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## KNIGHT OF SWORDS · `swords-knight`
 
-Emblem: a sword over a horse · Count lock: 1
+Count lock: 1 · (emblem không dùng: a sword over a horse)
 
 ```text
-A single tarot card "KNIGHT OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "KNIGHT OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a sword over a horse — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "KNIGHT OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a fierce 21-year-old female knight in gleaming steel armor charging on a galloping horse, sword held high into the storm winds.
 
 Main figure — the knight — render exactly as specified: a 21-year-old young woman.
@@ -2029,25 +1971,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one sword, pointed forward like a lance; no other blade
+Count lock (hard rule): exactly one sword, pointed forward like a lance; no other blade.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## QUEEN OF SWORDS · `swords-queen`
 
-Emblem: a sword wrapped in laurel · Count lock: 1
+Count lock: 1 · (emblem không dùng: a sword wrapped in laurel)
 
 ```text
-A single tarot card "QUEEN OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "QUEEN OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a sword wrapped in laurel — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "QUEEN OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a stern dignified adult queen whose body is wrapped in a single sheet of TRANSPARENT antique silk gauze, one shoulder and the curve of her breast left bare, posed with sensual grace yet enthroned with majesty, seated on a butterfly-carved stone throne above a sea of clouds, one upright sword held in her hand.
 
 Main figure — the queen — render exactly as specified: a 24-year-old young woman.
@@ -2062,25 +2003,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one upright sword; no other blade
+Count lock (hard rule): exactly one upright sword; no other blade.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## KING OF SWORDS · `swords-king`
 
-Emblem: a sword between two wings · Count lock: 1
+Count lock: 1 · (emblem không dùng: a sword between two wings)
 
 ```text
-A single tarot card "KING OF SWORDS" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "KING OF SWORDS": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a sword between two wings — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "KING OF SWORDS" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a stern and majestic 25-year-old female supreme judge on a high stone throne, holding an upright sword of truth, clear blue skies behind.
 
 Main figure — the supreme judge — render exactly as specified: a 25-year-old young woman.
@@ -2095,11 +2035,9 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one upright sword; no other blade
+Count lock (hard rule): exactly one upright sword; no other blade.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
@@ -2110,40 +2048,40 @@ Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich a
 
 ## ACE OF PENTACLES · `pentacles-ace`
 
-Emblem: one pentacle coin in a hand · Count lock: 1
+Count lock: 1 · (emblem không dùng: one pentacle coin in a hand)
 
 ```text
-A single tarot card "ACE OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "ACE OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — one pentacle coin in a hand — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "ACE OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a divine hand offering one large golden pentacle coin over a lush garden gateway with lilies, mountains beyond.
 
 Skin-tone lock (hard rule): every human figure on this card — the main figure and every secondary or background figure (partners, companions, crowds, children) — is light-skinned only, within these ten tones: porcelain, ivory, fair, warm peach, light olive, sand, warm tan, honey, light bronze, amber-gold. No deep bronze, dark-brown or Black skin tones appear anywhere on the card; lighting, shadow and candle glow must never darken skin beyond these tones.
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one large golden pentacle coin in the divine hand; no other coin, no coins scattered in the garden
+Count lock (hard rule): exactly one large golden pentacle coin in the divine hand; no other coin, no coins scattered in the garden.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## TWO OF PENTACLES · `pentacles-02`
 
-Emblem: two pentacles and an infinity ribbon · Count lock: 2
+Count lock: 2 · (emblem không dùng: two pentacles and an infinity ribbon)
 
 ```text
-A single tarot card "TWO OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "TWO OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — two pentacles and an infinity ribbon — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "TWO OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a joyful 19-year-old young woman dancing on a seaside terrace, juggling two golden pentacles looped inside an infinity ribbon with ships in rolling surf behind.
 
 Main figure — the dancing young woman — render exactly as specified: a 19-year-old young woman.
@@ -2158,25 +2096,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly two coins, one at each end of the looping infinity ribbon, one in each hand; both discs fully visible against the sky, no third coin
+Count lock (hard rule): exactly two coins, one at each end of the looping infinity ribbon, one in each hand; both discs fully visible against the sky, no third coin.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## THREE OF PENTACLES · `pentacles-03`
 
-Emblem: three pentacles in an arch · Count lock: 3
+Count lock: 3 · (emblem không dùng: three pentacles in an arch)
 
 ```text
-A single tarot card "THREE OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "THREE OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — three pentacles in an arch — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "THREE OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a young woman sculptor in an open workshop apron slipping off one shoulder, hair loose, chiseling a column, a fair-skinned monk and a fair-skinned architect commenting, three coins set in the arch above.
 
 Main figure — the sculptor — render exactly as specified: a 22-year-old young woman.
@@ -2191,25 +2128,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly three coins set into the stone arch above the sculptor — one at the apex and two at the springing points, 1 + 2 = 3; all three discs fully visible, none hidden by the arch's shadow
+Count lock (hard rule): exactly three coins set into the stone arch above the sculptor — one at the apex and two at the springing points, 1 + 2 = 3; all three discs fully visible, none hidden by the arch's shadow.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## FOUR OF PENTACLES · `pentacles-04`
 
-Emblem: four pentacles, one on the head · Count lock: 4
+Count lock: 4 · (emblem không dùng: four pentacles, one on the head)
 
 ```text
-A single tarot card "FOUR OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "FOUR OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — four pentacles, one on the head — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "FOUR OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a wealthy young woman seated on a stone bench, holding one golden pentacle tight to her chest, one on her crown, and two under her feet.
 
 Main figure — the wealthy young woman — render exactly as specified: a 24-year-old young woman.
@@ -2224,25 +2160,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly four coins: one clutched to his chest, one balanced in his crown, two pressed beneath his feet — 1 + 1 + 2 = 4; all four discs fully visible, none buried in the ground or hidden by his robes
+Count lock (hard rule): exactly four coins: one clutched to his chest, one balanced in his crown, two pressed beneath his feet — 1 + 1 + 2 = 4; all four discs fully visible, none buried in the ground or hidden by his robes.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## FIVE OF PENTACLES · `pentacles-05`
 
-Emblem: five pentacles in a church window · Count lock: 5
+Count lock: 5 · (emblem không dùng: five pentacles in a church window)
 
 ```text
-A single tarot card "FIVE OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "FIVE OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — five pentacles in a church window — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "FIVE OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 two fair-skinned ragged beggars passing a glowing church in the snow, five coins shining in the tall stained-glass window.
 
 Main figure — the foremost beggar — render exactly as specified: a 20-year-old young woman.
@@ -2257,25 +2192,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly five glowing coins set in the tall stained-glass window in a quincunx — one at the top center, two on the middle row, two on the bottom row, 1 + 2 + 2 = 5; all five discs separate and countable
+Count lock (hard rule): exactly five glowing coins set in the tall stained-glass window in a quincunx — one at the top center, two on the middle row, two on the bottom row, 1 + 2 + 2 = 5; all five discs separate and countable.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## SIX OF PENTACLES · `pentacles-06`
 
-Emblem: six pentacles on a scale · Count lock: 6
+Count lock: 6 · (emblem không dùng: six pentacles on a scale)
 
 ```text
-A single tarot card "SIX OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "SIX OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — six pentacles on a scale — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "SIX OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a prosperous young woman in rich robes holding scales in one hand, distributing golden coins to two kneeling maidens.
 
 Main figure — the prosperous young woman — render exactly as specified: a 23-year-old young woman.
@@ -2290,25 +2224,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly six coins on the balance — three stacked in the left pan and three stacked in the right pan, 3 + 3 = 6; all six discs visible above the pan rims, no coins loose on the ground
+Count lock (hard rule): exactly six coins on the balance — three stacked in the left pan and three stacked in the right pan, 3 + 3 = 6; all six discs visible above the pan rims, no coins loose on the ground.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## SEVEN OF PENTACLES · `pentacles-07`
 
-Emblem: seven pentacles on a vine · Count lock: 7
+Count lock: 7 · (emblem không dùng: seven pentacles on a vine)
 
 ```text
-A single tarot card "SEVEN OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "SEVEN OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — seven pentacles on a vine — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "SEVEN OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a patient young woman leaning on her garden staff, contemplating seven golden pentacles blooming on a lush green vine.
 
 Main figure — the patient gardener — render exactly as specified: a 22-year-old young woman.
@@ -2323,25 +2256,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly seven coins growing on the vine — three on the left branch, three on the right branch, one at the top center, 3 + 3 + 1 = 7; all seven fully visible and un-occluded by leaves
+Count lock (hard rule): exactly seven coins growing on the vine — three on the left branch, three on the right branch, one at the top center, 3 + 3 + 1 = 7; all seven fully visible and un-occluded by leaves.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## EIGHT OF PENTACLES · `pentacles-08`
 
-Emblem: eight pentacles in a row · Count lock: 8
+Count lock: 8 · (emblem không dùng: eight pentacles in a row)
 
 ```text
-A single tarot card "EIGHT OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "EIGHT OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — eight pentacles in a row — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "EIGHT OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a young woman apprentice in an apron slipping off one shoulder, sleeves rolled, her chestnut hair pinned in a neat low chignon, chiseling a plain stone disc at a bench, eight coins in one row along the bench edge, a town through the window.
 
 Main figure — the apprentice — render exactly as specified: a 21-year-old young woman.
@@ -2356,25 +2288,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly eight finished coins in ONE straight row of 8 along the front edge of the bench, evenly spaced and all eight countable; the blank stone disc she is chiseling is unfinished and bears no star, so it does NOT count and must not look like a coin
+Count lock (hard rule): exactly eight finished coins in ONE straight row of 8 along the front edge of the bench, evenly spaced and all eight countable; the blank stone disc she is chiseling is unfinished and bears no star, so it does NOT count and must not look like a coin.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## NINE OF PENTACLES · `pentacles-09`
 
-Emblem: nine pentacles on an arbor · Count lock: 9
+Count lock: 9 · (emblem không dùng: nine pentacles on an arbor)
 
 ```text
-A single tarot card "NINE OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "NINE OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — nine pentacles on an arbor — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "NINE OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 an elegant woman in a sheer flowing gown that clings to breast and hip, a falcon on her gloved hand, her other hand touching ripe grapes, nine coins along the arbor beam, a snail at her feet.
 
 Main figure — the elegant woman — render exactly as specified: a 23-year-old young woman.
@@ -2389,25 +2320,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly nine coins fixed to the arbor beam in ONE row of 9, evenly spaced against open sky, all nine fully visible, none hidden by leaves or by her body — count them left to right: 1 to 9
+Count lock (hard rule): exactly nine coins fixed to the arbor beam in ONE row of 9, evenly spaced against open sky, all nine fully visible, none hidden by leaves or by her body — count them left to right: 1 to 9.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## TEN OF PENTACLES · `pentacles-10`
 
-Emblem: ten pentacles in a tree-of-life pyramid · Count lock: 10
+Count lock: 10 · (emblem không dùng: ten pentacles in a tree-of-life pyramid)
 
 ```text
-A single tarot card "TEN OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "TEN OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — ten pentacles in a tree-of-life pyramid — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "TEN OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a fair-skinned family hall — a patriarch seated, a couple standing with his hand at her waist, a child playing with two dogs — ten coins in a pyramid emblem on the wall behind them.
 
 Main figure — the woman of the family — render exactly as specified: a 22-year-old young woman.
@@ -2422,25 +2352,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly ten coins on the wall in a Tree-of-Life pyramid — 4 on the bottom row, 3 above them, 2 above those, 1 at the apex, 4 + 3 + 2 + 1 = 10; all ten discs countable, none hidden behind the figures
+Count lock (hard rule): exactly ten coins on the wall in a Tree-of-Life pyramid — 4 on the bottom row, 3 above them, 2 above those, 1 at the apex, 4 + 3 + 2 + 1 = 10; all ten discs countable, none hidden behind the figures.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## PAGE OF PENTACLES · `pentacles-page`
 
-Emblem: a pentacle held by two hands · Count lock: 1
+Count lock: 1 · (emblem không dùng: a pentacle held by two hands)
 
 ```text
-A single tarot card "PAGE OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "PAGE OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a pentacle held by two hands — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "PAGE OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a studious young woman page in an open robe studying one large pentacle coin held in both hands, a plowed field behind her.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
@@ -2455,25 +2384,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one large coin, held in both hands; no other coin anywhere
+Count lock (hard rule): exactly one large coin, held in both hands; no other coin anywhere.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## KNIGHT OF PENTACLES · `pentacles-knight`
 
-Emblem: a pentacle on a draft horse · Count lock: 1
+Count lock: 1 · (emblem không dùng: a pentacle on a draft horse)
 
 ```text
-A single tarot card "KNIGHT OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "KNIGHT OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a pentacle on a draft horse — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "KNIGHT OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a steadfast 23-year-old female knight in dark armor holding a golden pentacle with calm reverence in a plowed field.
 
 Main figure — the knight — render exactly as specified: a 23-year-old young woman.
@@ -2488,25 +2416,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one coin, resting in his open palm; no other coin
+Count lock (hard rule): exactly one coin, resting in his open palm; no other coin.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## QUEEN OF PENTACLES · `pentacles-queen`
 
-Emblem: a pentacle entwined with roses · Count lock: 1
+Count lock: 1 · (emblem không dùng: a pentacle entwined with roses)
 
 ```text
-A single tarot card "QUEEN OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "QUEEN OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a pentacle entwined with roses — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "QUEEN OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a warm nude queen with a flower crown on a goat-carved throne, one breast bared, one pentacle resting in her lap, a rabbit in the garden.
 
 Main figure — the queen — render exactly as specified: a 24-year-old young woman.
@@ -2521,25 +2448,24 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one coin, resting in her lap; no other coin
+Count lock (hard rule): exactly one coin, resting in her lap; no other coin.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 
 ## KING OF PENTACLES · `pentacles-king`
 
-Emblem: a pentacle above a bull head · Count lock: 1
+Count lock: 1 · (emblem không dùng: a pentacle above a bull head)
 
 ```text
-A single tarot card "KING OF PENTACLES" built inside the reference frame, matching the EXACT open window display, scale and lighting style of THE MOON (reference image): keep the intricate thin golden line-art border in vintage gothic style and the aged parchment background texture.
+A full-bleed tarot card artwork "KING OF PENTACLES": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
-At the TOP, inside the small oval medallion: the emblem of this card — a pentacle above a bull head — drawn in fine antique gold line art.
-At the BOTTOM, inside the ribbon banner: the title "KING OF PENTACLES" in clean antique gold lettering.
+Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-In the large open center panel — filling the entire inner window edge to edge, bleeding slightly beneath the golden border, open and natural, with no heavy inner arches and no added columns:
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+
+The scene:
 a wealthy 25-year-old female queen of wealth seated on a bull-carved throne amid blooming grapevines and castle walls, holding a golden pentacle in her lap.
 
 Main figure — the queen of wealth — render exactly as specified: a 25-year-old young woman.
@@ -2554,9 +2480,7 @@ Skin-tone lock (hard rule): every human figure on this card — the main figure 
 
 Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head and one torso; every joint (shoulders, elbows, wrists, hips, knees, ankles) connects naturally to the body — no extra or fused limbs, no limbs sprouting from the torso, no stub arms, no malformed joints, no wrong finger counts. Prefer poses with both arms clearly separated from the torso. If any anatomy error appears, redraw it rather than accept it.
 
-Count lock (hard rule): exactly one coin, held in one hand; no other coin
+Count lock (hard rule): exactly one coin, held in one hand; no other coin.
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border, corner flourishes, oval medallion and ribbon banner ON TOP of the scene edges — foreground ornament overlapping the background content for a strong layered sense of depth.
-
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail.
+Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
