@@ -1,0 +1,25 @@
+<!doctype html><html lang="vi"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sensual Tarot — 78 lá</title>
+<style>
+body{margin:0;background:#120f0c;color:#e8d9a8;font-family:Georgia,serif}
+header{padding:28px;text-align:center;border-bottom:1px solid #4a3a1c}
+h1{margin:0;font-size:26px;letter-spacing:3px}
+p.sub{color:#a8956a;font-size:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:22px;padding:26px}
+figure{margin:0;text-align:center}
+img{width:100%;border-radius:8px;box-shadow:0 6px 24px #000;background:#1c1712;aspect-ratio:7/12;object-fit:cover}
+figcaption{font-size:12px;letter-spacing:1.4px;margin-top:8px;color:#c9b57e}
+.miss{opacity:.28}
+</style>
+<header><h1>SENSUAL TAROT — 78 LÁ</h1>
+<p class="sub">Neo phong cách: the moon.png · khung viền · kiểu chữ · họa tiết đồng bộ</p></header>
+<div class="grid" id="g"></div>
+<script>
+fetch('index.json').then(r=>r.json()).then(d=>{
+ document.getElementById('g').innerHTML = d.cards.map(c=>
+  `<figure><img loading="lazy" src="${c.image_file}" alt="${c.title}"
+    onerror="this.classList.add('miss');this.src='../card-blank.png'">
+   <figcaption>${c.title}</figcaption></figure>`).join('');
+});
+</script></html>
