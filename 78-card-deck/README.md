@@ -9,7 +9,7 @@ This folder is the self-contained deliverable generated from the repository sour
 - `prompt-manifest.json` maps all 78 source records to their prompt and image files.
 - `upscale_pngs.py` converts newly rendered 784x1360 PNGs to the 2x 1568x2720 delivery size.
 
-Visual lock: `the moon.png` is the only image reference for generation. Its open full-height window, thin gold Gothic border, corner flourishes, title placement, and atmospheric fine-art rendering are kept consistent without copying its scene objects or pose. Every card removes the top frame medallion/emblem/icon entirely so the scene fills the full inner area from the top border to the title; symbols explicitly required inside a card scene remain. Artwork is exported as PNG with a high-detail, high-resolution finish; generated cards are upscaled 2x to 1568x2720 pixels after rendering.
+Visual lock: `the moon.png` is the only image reference for character rendering, atmospheric fine-art lighting, anatomy, and color depth. Its frame, corner flourishes, parchment margin, medallion, emblem, icon, and banner are intentionally not copied. Every card is borderless full-bleed artwork with the scene reaching all four edges and only the title overlaid at the bottom. Artwork is exported as PNG with a high-detail, high-resolution finish; generated cards are upscaled 2x to 1568x2720 pixels after rendering.
 
 Suit-object counts are hard constraints. For any card whose source `count` is `null`, the prompt explicitly prohibits adding suit objects. The six object-only cards remain object-only.
 

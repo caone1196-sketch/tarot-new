@@ -4,7 +4,7 @@ Bản chuẩn hóa quy chuẩn tạo hình và bố cục toàn bộ 78 lá bài
 
 1. **Quy chuẩn hiển thị nội dung & khung viền (Visual Anchor Standard — the moon)**:
    * Lấy lá **`the moon.png`** làm quy chuẩn DUY NHẤT cho toàn bộ bộ bài — chuẩn cho cả **phần ảnh bên trong** lẫn **phần viền bên ngoài**.
-   * **Phần viền ngoài**: khung viền mạ vàng Gothic mỏng, sắc nét, đối xứng hoàn hảo trên nền giấy da cổ (*aged parchment/vellum*), đồng bộ đúng theo `the moon.png`.
+   * **Phần viền ngoài**: LOẠI BỎ HOÀN TOÀN khung viền, đường viền vàng, hoa văn góc, nền giấy da và mọi ornament bao quanh. Hình ảnh phải full-bleed sát cả bốn mép canvas.
    * **Phần ảnh bên trong**: phong cách hội họa fine-art theo `the moon.png` — phối cảnh thoáng đãng, ánh sáng khí quyển, chiều sâu không gian lùi dần về hậu cảnh, chi tiết sắc nét. Mỗi lá vẫn giữ bối cảnh và bảng màu riêng của mình, chỉ chuẩn hóa về chất lượng nét vẽ, cách đổ sáng và độ chi tiết theo tham chiếu The Moon.
    * Vùng hiển thị nội dung mở rộng tối đa, phủ kín toàn bộ vòm trung tâm từ mép này sang mép kia của khung viền Gothic mỏng.
    * **Loại bỏ cổng vòm / cột đá phụ chiếm diện tích**: Không dùng cột đá nhân tạo đóng khung gò bó, để không gian khoáng đạt, tự nhiên theo đúng bối cảnh của từng lá bài.
@@ -33,7 +33,7 @@ At the BOTTOM: inside the ribbon banner, the title "{TITLE}" in clean antique go
 In the large open center panel (filling the entire inner window edge to edge and bleeding slightly beneath the golden border, matching the open space of the moon.png without heavy inner arch barriers):
 {SCENE}. {CHARACTER_SPECIFICATION} {COUNT_LOCK}
 
-Depth layering: enlarge the scene so its edges extend slightly beneath the inner edge of the golden border, then paint the thin golden line-art border and corner flourishes ON TOP of the scene edges — foreground ornament overlapping the background content for a strong sense of depth. The top of the card must remain a completely open continuation of the scene: no oval medallion, no top frame emblem, no top icon, and no decorative badge above the artwork. Symbols explicitly required inside the card scene remain part of that scene.
+Depth layering: let the scene fill the entire canvas edge to edge. Do not paint any frame, border, corner flourishes, medallion, emblem, icon, banner, or parchment margin over the artwork. The title is the only graphic text and sits directly over the bottom of the scene. Symbols explicitly required inside the card scene remain part of that scene.
 
 Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, symmetrical golden frame border, perfectly centered, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, ultra-high detail, razor-sharp microdetail, crisp fine brushwork, no blur or soft focus, high-resolution finish, high pixel density.
 ```
