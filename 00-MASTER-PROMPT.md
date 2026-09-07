@@ -1,24 +1,25 @@
-# 🔮 SENSUAL TAROT 78 LÁ — MASTER PROMPT SPECIFICATION (v4 · FULL-BLEED)
+# 🔮 SENSUAL TAROT 78 LÁ — MASTER PROMPT SPECIFICATION (v5 · FULL-BLEED + QUALITY)
 
 Bản chuẩn hóa quy chuẩn tạo hình và bố cục toàn bộ 78 lá bài Tarot.
 
-**Thay đổi chính của v4** (so với v3):
+**Thay đổi chính của v5** (so với v4):
 
-1. **BỎ KHUNG VIỀN — BỎ EMBLEM — BỎ RIBBON BANNER**: tranh phủ kín toàn bộ khung hình (*full-bleed* 4 cạnh như một bức hội họa cổ điển), **chỉ giữ lại TÊN LÁ BÀI** phủ nhẹ dưới đáy ảnh. Không còn khung vàng Gothic, medallion emblem, ribbon banner, nền giấy da, hay 4 lớp chiều sâu của v3.
-2. Thêm **FRAMING LOCK** (hard rule) vào từng prompt để model không tự vẽ lại khung/banner theo thói quen từ ảnh tham chiếu.
-3. Giữ nguyên từ v3: prompt đầy đủ 100% (scene + 8 thông số nhân vật), **SKIN TONE LOCK** (10 tông da sáng, loại bỏ nhân vật da đen/da sẫm), **ANATOMY LOCK**, **COUNT LOCK**.
-4. `the moon.png` chỉ còn là **tham chiếu phong cách ảnh trong** (nét vẽ, ánh sáng) — nêu rõ trong prompt là *bỏ qua hoàn toàn khung viền* của ảnh tham chiếu; `card-blank.png` không cần dùng nữa.
+1. **Thêm QUALITY LOCK (HARD RULE)** — khóa chất lượng chống **nhòe · vỡ nét · noise** khi sinh ảnh, tối đa hóa chi tiết: nét sắc như dao cạo trên nhân vật & tiền cảnh, chất liệu được vẽ rõ (sợi tóc, làn da, sợi lụa, hạt đá, giọt nước), cấm toàn bộ blur/noise/grain/artifact/nét nhân bản/màu bệt. Xem mục 5.
+2. Câu kết prompt nâng cấp: *"Masterpiece quality — ultra-detailed, razor-sharp, pristine high-fidelity rendering."*
+3. Thêm mục 9 — **Kinh nghiệm sinh ảnh** (cài đặt ngoài prompt để lấy chất lượng cao nhất).
+
+Giữ nguyên từ v4: bố cục **full-bleed** (bỏ khung · bỏ emblem · bỏ ribbon banner, chỉ giữ tên lá bài dưới đáy ảnh), FRAMING LOCK, 8 thông số nhân vật, SKIN TONE LOCK (10 tông da sáng — loại bỏ nhân vật da đen/da sẫm), ANATOMY LOCK, COUNT LOCK.
 
 ---
 
-## 1. Quy chuẩn bố cục (Full-Bleed Layout Standard — v4)
+## 1. Quy chuẩn bố cục (Full-Bleed Layout Standard)
 
 * Tranh **phủ kín 4 cạnh khung hình** — không viền, không khung, không hoa văn mép, không nền giấy da: bối cảnh vẽ tràn ra tận mép trên/dưới/trái/phải như một bức hội họa cổ điển hoàn chỉnh.
 * **Chữ trên ảnh**: chỉ duy nhất **tên lá bài** (VD: "THE MOON") — kiểu chữ cổ điển thanh lịch, phủ nhẹ **dưới đáy ảnh**, có bóng mờ nhẹ để đọc được trên mọi nền. Không chữ nào khác xuất hiện.
 * **Không có**: khung viền vàng Gothic · medallion emblem · ribbon banner · parchment · hoa văn góc · bất kỳ chi tiết trang trí "bộ bài" nào bao quanh tranh.
 * **Cách dùng thực tế**: (tùy chọn) đính kèm `the moon.png` làm tham chiếu phong cách ảnh trong — prompt đã ghi rõ *ignore the reference image's outer border and frame*.
 
-## 2. Quy chuẩn tạo hình nhân vật (Sensual Fine-Art Figure Standard — giữ nguyên từ v3)
+## 2. Quy chuẩn tạo hình nhân vật (Sensual Fine-Art Figure Standard)
 
 * **100% nhân vật nữ**, độ tuổi **18–25**, gợi cảm · uyển chuyển · mê hoặc (không dùng ngôn ngữ chiến binh/cơ bắp/vai rộng).
 * Vóc dáng 4 cấp, trần là "trung bình": **A** thanh mảnh (29 lá) · **B** thon gọn (30 lá) · **C** trung bình mềm (9 lá) · **D** trung bình đầy đặn (4 lá: 03-empress, 15-devil, wands-queen, pentacles-queen). Không plus-size, không phóng đại.
@@ -37,7 +38,7 @@ Bản chuẩn hóa quy chuẩn tạo hình và bố cục toàn bộ 78 lá bài
 
 * **ANATOMY LOCK (HARD RULE)**: mỗi nhân vật tối đa **2 tay, 2 chân, 1 đầu, 1 thân**; mọi khớp nối tự nhiên — không thừa chi, không chi mọc dính sườn/hông/ngực, không tay cụt, không khớp biến dạng, không sai số lượng ngón. Ưu tiên tư thế 2 tay tách rõ khỏi thân. Thấy lỗi giải phẫu → vẽ lại, không chấp nhận.
 
-## 3. SKIN TONE LOCK (HARD RULE) — loại bỏ nhân vật da đen / da sẫm (giữ nguyên từ v3)
+## 3. SKIN TONE LOCK (HARD RULE) — loại bỏ nhân vật da đen / da sẫm
 
 Toàn bộ nhân vật trên mọi lá chỉ dùng **10 tông da sáng**, kể cả khi đổ bóng/ánh nến không được làm da sẫm hơn tông gốc:
 
@@ -55,7 +56,7 @@ Toàn bộ nhân vật trên mọi lá chỉ dùng **10 tông da sáng**, kể c
 | `amber-gold` | amber-gold, glowing warm in candlelight |
 
 * Khóa áp dụng cho **MỌI người xuất hiện trên lá**: nhân vật chính + nhân vật phụ (người tình, người đồng hành, đám đông, trẻ em, tu sĩ, người lữ khách…) — tất cả đều da sáng.
-* Kỹ thuật: nêu whitelist 10 tông trước, cấm tông sẫm sau. Câu khóa chuẩn (đã nhúng sẵn trong từng prompt):
+* Câu khóa chuẩn (đã nhúng sẵn trong từng prompt):
 
 ```text
 Skin-tone lock (hard rule): every human figure on this card — the main figure and every
@@ -66,15 +67,39 @@ appear anywhere on the card; lighting, shadow and candle glow must never darken 
 beyond these tones.
 ```
 
-## 4. COUNT LOCK (đếm vật phẩm — giữ nguyên từ v3)
+## 4. COUNT LOCK (đếm vật phẩm)
 
 * Mỗi lá có số vật phẩm suit (kiếm/chén/gậy/đồng xu) khai báo trong `cards.json` (`count.n` = ràng buộc CỨNG, `count.layout` = cách xếp + cách đếm).
 * Lá không có vật phẩm suit (`count = null`) → phát câu khóa *"no extra suit objects"*.
-* Lưu ý: **cờ/banner nằm trong bối cảnh** (cờ đen của Death, cờ đỏ của The Sun, cờ trắng của Judgement…) vẫn được giữ — FRAMING LOCK chỉ cấm banner/chữ trang trí *khung card*, không cấm đạo cụ trong tranh.
+* Cờ/đạo cụ **trong bối cảnh** (cờ đen của Death, cờ đỏ của The Sun…) vẫn được giữ — FRAMING LOCK chỉ cấm banner/chữ trang trí *khung card*.
 
-## 5. FRAMING LOCK (HARD RULE — mới của v4)
+## 5. QUALITY LOCK (HARD RULE — mới của v5, chống nhòe · vỡ nét · noise)
 
-Câu khóa nhúng sẵn trong từng prompt:
+Câu khóa nhúng sẵn trong từng prompt, **sau COUNT LOCK, trước câu kết**:
+
+```text
+Quality lock (hard rule): gallery-grade, maximum-detail rendering — razor-sharp focus on
+the main figure and all foreground details; crisp, clean edges everywhere; fine resolved
+textures: individual hair strands, smooth glowing skin with clear highlights, woven silk
+fibers, stone grain, water droplets, leaf veins; rich micro-detail in fabric, jewelry and
+background architecture. Absolutely no blur, no soft-focus haze on the subject, no motion
+smear, no noise, no film grain, no speckles, no color banding, no JPEG or compression
+artifacts, no blocky pixelation, no smudged or melted details, no duplicated or double
+edges, no washed-out or muddy colors, no over-sharpening halos. Atmospheric haze is
+allowed ONLY in the far background for depth — the subject's face, eyes, hair and hands
+must be perfectly crisp and in focus. Render like a high-resolution museum-quality oil
+painting: clean, precise, every detail intentional.
+```
+
+Cấu trúc khóa = **4 lớp**:
+1. **Nét buộc phải có** (positive trước, negative sau — model vẽ ra cái được nhắc đến): razor-sharp focus · crisp edges · chất liệu resolved (sợi tóc, da, lụa, đá, nước) · micro-detail
+2. **Cấm dứt khoát**: blur · soft-focus trên chủ thể · motion smear · noise · film grain · speckles · banding · JPEG/compression artifacts · pixelation · nét bệt/chảy · nét nhân bản/đúp · màu bệt/ố · halo over-sharpen
+3. **Ngoại lệ có kiểm soát**: haze khí quyển CHỈ ở viền xa để tạo chiều sâu — mặt, mắt, tóc, tay nhân vật phải sắc nét tuyệt đối
+4. **Chuẩn tham chiếu**: như tranh sấn museum-quality độ phân giải cao — sạch, chính xác, từng chi tiết có chủ đích
+
+Câu kết prompt cũng được nâng cấp: *"Masterpiece quality — ultra-detailed, razor-sharp, pristine high-fidelity rendering."*
+
+## 6. FRAMING LOCK (HARD RULE — từ v4)
 
 ```text
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges,
@@ -86,12 +111,12 @@ Và lặp lại ở câu kết: *"...the artwork runs full-bleed to all four edg
 
 ---
 
-## 6. MASTER PROMPT TEMPLATE v4 (Full-Bleed)
+## 7. MASTER PROMPT TEMPLATE v5 (Full-Bleed + Quality)
 
 Các slot: `{TITLE}` tên lá · `{SCENE}` bối cảnh · `{CHARACTER_SPECIFICATION}` khối 8 thông số nhân vật · `{COUNT_LOCK}`.
 
 ```text
-A full-bleed tarot card artwork "{TITLE}": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image's outer border and frame.
+A full-bleed tarot card artwork "{TITLE}": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
@@ -108,10 +133,12 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 {COUNT_LOCK}
 
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
+Quality lock (hard rule): gallery-grade, maximum-detail rendering — razor-sharp focus on the main figure and all foreground details; crisp, clean edges everywhere; fine resolved textures: individual hair strands, smooth glowing skin with clear highlights, woven silk fibers, stone grain, water droplets, leaf veins; rich micro-detail in fabric, jewelry and background architecture. Absolutely no blur, no soft-focus haze on the subject, no motion smear, no noise, no film grain, no speckles, no color banding, no JPEG or compression artifacts, no blocky pixelation, no smudged or melted details, no duplicated or double edges, no washed-out or muddy colors, no over-sharpening halos. Atmospheric haze is allowed ONLY in the far background for depth — the subject’s face, eyes, hair and hands must be perfectly crisp and in focus. Render like a high-resolution museum-quality oil painting: clean, precise, every detail intentional.
+
+Masterpiece quality — ultra-detailed, razor-sharp, pristine high-fidelity rendering. Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
-### 6.1 Định dạng khối `{CHARACTER_SPECIFICATION}` (8 trường)
+### 7.1 Định dạng khối `{CHARACTER_SPECIFICATION}` (8 trường)
 
 ```text
 Main figure — {VAI DIỆN} — render exactly as specified: a {TUỔI}-year-old young woman.
@@ -126,7 +153,7 @@ Aura: {KHÔNG KHÍ}.
 * Lá nhiều nhân vật (Three of Cups, Five of Wands, Judgement…): nhân vật chính dùng khối trên, nhân vật phụ mô tả ngay trong `{SCENE}` — **tất cả đều da sáng**, mỗi người một khuôn mặt + vóc dáng riêng.
 * 6 lá vật thể thuần không có khối nhân vật: `wands-ace`, `wands-08`, `cups-ace`, `swords-ace`, `swords-03`, `pentacles-ace`.
 
-### 6.2 Định dạng `{COUNT_LOCK}`
+### 7.2 Định dạng `{COUNT_LOCK}`
 
 * Có vật phẩm: `Count lock (hard rule): {count.layout từ cards.json}`
 * Không vật phẩm: `Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.`
@@ -135,7 +162,7 @@ Aura: {KHÔNG KHÍ}.
 
 ---
 
-## 7. Ví dụ hoàn chỉnh — THE MOON (v4 full-bleed)
+## 8. Ví dụ hoàn chỉnh — THE MOON (v5)
 
 ```text
 A full-bleed tarot card artwork "THE MOON": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
@@ -161,26 +188,40 @@ Anatomy lock (hard rule): each figure has exactly two arms, two legs, one head a
 
 Count lock: no extra suit objects — do not add any additional wands, cups, swords or pentacle coins anywhere on this card beyond those described above.
 
-Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
+Quality lock (hard rule): gallery-grade, maximum-detail rendering — razor-sharp focus on the main figure and all foreground details; crisp, clean edges everywhere; fine resolved textures: individual hair strands, smooth glowing skin with clear highlights, woven silk fibers, stone grain, water droplets, leaf veins; rich micro-detail in fabric, jewelry and background architecture. Absolutely no blur, no soft-focus haze on the subject, no motion smear, no noise, no film grain, no speckles, no color banding, no JPEG or compression artifacts, no blocky pixelation, no smudged or melted details, no duplicated or double edges, no washed-out or muddy colors, no over-sharpening halos. Atmospheric haze is allowed ONLY in the far background for depth — the subject’s face, eyes, hair and hands must be perfectly crisp and in focus. Render like a high-resolution museum-quality oil painting: clean, precise, every detail intentional.
+
+Masterpiece quality — ultra-detailed, razor-sharp, pristine high-fidelity rendering. Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
 ---
 
-## 8. Nguồn dữ liệu & kiểm tra
+## 9. Kinh nghiệm sinh ảnh chất lượng cao (ngoài prompt)
+
+Prompt chỉ là một phần — chất lượng cuối còn phụ thuộc cài đặt khi sinh:
+
+1. **Chọn độ phân giải cao nhất** mà công cụ cho phép (≥ 1024×1536, lý tưởng 1536×2304 trở lên cho tỉ lệ 7:12). Ảnh sinh nhỏ rồi phóng to lên sẽ nhòe — sinh to ngay từ đầu.
+2. **Khử nhiễu/nâng nét bằng pass thứ 2 (upscale/refine)**: sau khi có ảnh gốc, chạy qua bước upscale ×2 (hoặc "enhance/detail pass") — dùng chính prompt của lá, thêm câu: *"same image, enhance to higher resolution, keep every detail identical, add finer micro-detail, no changes to composition, figures or colors"*.
+3. **Lưu PNG không nén** (hoặc JPEG quality ≥ 95) — tránh nén lại nhiều lần gây artifact.
+4. **Không ghép ảnh qua nhiều bước chỉnh** — mỗi lần xuất/nhập lại là một lần mất nét. Chuỗi lý tưởng: sinh → upscale ×1 → dùng.
+5. **Nếu công cụ có tham số**: ưu tiên chế độ chất lượng/highest quality, giảm strength của bước upscale tinh chỉnh (0.2–0.35) để không bịa thêm chi tiết mới phá khuôn mặt.
+6. **Kiểm tra 3 điểm trước khi chốt**: (a) mắt + mặt sắc nét, (b) tay đủ 5 ngón/khớp tự nhiên, (c) đếm vật phẩm suit đúng số — sai bất kỳ điểm nào thì vẽ lại/chạy refine, không chấp nhận.
+
+---
+
+## 10. Nguồn dữ liệu & kiểm tra
 
 | File | Vai trò |
 |---|---|
-| `cards.json` | Nguồn dữ liệu 78 lá (scene/count) — v4: không còn dùng emblem trong prompt |
+| `cards.json` | Nguồn dữ liệu 78 lá (scene/count) — v5: thêm quality lock |
 | `01-CARD-TABLE.md` | Bảng chuẩn 72 nhân vật (tuổi · mắt · tóc · da · vóc dáng · nét riêng · không khí) |
-| `03-PROMPTS-78-FULL.md` | **78 prompt hoàn chỉnh full-bleed, copy-paste được ngay** |
+| `03-PROMPTS-78-FULL.md` | **78 prompt hoàn chỉnh full-bleed + quality lock, copy-paste được ngay** |
 | `prompts-full.json` | Bản máy đọc được của 78 prompt |
 | `the moon.png` | (Tùy chọn) tham chiếu phong cách ảnh trong — bỏ qua khung viền |
 
-Checklist v4:
-- [x] 78/78 prompt **full-bleed**: không khung, không emblem, không ribbon banner, không parchment — chỉ tên lá bài dưới đáy ảnh
-- [x] FRAMING LOCK nhúng 2 đầu prompt (sau mở đầu + trong câu kết) chống model vẽ lại khung
+Checklist v5:
+- [x] 78/78 prompt **full-bleed**: không khung, không emblem, không ribbon banner — chỉ tên lá bài dưới đáy ảnh
+- [x] 78/78 prompt có **QUALITY LOCK**: chống nhòe/vỡ nét/noise/artifact, nét sắc trên chủ thể, chi tiết tối đa
 - [x] 72/72 nhân vật nữ 18–25 đủ 8 thông số: mắt (màu+dáng+ánh nhìn) · tóc · da · vóc dáng A–D · nét riêng · không khí
 - [x] 0 nhân vật da đen/da sẫm — 10 tông sáng `porcelain → amber-gold`, khóa áp cho cả nhân vật phụ & hậu cảnh
 - [x] 0 nhân vật vượt trần "trung bình" (A 29 · B 30 · C 9 · D 4)
-- [x] Count lock nhúng sẵn trong từng prompt; cờ/đạo cụ trong bối cảnh vẫn được giữ
-- [x] Cờ/notification: `card-blank.png` không còn cần dùng
+- [x] Count lock nhúng sẵn; FRAMING LOCK nhúng 2 đầu; câu kết "Masterpiece quality"
