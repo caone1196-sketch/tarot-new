@@ -1,0 +1,22 @@
+A finished single tarot card in a portrait 7:12 composition. Use the supplied the moon.png as the ONLY visual reference: preserve its open edge-to-edge central window, dark atmospheric fine-art lighting, full-height scene, thin double-line gilded Gothic border, symmetric corner flourishes, and large antique-gold blackletter title at the bottom. The entire top area must remain open scene with no oval top medallion, no frame emblem, no top icon, and no decorative badge; any symbol explicitly required inside the cards.json scene remains part of that scene. Do not use another card as a visual reference and do not copy The Moon's specific scene objects or pose.
+
+The border and title treatment must be consistent across every card: same border thickness, same corner ornaments, same placement and scale, same typography, same portrait crop. The central scene must bleed slightly underneath the foreground gold border and fill the whole card interior from the top inner edge to the bottom title area. No stone arch, columns, or extra inner frame may squeeze the image unless they are part of the card's own scene. Only the card title may be lettered; no captions, labels, watermark, signature, or decorative top emblem/icon anywhere else. Preserve any named object or symbol that is explicitly part of the cards.json scene.
+
+Render tasteful classical fine-art tarot imagery with warm painterly light and atmospheric depth. All specified people are adult women or adults as stated by the supplied record. Preserve natural anatomy: every person has one head, one torso, no more than two arms and two legs, correctly joined shoulders, elbows, wrists, hips, knees, ankles, and natural hands. Keep every named character visually distinct. Do not add people, animals, props, suit objects, blades, staffs, cups, coins, or other countable items beyond the exact scene and count lock below. Do not borrow the Moon card's specific wolves, crayfish, towers, or nymph pose unless the record asks for them.
+
+CARD TITLE: EIGHT OF CUPS
+TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
+SCENE FROM cards.json (follow verbatim): a solitary young woman in a deep crimson cloak walking away with a staff, leaving eight stacked cups behind to journey toward misty moonlit peaks
+HAIR FROM cards.json: deep brown hair tucked under a travel cloak
+AGE FROM cards.json: 23 years old
+BUILD FROM cards.json: lean wanderer silhouette, resolute back turned toward mountains
+
+CHARACTER-SPECS identity lock (preserve these individual traits):
+Eyes: deep brown, narrow, quyết tâm quay lưng
+Skin tone: light olive
+Signature detail: sẹo nhỏ hình la bàn trên lòng bàn tay trái
+Aura: mưa, bước chân, núi xa
+
+COUNT LOCK: exactly 8 chalices. exactly eight chalices stacked on the rocky ledge as 3 + 3 + 2, with one clearly empty gap between the sixth and the seventh — 3 + 3 + 2 = 8; all eight bowls countable, none cropped by the frame.
+
+Final quality lock: complete card visible edge to edge, no cropped border, no duplicated limbs, no extra fingers, no accidental duplicate objects, exact title spelling, title centered at the bottom in the same antique-gold Gothic type as the Moon reference.

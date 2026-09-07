@@ -1,0 +1,787 @@
+{
+  "source": "cards.json",
+  "cards": [
+    {
+      "slug": "00-fool",
+      "title": "THE FOOL",
+      "group": "major",
+      "prompt_file": "prompts/00-fool.txt",
+      "image_file": "cards/00-fool.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "01-magician",
+      "title": "THE MAGICIAN",
+      "group": "major",
+      "prompt_file": "prompts/01-magician.txt",
+      "image_file": "cards/01-magician.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 4 suit objects on the altar. exactly four objects, one of each: one cup, one sword, one wand, one coin — all four resting on the altar table, all four wholly visible, no duplicates, nothing else on the table.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "02-priestess",
+      "title": "THE HIGH PRIESTESS",
+      "group": "major",
+      "prompt_file": "prompts/02-priestess.txt",
+      "image_file": "cards/02-priestess.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "03-empress",
+      "title": "THE EMPRESS",
+      "group": "major",
+      "prompt_file": "prompts/03-empress.txt",
+      "image_file": "cards/03-empress.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "04-emperor",
+      "title": "THE EMPEROR",
+      "group": "major",
+      "prompt_file": "prompts/04-emperor.txt",
+      "image_file": "cards/04-emperor.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "05-hierophant",
+      "title": "THE HIEROPHANT",
+      "group": "major",
+      "prompt_file": "prompts/05-hierophant.txt",
+      "image_file": "cards/05-hierophant.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "06-lovers",
+      "title": "THE LOVERS",
+      "group": "major",
+      "prompt_file": "prompts/06-lovers.txt",
+      "image_file": "cards/06-lovers.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "07-chariot",
+      "title": "THE CHARIOT",
+      "group": "major",
+      "prompt_file": "prompts/07-chariot.txt",
+      "image_file": "cards/07-chariot.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "08-strength",
+      "title": "STRENGTH",
+      "group": "major",
+      "prompt_file": "prompts/08-strength.txt",
+      "image_file": "cards/08-strength.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "09-hermit",
+      "title": "THE HERMIT",
+      "group": "major",
+      "prompt_file": "prompts/09-hermit.txt",
+      "image_file": "cards/09-hermit.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "10-wheel",
+      "title": "WHEEL OF FORTUNE",
+      "group": "major",
+      "prompt_file": "prompts/10-wheel.txt",
+      "image_file": "cards/10-wheel.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 sword. exactly one sword, held upright by the sphinx on top of the wheel; no other blade anywhere on the card.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "11-justice",
+      "title": "JUSTICE",
+      "group": "major",
+      "prompt_file": "prompts/11-justice.txt",
+      "image_file": "cards/11-justice.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 sword. exactly one sword, held upright in her left hand; no other blade on the card.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "12-hanged",
+      "title": "THE HANGED MAN",
+      "group": "major",
+      "prompt_file": "prompts/12-hanged.txt",
+      "image_file": "cards/12-hanged.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "13-death",
+      "title": "DEATH",
+      "group": "major",
+      "prompt_file": "prompts/13-death.txt",
+      "image_file": "cards/13-death.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "14-temperance",
+      "title": "TEMPERANCE",
+      "group": "major",
+      "prompt_file": "prompts/14-temperance.txt",
+      "image_file": "cards/14-temperance.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 2 chalices. exactly two chalices, one in each hand, both bowls fully visible and un-occluded.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "15-devil",
+      "title": "THE DEVIL",
+      "group": "major",
+      "prompt_file": "prompts/15-devil.txt",
+      "image_file": "cards/15-devil.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "16-tower",
+      "title": "THE TOWER",
+      "group": "major",
+      "prompt_file": "prompts/16-tower.txt",
+      "image_file": "cards/16-tower.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "17-the-star",
+      "title": "THE STAR",
+      "group": "major",
+      "prompt_file": "prompts/17-the-star.txt",
+      "image_file": "cards/17-the-star.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 2 jugs. exactly two jugs, one in each hand, both fully visible.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "18-moon",
+      "title": "THE MOON",
+      "group": "major",
+      "prompt_file": "prompts/18-moon.txt",
+      "image_file": "cards/18-moon.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "19-sun",
+      "title": "THE SUN",
+      "group": "major",
+      "prompt_file": "prompts/19-sun.txt",
+      "image_file": "cards/19-sun.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "generated"
+    },
+    {
+      "slug": "20-judgement",
+      "title": "JUDGEMENT",
+      "group": "major",
+      "prompt_file": "prompts/20-judgement.txt",
+      "image_file": "cards/20-judgement.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "21-world",
+      "title": "THE WORLD",
+      "group": "major",
+      "prompt_file": "prompts/21-world.txt",
+      "image_file": "cards/21-world.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 2 wands. exactly two wands, one gripped in each hand, both shafts visible from hand to tip.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-ace",
+      "title": "ACE OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-ace.txt",
+      "image_file": "cards/wands-ace.jpg",
+      "character_traits_included": false,
+      "count_lock": "COUNT LOCK: exactly 1 wand. exactly one wand, sprouting and alive, held by the divine hand; no second staff anywhere, not even in the landscape.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-02",
+      "title": "TWO OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-02.txt",
+      "image_file": "cards/wands-02.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 2 wands. exactly two wands: one held upright in her right hand, one mounted upright on the stone battlement to her left — 1 + 1 = 2; both shafts complete from base to tip, they do not cross.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-03",
+      "title": "THREE OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-03.txt",
+      "image_file": "cards/wands-03.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 3 wands. exactly three wands planted upright in one straight diagonal row across the foreground, evenly spaced and widely separated, all three tips clear of the horizon, none overlapping or crossing — count them left to right: 1, 2, 3.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-04",
+      "title": "FOUR OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-04.txt",
+      "image_file": "cards/wands-04.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 4 wands. exactly four wands as the four corner posts of a canopy — two on the left, two on the right — 2 + 2 = 4; draw the two rear posts slightly taller than the two front posts so no post is hidden behind another; all four shafts fully visible from ground to tip, their tops joined by one flower garland.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-05",
+      "title": "FIVE OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-05.txt",
+      "image_file": "cards/wands-05.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 5 wands. exactly five wands in total, exactly one gripped in each of the five women's hands — five women, five wands, one wand per woman, nobody holds two, no extra wand on the ground, no wand leaning anywhere, no wand in the background — count the wands: 1, 2, 3, 4, 5 and no more.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-06",
+      "title": "SIX OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-06.txt",
+      "image_file": "cards/wands-06.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 6 wands. exactly six wands: one laurel-crowned wand raised in the heroine's hand plus five held by the five followers behind her — 1 + 5 = 6; each follower holds their wand upright and well above shoulder height so all five are separately countable against the sky, no wand resting on a shoulder.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-07",
+      "title": "SEVEN OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-07.txt",
+      "image_file": "cards/wands-07.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 7 wands. exactly seven wands: one held in the young woman's two hands plus six rising from below the cliff edge in front of her — 1 + 6 = 7; the six lower tips evenly spaced along the cliff line, none overlapping.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-08",
+      "title": "EIGHT OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-08.txt",
+      "image_file": "cards/wands-08.jpg",
+      "character_traits_included": false,
+      "count_lock": "COUNT LOCK: exactly 8 wands. exactly eight wands in ONE single parallel diagonal row across the open sky — 1 row of 8, evenly spaced, all eight pointing the same way, none crossing, none cropped by the frame.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-09",
+      "title": "NINE OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-09.txt",
+      "image_file": "cards/wands-09.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 9 wands. exactly nine wands: eight planted upright in one straight palisade row BEHIND her, evenly spaced and clear of her body, plus the one she holds in front of her — 8 + 1 = 9; all nine countable against open sky.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-10",
+      "title": "TEN OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-10.txt",
+      "image_file": "cards/wands-10.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 10 wands. exactly ten wands in one natural bundle tied at the middle — count the ten tips of the fan: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; no nine, no eleven.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-page",
+      "title": "PAGE OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-page.txt",
+      "image_file": "cards/wands-page.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 wand. exactly one living wand; no second staff, no decorative staffs in the dunes.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-knight",
+      "title": "KNIGHT OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-knight.txt",
+      "image_file": "cards/wands-knight.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 wand. exactly one wand, raised gently in her hand; no other staff.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-queen",
+      "title": "QUEEN OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-queen.txt",
+      "image_file": "cards/wands-queen.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 wand. exactly one sunflower wand; no other staff.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "wands-king",
+      "title": "KING OF WANDS",
+      "group": "wands",
+      "prompt_file": "prompts/wands-king.txt",
+      "image_file": "cards/wands-king.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 wand. exactly one living green wand; no other staff.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-ace",
+      "title": "ACE OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-ace.txt",
+      "image_file": "cards/cups-ace.jpg",
+      "character_traits_included": false,
+      "count_lock": "COUNT LOCK: exactly 1 chalice. exactly one chalice; the five overflowing streams are water, not cups — do not draw extra chalices in the pool.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-02",
+      "title": "TWO OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-02.txt",
+      "image_file": "cards/cups-02.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 2 chalices. exactly two chalices, one raised in each lover's hand, one on the left and one on the right, both bowls fully visible and not overlapping — no third cup.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-03",
+      "title": "THREE OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-03.txt",
+      "image_file": "cards/cups-03.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 3 chalices. exactly three chalices — one raised by each of the three maidens, three dancers and three cups, one per figure; all three bowls held above shoulder height and countable.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-04",
+      "title": "FOUR OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-04.txt",
+      "image_file": "cards/cups-04.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 4 chalices. exactly four chalices: three standing upright in a row on the grass in front of him, evenly spaced, plus the one offered by the hand from the cloud — 3 + 1 = 4; all four bowls visible.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-05",
+      "title": "FIVE OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-05.txt",
+      "image_file": "cards/cups-05.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 5 chalices. exactly five chalices: three spilled and empty lying in the foreground plus two still upright and full standing on the bank behind him — 3 + 2 = 5; all five bowls countable, none hidden behind his cloak.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-06",
+      "title": "SIX OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-06.txt",
+      "image_file": "cards/cups-06.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 6 chalices. exactly six chalices, each filled with flowers: one being passed between their hands plus five standing in a row along the courtyard wall behind them — 1 + 5 = 6; all six bowls separate and countable.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-07",
+      "title": "SEVEN OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-07.txt",
+      "image_file": "cards/cups-07.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 7 chalices. exactly seven chalices on ONE luminous cloud, arranged as two clean rows: 4 on the lower row and 3 on the upper row — 4 + 3 = 7; evenly spaced against open sky, each bowl separate and un-occluded.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-08",
+      "title": "EIGHT OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-08.txt",
+      "image_file": "cards/cups-08.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 8 chalices. exactly eight chalices stacked on the rocky ledge as 3 + 3 + 2, with one clearly empty gap between the sixth and the seventh — 3 + 3 + 2 = 8; all eight bowls countable, none cropped by the frame.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-09",
+      "title": "NINE OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-09.txt",
+      "image_file": "cards/cups-09.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 9 chalices. exactly nine chalices on the shelf behind him as a neat 3 x 3 grid — three rows of three, 3 + 3 + 3 = 9; evenly spaced, all nine bowls fully visible.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-10",
+      "title": "TEN OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-10.txt",
+      "image_file": "cards/cups-10.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 10 chalices. exactly ten chalices along ONE rainbow arc — 4 on the left half, 4 on the right half, 2 at the apex — 4 + 4 + 2 = 10; evenly spaced against open sky, all ten bowls countable.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-page",
+      "title": "PAGE OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-page.txt",
+      "image_file": "cards/cups-page.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 chalice. exactly one chalice; no other cup anywhere in the scene.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-knight",
+      "title": "KNIGHT OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-knight.txt",
+      "image_file": "cards/cups-knight.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 chalice. exactly one golden chalice; no other cup.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-queen",
+      "title": "QUEEN OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-queen.txt",
+      "image_file": "cards/cups-queen.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 chalice. exactly one lidded golden chalice; no other cup.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "cups-king",
+      "title": "KING OF CUPS",
+      "group": "cups",
+      "prompt_file": "prompts/cups-king.txt",
+      "image_file": "cards/cups-king.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 chalice. exactly one chalice; no other cup.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-ace",
+      "title": "ACE OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-ace.txt",
+      "image_file": "cards/swords-ace.jpg",
+      "character_traits_included": false,
+      "count_lock": "COUNT LOCK: exactly 1 sword. exactly one sword, upright in the divine hand; no second blade anywhere.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-02",
+      "title": "TWO OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-02.txt",
+      "image_file": "cards/swords-02.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 2 swords. exactly two long blades forming a single X across her chest, one over each shoulder; no third blade, no dagger at her belt.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-03",
+      "title": "THREE OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-03.txt",
+      "image_file": "cards/swords-03.jpg",
+      "character_traits_included": false,
+      "count_lock": "COUNT LOCK: exactly 3 swords. exactly three swords through one heart — one vertical from above and two angled from the left and right; three separate hilts clearly countable against the storm sky, 1, 2, 3.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-04",
+      "title": "FOUR OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-04.txt",
+      "image_file": "cards/swords-04.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 4 swords. exactly four swords: three mounted horizontally on the wall above him, stacked in a row of 3, plus one lying flat on the tomb slab beneath him — 3 + 1 = 4; all four blades complete and countable.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-05",
+      "title": "FIVE OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-05.txt",
+      "image_file": "cards/swords-05.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 5 swords. exactly five swords: three gathered in the victor's hands, held upright and fanned so all three hilts are separate, plus two lying abandoned in the sand behind him — 3 + 2 = 5.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-06",
+      "title": "SIX OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-06.txt",
+      "image_file": "cards/swords-06.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 6 swords. exactly six swords standing upright in the boat — three on the left of the passengers and three on the right, 3 + 3 = 6; evenly spaced, all six hilts above the gunwale, none crossing the figures.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-07",
+      "title": "SEVEN OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-07.txt",
+      "image_file": "cards/swords-07.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 7 swords. five swords carried in his arms, held upright and fanned apart so that there are FOUR GAPS of clear sky between the five hilts — five hilts, four gaps — plus TWO swords planted upright in the grass behind him with ONE WIDE GAP of bare grass between them — two swords, one gap; 5 + 2 = 7. THIS CARD HAS ALREADY FAILED ONCE BY SHOWING NINE SWORDS: the usual mistake is drawing FOUR swords planted in the grass instead of two. Plant exactly TWO in the grass, never four, and count them: 1, 2.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-08",
+      "title": "EIGHT OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-08.txt",
+      "image_file": "cards/swords-08.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 8 swords. eight swords planted in one open ring around her — THREE in front of her with two gaps between them, ONE at her left side, ONE at her right side, THREE behind her with two gaps between them; 3 + 1 + 1 + 3 = 8. Walk the ring and count the eight gaps of bare ground between neighbours: 1, 2, 3, 4, 5, 6, 7, 8. THIS CARD HAS ALREADY FAILED ONCE BY SHOWING NINE SWORDS: the usual mistake is adding one extra sword to the group behind her. Keep the group behind her at exactly THREE.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-09",
+      "title": "NINE OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-09.txt",
+      "image_file": "cards/swords-09.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 9 swords. exactly nine swords mounted on the dark wall in three rows of three — 3 + 3 + 3 = 9; a neat 3 x 3 grid of horizontal blades, all nine countable, none hidden behind her head or hands.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-10",
+      "title": "TEN OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-10.txt",
+      "image_file": "cards/swords-10.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 10 swords. exactly ten swords planted along the back in two staggered rows of five — 5 + 5 = 10; all ten hilts countable in a row from shoulder to hip, evenly spaced, none overlapping.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-page",
+      "title": "PAGE OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-page.txt",
+      "image_file": "cards/swords-page.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 sword. exactly one sword, gripped in both hands; no dagger, no second blade.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-knight",
+      "title": "KNIGHT OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-knight.txt",
+      "image_file": "cards/swords-knight.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 sword. exactly one sword, pointed forward like a lance; no other blade.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-queen",
+      "title": "QUEEN OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-queen.txt",
+      "image_file": "cards/swords-queen.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 sword. exactly one upright sword; no other blade.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "swords-king",
+      "title": "KING OF SWORDS",
+      "group": "swords",
+      "prompt_file": "prompts/swords-king.txt",
+      "image_file": "cards/swords-king.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 sword. exactly one upright sword; no other blade.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-ace",
+      "title": "ACE OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-ace.txt",
+      "image_file": "cards/pentacles-ace.jpg",
+      "character_traits_included": false,
+      "count_lock": "COUNT LOCK: exactly 1 pentacle coin. exactly one large golden pentacle coin in the divine hand; no other coin, no coins scattered in the garden.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-02",
+      "title": "TWO OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-02.txt",
+      "image_file": "cards/pentacles-02.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 2 pentacle coins. exactly two coins, one at each end of the looping infinity ribbon, one in each hand; both discs fully visible against the sky, no third coin.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-03",
+      "title": "THREE OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-03.txt",
+      "image_file": "cards/pentacles-03.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 3 pentacle coins. exactly three coins set into the stone arch above the sculptor — one at the apex and two at the springing points, 1 + 2 = 3; all three discs fully visible, none hidden by the arch's shadow.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-04",
+      "title": "FOUR OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-04.txt",
+      "image_file": "cards/pentacles-04.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 4 pentacle coins. exactly four coins: one clutched to his chest, one balanced in his crown, two pressed beneath his feet — 1 + 1 + 2 = 4; all four discs fully visible, none buried in the ground or hidden by his robes.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-05",
+      "title": "FIVE OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-05.txt",
+      "image_file": "cards/pentacles-05.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 5 pentacle coins. exactly five glowing coins set in the tall stained-glass window in a quincunx — one at the top center, two on the middle row, two on the bottom row, 1 + 2 + 2 = 5; all five discs separate and countable.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-06",
+      "title": "SIX OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-06.txt",
+      "image_file": "cards/pentacles-06.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 6 pentacle coins. exactly six coins on the balance — three stacked in the left pan and three stacked in the right pan, 3 + 3 = 6; all six discs visible above the pan rims, no coins loose on the ground.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-07",
+      "title": "SEVEN OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-07.txt",
+      "image_file": "cards/pentacles-07.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 7 pentacle coins. exactly seven coins growing on the vine — three on the left branch, three on the right branch, one at the top center, 3 + 3 + 1 = 7; all seven fully visible and un-occluded by leaves.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-08",
+      "title": "EIGHT OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-08.txt",
+      "image_file": "cards/pentacles-08.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 8 pentacle coins. exactly eight finished coins in ONE straight row of 8 along the front edge of the bench, evenly spaced and all eight countable; the blank stone disc she is chiseling is unfinished and bears no star, so it does NOT count and must not look like a coin.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-09",
+      "title": "NINE OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-09.txt",
+      "image_file": "cards/pentacles-09.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 9 pentacle coins. exactly nine coins fixed to the arbor beam in ONE row of 9, evenly spaced against open sky, all nine fully visible, none hidden by leaves or by her body — count them left to right: 1 to 9.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-10",
+      "title": "TEN OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-10.txt",
+      "image_file": "cards/pentacles-10.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 10 pentacle coins. exactly ten coins on the wall in a Tree-of-Life pyramid — 4 on the bottom row, 3 above them, 2 above those, 1 at the apex, 4 + 3 + 2 + 1 = 10; all ten discs countable, none hidden behind the figures.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-page",
+      "title": "PAGE OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-page.txt",
+      "image_file": "cards/pentacles-page.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 pentacle coin. exactly one large coin, held in both hands; no other coin anywhere.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-knight",
+      "title": "KNIGHT OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-knight.txt",
+      "image_file": "cards/pentacles-knight.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 pentacle coin. exactly one coin, resting in his open palm; no other coin.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-queen",
+      "title": "QUEEN OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-queen.txt",
+      "image_file": "cards/pentacles-queen.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 pentacle coin. exactly one coin, resting in her lap; no other coin.",
+      "artwork_status": "pending-generation"
+    },
+    {
+      "slug": "pentacles-king",
+      "title": "KING OF PENTACLES",
+      "group": "pentacles",
+      "prompt_file": "prompts/pentacles-king.txt",
+      "image_file": "cards/pentacles-king.jpg",
+      "character_traits_included": true,
+      "count_lock": "COUNT LOCK: exactly 1 pentacle coin. exactly one coin, held in one hand; no other coin.",
+      "artwork_status": "pending-generation"
+    }
+  ],
+  "artwork_generated_count": 13,
+  "artwork_pending_count": 65
+}
