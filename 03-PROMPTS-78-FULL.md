@@ -30,13 +30,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE FOOL" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a carefree 19-year-old woman wanderer wearing only a single thin strip of silk covering the lower part of her body, a long silk train streaming behind her, a white rose lifted in one hand and her eyes lowered to look at it, stepping lightly toward a cliff edge, a small white dog leaping at her heel, distant mountains under a golden morning sun.
+a carefree 19-year-old woman wanderer, a long silk train streaming behind her, a white rose lifted in one hand and her eyes lowered to look at it, stepping lightly toward a cliff edge, a small white dog leaping at her heel, distant mountains under a golden morning sun.
 
 Main figure — the carefree young wanderer — render exactly as specified: a 19-year-old young woman.
 Eyes: wide, bright doe eyes of honey-amber — innocent and utterly unguarded.
 Hair: loose wind-tossed honey-blonde waves down to her shoulder blades, sunlit and carefree.
 Skin: warm peach — warm peach, sun-kissed with a natural rosy glow.
 Build: Level A — slender — petite and lithe, tiny waist, a figure light as a breeze, softly natural curves.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: three tiny golden freckles beneath her left eye.
 Aura: morning wind, honey, the beckoning abyss.
 
@@ -64,13 +65,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE MAGICIAN" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a young woman magician wearing only a single thin strip of silk covering the lower part of her body, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her.
+a young woman magician, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her.
 
 Main figure — the magician — render exactly as specified: a 22-year-old young woman.
 Eyes: hooded pale-violet eyes, half-lidded and seductive — a mesmerizing gaze that is hard to escape.
 Hair: jet-black straight hair falling past her waist like a sleek silk curtain, center-parted.
 Skin: porcelain — cool porcelain-white with faint blue veining and a pearlescent sheen.
 Build: Level B — svelte and graceful — tall and svelte, elegantly slender, a graceful inviting stance.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a fine silver scar along her right index finger.
 Aura: static in the air, black ink, cold silver.
 
@@ -98,13 +100,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HIGH PRIESTESS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene young priestess with bare shoulders, wearing only a single thin strip of silk covering the lower part of her body, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet.
+a serene young priestess with bare shoulders, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet.
 
 Main figure — the high priestess — render exactly as specified: a 23-year-old young woman.
 Eyes: heavy-lidded deep sea-green eyes, half-closed and mystical.
-Hair: deep auburn hair with soft natural waves, cascading beneath a gossamer veil.
+Hair: deep auburn hair with soft natural waves, cascading loose.
 Skin: ivory — warm ivory-white, smooth as silk.
 Build: Level A — slender — slender and delicate with a long graceful neck, seated in calm enigmatic poise.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small crescent-shaped birthmark behind her left ear.
 Aura: moonlight, incense smoke, old parchment.
 
@@ -132,13 +135,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE EMPRESS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a slender young empress wearing only a single thin strip of silk covering the lower part of her body, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her.
+a slender young empress, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her.
 
 Main figure — the empress — render exactly as specified: a 24-year-old young woman.
 Eyes: warm topaz-amber almond eyes with a slight upward tilt, a soft sensual gaze.
 Hair: thick ripe-wheat golden-blonde hair spilling over both shoulders in soft ropey curls, garlanded with flowers.
 Skin: honey — golden honey, glinting in sunlight.
 Build: Level D — average shapely — softly full and shapely within the average range — gently curved hips and bust, alluring but never exaggerated.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small beauty mark on her left collarbone.
 Aura: ripe wheat, honey, orange blossom.
 
@@ -166,13 +170,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE EMPEROR" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 25-year-old female emperor reclining gracefully on a stone throne carved with ram heads, wearing only a single thin strip of silk covering the lower part of her body, holding an ankh scepter loosely in one hand, barren rugged mountains behind her.
+a serene 25-year-old female emperor reclining gracefully on a stone throne carved with ram heads, holding an ankh scepter loosely in one hand, barren rugged mountains behind her.
 
 Main figure — the female emperor — render exactly as specified: a 25-year-old young woman.
 Eyes: hooded storm-grey eyes, deep and compelling — a holding gaze.
 Hair: sleek dark bronze-brown hair in one long glossy braid draped over her shoulder, crowned with a golden ram-horn circlet.
 Skin: sand — even, smooth warm sand.
 Build: Level B — svelte and graceful — tall and svelte, a proud regal bearing with elegant curves.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small notch scar through her right eyebrow.
 Aura: granite, red velvet, golden candlelight.
 
@@ -200,13 +205,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HIEROPHANT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 24-year-old female high mystic priestess wearing only a single thin strip of red silk covering the lower part of her body, raising one blessing hand, two fair-skinned kneeling female acolytes before her, sacred temple pillars behind.
+a serene 24-year-old female high mystic priestess, raising one blessing hand, two fair-skinned kneeling female acolytes before her, sacred temple pillars behind.
 
 Main figure — the high mystic priestess — render exactly as specified: a 24-year-old young woman.
 Eyes: dreamy moss-green eyes, gentle and knowing, softly lowered.
 Hair: thick espresso-brown waves falling loose over her bare shoulders and back.
 Skin: fair — soft fair skin with a pearly blush.
-Build: Level A — slender — tall and slender, standing gracefully in her ceremonial vestments.
+Build: Level A — slender — tall and slender, standing gracefully.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small gold ring on the tragus of her left ear.
 Aura: distant bells, lambskin, ancient script.
 
@@ -234,13 +240,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE LOVERS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a fair-skinned young man and a young woman wearing only a single thin strip of silk covering the lower part of her body, standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him.
+a fair-skinned young man in a simple loincloth and a young woman, standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him.
 
 Main figure — the young woman of the pair — render exactly as specified: a 21-year-old young woman.
 Eyes: chestnut-amber doe eyes glancing devotedly toward her partner.
 Hair: warm chestnut-brown hair gathered in a loose romantic knot with soft wisps framing her cheeks.
 Skin: warm peach — warm peach, sun-kissed with a natural rosy glow.
 Build: Level A — slender — a slender hourglass with a soft waist, gracefully supple.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a dimple on her right cheek.
 Aura: orange blossom, summer wind, a promise.
 
@@ -268,13 +275,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE CHARIOT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a heroic bare-shouldered woman charioteer wearing only a single thin strip of white silk covering the lower part of her body, with no armor, standing tall in a stone chariot between two sphinxes under a starry canopy, a walled city behind her.
+a heroic bare-shouldered woman charioteer, standing tall in a stone chariot between two sphinxes under a starry canopy, a walled city behind her.
 
 Main figure — the charioteer — render exactly as specified: a 22-year-old young woman.
 Eyes: narrow steel-blue eyes — a challenge softened with allure.
 Hair: dark sable-brown hair in a single thick glossy plait draped over one shoulder.
 Skin: light olive — light warm olive, faintly golden at the shoulders and arms.
 Build: Level B — svelte and graceful — svelte with a cinched waist, gracefully proud on the chariot.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small lightning-bolt scar on her right forearm.
 Aura: road dust, beating hooves, banners.
 
@@ -302,13 +310,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "STRENGTH" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a young woman garlanded with roses, wearing only a single thin strip of silk covering the lower part of her body, one knee raised, leaning in close to calmly close the jaws of a great golden lion, her bare back arched and her hip lit by low sun, an infinity sign glowing above her head.
+a young woman garlanded with roses, one knee raised, leaning in close to calmly close the jaws of a great golden lion, her bare back arched and her hip lit by low sun, an infinity sign glowing above her head.
 
 Main figure — the maiden — render exactly as specified: a 23-year-old young woman.
 Eyes: amber-gold almond eyes like a lioness — radiant yet gentle.
 Hair: burnished copper-red long wavy hair flowing down like a lion’s mane.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level B — svelte and graceful — softly slender with a slim waist, naturally alluring curves.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: fine freckles across the bridge of her nose and her cheeks.
 Aura: late-afternoon sun, lion’s fur, warm breath.
 
@@ -336,13 +345,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HERMIT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a hermit woman standing on a bare mountain peak under a deep star-filled night sky, holding up a lit lantern with warm golden light pouring out of it, wearing only a single thin strip of white silk covering the lower part of her body, her bare back softly aglow in the golden lantern light.
+a hermit woman standing on a bare mountain peak under a deep star-filled night sky, holding up a lit lantern with warm golden light pouring out of it, her bare back softly aglow in the golden lantern light.
 
 Main figure — the hermit — render exactly as specified: a 23-year-old young woman.
 Eyes: dreamy silver-grey eyes, almost translucent, serene.
-Hair: ethereal silver-ash long hair falling loose in soft waves beneath a white cowl gauze.
+Hair: ethereal silver-ash long hair falling loose in soft waves.
 Skin: porcelain — cool porcelain-white with faint blue veining and a pearlescent sheen.
 Build: Level A — slender — slender and mystical, seated in pure meditation.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a tiny moon-shaped birthmark on her inner right wrist.
 Aura: silent snowfall, a single candle.
 
@@ -370,13 +380,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "WHEEL OF FORTUNE" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a great golden wheel of fortune inscribed with mystic letters, a serene fair-skinned winged female sphinx wearing only a single thin strip of silk covering the lower part of her body, seated gently atop the wheel holding a single upright sword loosely in one hand, a rising golden serpent on one side and a golden jackal-headed deity on the other, four graceful fair-skinned winged female watchers each wearing only a single thin strip of silk covering the lower part of the body, reclining softly at the four corners.
+a great golden wheel of fortune inscribed with mystic letters, a serene fair-skinned winged female sphinx, seated gently atop the wheel holding a single upright sword loosely in one hand, a rising golden serpent on one side and a golden jackal-headed deity on the other, four graceful fair-skinned winged female watchers each wearing only a single thin strip of silk covering the lower part of the body, reclining softly at the four corners.
 
 Main figure — the winged sphinx atop the wheel — render exactly as specified: a 22-year-old young woman.
 Eyes: upturned golden-hazel eyes gazing dreamily into the distance like a prophetess.
 Hair: golden-amber braided hair crowned with delicate celestial laurels.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level B — svelte and graceful — tall and fine-limbed, a graceful floating angelic figure.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: three small gold earrings stacked along her left ear.
 Aura: swirling wind, the turning wheel, stars.
 
@@ -404,13 +415,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "JUSTICE" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a statuesque bare-shouldered queen, wearing only a single thin strip of silk covering the lower part of her body, a sword upright in one hand and balanced scales in the other, seated on a stone throne between pillars.
+a statuesque bare-shouldered queen, a sword upright in one hand and balanced scales in the other, seated on a stone throne between pillars.
 
 Main figure — the queen of justice — render exactly as specified: a 24-year-old young woman.
 Eyes: wide-set grey-green eyes, candid and warmly alluring.
 Hair: sleek raven-black hair drawn back into a high polished half-ponytail.
 Skin: ivory — warm ivory-white, smooth as silk.
 Build: Level B — svelte and graceful — tall and slender with delicate collarbones, a softly proud stance.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a fine scar along her left jawline.
 Aura: balanced scales, marble, silence.
 
@@ -438,13 +450,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HANGED MAN" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 21-year-old young woman wearing only a single thin strip of silk covering the lower part of her body, suspended upside-down by one ankle from a living tree shaped like a cross, one leg bent gracefully, a radiant halo of golden light glowing around her head.
+a serene 21-year-old young woman, suspended upside-down by one ankle from a living tree shaped like a cross, one leg bent gracefully, a radiant halo of golden light glowing around her head.
 
 Main figure — the suspended maiden — render exactly as specified: a 21-year-old young woman.
 Eyes: heavy-lidded deep teal eyes, calm even upside-down.
 Hair: golden-brown tousled locks cascading downward with gravity, glowing in ethereal light.
 Skin: light olive — light warm olive, faintly golden at the shoulders and arms.
 Build: Level A — slender — supple and slender as a dancer, gracefully arched while suspended.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: an ivy-vine tattoo around her left ankle.
 Aura: twilight, tree roots, water.
 
@@ -472,13 +485,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "DEATH" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a striking 22-year-old pale female figure wearing only a single thin strip of black silk covering the lower part of her body, riding a calm black charger, holding a black banner adorned with a five-petaled white rose, a golden sunrise glowing between twin distant towers.
+a striking 22-year-old pale female figure, riding a calm black charger, holding a black banner adorned with a five-petaled white rose, a golden sunrise glowing between twin distant towers.
 
 Main figure — the pale rider — render exactly as specified: a 22-year-old young woman.
 Eyes: pale hooded ice-blue eyes, deep as an enchanting night.
 Hair: long bone-platinum hair flowing loose behind an ornate gothic helm.
 Skin: porcelain — cool porcelain-white with faint blue veining and a pearlescent sheen.
 Build: Level A — slender — tall and slender, an ethereal gothic silhouette.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a white-rose tattoo on her right shoulder blade.
 Aura: cold mist, a wilted flower.
 
@@ -506,13 +520,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEMPERANCE" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a graceful winged figure with long loosened hair, wearing only a single thin strip of silk covering the lower part of her body, seated gracefully on a mossy stone by the pool with one leg trailing into the water, pouring from a golden chalice tilted high in her raised hand while her other hand holds a second golden chalice positioned directly beneath the upper chalice's lip so that its open mouth catches the falling water, a single smooth unbroken stream of water pouring straight down from the tilted upper chalice and landing inside the lower chalice's bowl, irises blooming around the pool, warm sepia and ochre light.
+a graceful winged figure with long loosened hair, seated gracefully on a mossy stone by the pool with one leg trailing into the water, pouring from a golden chalice tilted high in her raised hand while her other hand holds a second golden chalice positioned directly beneath the upper chalice's lip so that its open mouth catches the falling water, a single smooth unbroken stream of water pouring straight down from the tilted upper chalice and landing inside the lower chalice's bowl, irises blooming around the pool, warm sepia and ochre light.
 
 Main figure — the winged water-pourer — render exactly as specified: a 22-year-old young woman.
 Eyes: light upturned aquamarine eyes, clear as water.
 Hair: pale fine ash-blonde hair floating weightlessly in the air.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — willowy and slim with long limbs and a softly arched back.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a silver crescent scar on her right palm.
 Aura: flowing water, light passing through, balance.
 
@@ -540,13 +555,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE DEVIL" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a horned winged female arch-devil wearing only a single thin strip of black silk covering the lower part of her body, upon a dark pedestal; beside her two alluring fair-skinned young women wearing only thin strips of silk covering the lower parts of their bodies, arched in golden chains, their bodies glowing in candlelit shadow inside an obsidian cavern.
+a horned winged female arch-devil, upon a dark pedestal; beside her two alluring fair-skinned young women wearing only thin strips of silk covering the lower parts of their bodies, arched in golden chains, their bodies glowing in candlelit shadow inside an obsidian cavern.
 
 Main figure — the horned arch-devil — render exactly as specified: a 21-year-old young woman.
 Eyes: heavy-lidded wine-plum cat eyes, burning.
 Hair: midnight-black wavy hair with deep wine-red undertones, wild and untamed.
 Skin: sand — even, smooth warm sand.
 Build: Level D — average shapely — softly curvy within the average range, gentle hips, a sensually arched back.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a deep-red beauty mark at the corner of her mouth.
 Aura: sweet smoke, sandalwood, chains.
 
@@ -581,6 +597,7 @@ Eyes: round slate-grey eyes wide with astonishment mid-fall.
 Hair: storm-dark chestnut hair blown dynamically backward by lightning winds.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level B — svelte and graceful — supple and slender, her body twisting softly through the fall.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a fine white scar on her left collarbone.
 Aura: thunder, gusting wind, falling stone.
 
@@ -608,13 +625,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE STAR" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a young woman wearing only a single thin strip of silk covering the lower part of her body, standing waist-deep in a clear pool at night, her body arched back and turned three-quarters toward the viewer, wet hair falling down her back, both arms raised pouring water from two jugs, one knee lifted, a great eight-pointed star and seven smaller stars above.
+a young woman, standing waist-deep in a clear pool at night, her body arched back and turned three-quarters toward the viewer, wet hair falling down her back, both arms raised pouring water from two jugs, one knee lifted, a great eight-pointed star and seven smaller stars above.
 
 Main figure — the star maiden — render exactly as specified: a 20-year-old young woman.
 Eyes: wide-set starlight grey-blue eyes, luminous as night water.
 Hair: very long pale shimmering gold hair, wet and silky, cascading down past one bare shoulder.
 Skin: ivory — warm ivory-white, smooth as silk.
 Build: Level A — slender — slender with long legs, the pure presence of a maiden goddess.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a spray of golden freckles across both shoulders.
 Aura: night water, stars, wet skin.
 
@@ -642,13 +660,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE MOON" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a pale moon with a serene face dropping dew, two towers and a winding path, a water nymph wearing only a single thin strip of silk covering the lower part of her body, rising from the dark pool with water streaming over her bare shoulders, a wolf and a dog howling, a crayfish in the water.
+a pale moon with a serene face dropping dew, two towers and a winding path, a water nymph, rising from the dark pool with water streaming over her bare shoulders, a wolf and a dog howling, a crayfish in the water.
 
 Main figure — the water nymph — render exactly as specified: a 21-year-old young woman.
 Eyes: heavy-lidded moonstone silver-violet eyes, dreamy.
 Hair: ink-blue-black hair with cool silvery highlights, cascading like water to her hips.
 Skin: porcelain — cool porcelain-white with faint blue veining and a pearlescent sheen.
 Build: Level A — slender — slender as a fairy, soft waist, gently curved hips.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small crescent scar on her left cheekbone.
 Aura: mist, a dark lake, the sound of water.
 
@@ -676,13 +695,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE SUN" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a joyful young woman wearing only a single thin strip of silk covering the lower part of her body, wearing a wreath of red flowers and riding a calm white horse, her shoulders turned toward the light, a red banner streaming, a radiant sun with a gentle face, a low sunflower wall.
+a joyful young woman, wearing a wreath of red flowers and riding a calm white horse, her shoulders turned toward the light, a red banner streaming, a radiant sun with a gentle face, a low sunflower wall.
 
 Main figure — the joyful rider — render exactly as specified: a 19-year-old young woman.
 Eyes: round gold-green (moss-gold) eyes sparkling with laughter.
 Hair: radiant sunflower-blonde hair in bouncing loose curls garlanded with red blossoms.
 Skin: honey — golden honey, glinting in sunlight.
 Build: Level A — slender — youthful and lightly slim, with joyful soft curves.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a band of golden freckles across the bridge of her nose.
 Aura: sunflowers, high summer.
 
@@ -710,13 +730,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "JUDGEMENT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene fair-skinned winged female angel wearing only a single thin strip of silk covering the lower part of her body, gently lifting a golden trumpet with a white banner; below, rising from calm waters, three beautiful fair-skinned young women with softly open arms turning toward the divine light — one ivory-skinned with flowing golden-blonde hair, one warm-toned with dark auburn curls, and one porcelain-skinned with soft raven-black waves — each with a distinct face and figure, each wearing only a single thin strip of silk covering the lower part of the body.
+a serene fair-skinned winged female angel, gently lifting a golden trumpet with a white banner; below, rising from calm waters, three beautiful fair-skinned young women with softly open arms turning toward the divine light — one ivory-skinned with flowing golden-blonde hair, one warm-toned with dark auburn curls, and one porcelain-skinned with soft raven-black waves — each with a distinct face and figure, each wearing only a single thin strip of silk covering the lower part of the body.
 
 Main figure — the winged angel — render exactly as specified: a 22-year-old young woman.
 Eyes: upturned amber eyes flecked with gold, wide open as if just awakened.
 Hair: rich amber-honey hair in thick luminous waves catching golden rays.
 Skin: warm peach — warm peach, sun-kissed with a natural rosy glow.
 Build: Level B — svelte and graceful — tall and slender, a soft figure with open welcoming arms.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small phoenix-feather scar at the nape of her neck.
 Aura: echoing bronze, a distant trumpet, dawn.
 
@@ -744,13 +765,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE WORLD" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene adult woman dancer posed gracefully with a gentle curve, one hip softly out and one knee lightly lifted, her body relaxed with her head tilted back, wearing only a single thin strip of white silk covering the lower part of her body, a soft silk train streaming behind her, one slim wand held lightly in each hand, dancing within a great oval laurel wreath, a fair-skinned angel, an eagle, a lion and a bull at the corners.
+a serene adult woman dancer posed gracefully with a gentle curve, one hip softly out and one knee lightly lifted, her body relaxed with her head tilted back, a soft silk train streaming behind her, one slim wand held lightly in each hand, dancing within a great oval laurel wreath, a fair-skinned angel, an eagle, a lion and a bull at the corners.
 
 Main figure — the dancing woman — render exactly as specified: a 22-year-old young woman.
 Eyes: wide-set deep emerald eyes, bright and complete.
 Hair: dark chocolate-chestnut hair swirling freely with violet silk ribbons.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level B — svelte and graceful — a perfect dancer’s figure with long legs and a slim waist.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a tiny gold stud in her right nostril.
 Aura: the dance, winds from the four directions, wildflowers.
 
@@ -809,13 +831,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene noblewoman on a battlement, wearing only a single thin strip of silk covering the lower part of her body, a globe of the world resting in one palm with her eyes lowered to look at it, one wand upright in her other hand, the second wand mounted on the wall behind her.
+a serene noblewoman on a battlement, a globe of the world resting in one palm with her eyes lowered to look at it, one wand upright in her other hand, the second wand mounted on the wall behind her.
 
 Main figure — the noblewoman — render exactly as specified: a 22-year-old young woman.
 Eyes: auburn-brown almond eyes gazing distantly in thought.
 Hair: deep auburn hair falling in long loose ringlets over one shoulder.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — slender, standing at ease in quiet contemplation.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a tiny beauty mark on the right of her upper lip.
 Aura: sea wind, warm stone, the horizon.
 
@@ -843,13 +866,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene woman merchant seen from behind on a high rocky headland, standing tall with her long back line turned to us, wearing only a single thin strip of silk covering the lower part of her body, its long end streaming in the sea wind, one hand resting high on the staff beside her and the other raised to shade her eyes as she gazes far out to sea, three staves planted upright in a row around her, sailing ships on a golden sea.
+a serene woman merchant seen from behind on a high rocky headland, standing tall with her long back line turned to us, one hand resting high on the staff beside her and the other raised to shade her eyes as she gazes far out to sea, three staves planted upright in a row around her, sailing ships on a golden sea.
 
 Main figure — the woman merchant — render exactly as specified: a 23-year-old young woman.
 Eyes: honey-brown almond eyes lost in a dreamy gaze toward the far sea.
 Hair: warm caramel-brown hair loosely braided with a golden cord.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level B — svelte and graceful — tall and slim, a long relaxed back turned toward the horizon.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small gold ring on her right thumb.
 Aura: sunset, the harbor, sails.
 
@@ -884,6 +908,7 @@ Eyes: round dark cherry-violet eyes sparkling with mischief.
 Hair: blue-black hair piled high in a floral-pinned braided updo.
 Skin: light olive — light warm olive, faintly golden at the shoulders and arms.
 Build: Level B — svelte and graceful — supple and slender with a dancer’s waist, arms raised gracefully.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a flower-shaped cluster of freckles on her left shoulder.
 Aura: candles, a festival dance, drifting petals.
 
@@ -918,6 +943,7 @@ Eyes: narrow hazel-green eyes with a playful mischievous glint.
 Hair: short tousled copper-brown hair with damp tendrils curling at her temples.
 Skin: sand — even, smooth warm sand.
 Build: Level B — svelte and graceful — svelte, a dancing supple stance full of life.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a fine scar across the knuckles of her right hand.
 Aura: a sunlit square, staves clashing like a dance rhythm.
 
@@ -945,13 +971,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene woman on a white horse, wearing only a single thin strip of silk covering the lower part of her body, a laurel wreath on her brow, one crowned wand raised gently in her hand, five fair-skinned admirers behind her each holding one wand.
+a serene woman on a white horse, a laurel wreath on her brow, one crowned wand raised gently in her hand, five fair-skinned admirers behind her each holding one wand.
 
 Main figure — the crowned heroine — render exactly as specified: a 22-year-old young woman.
 Eyes: upturned golden-amber eyes, proudly lifted.
 Hair: honey-gold hair billowing triumphantly in the wind.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level B — svelte and graceful — tall and fine, a graceful figure on horseback, hair streaming in the sun.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a row of small gold earrings down her left ear.
 Aura: cheering crowds, banners, victory sunlight.
 
@@ -979,13 +1006,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene young woman standing atop a high crag, wearing only a single thin strip of silk covering the lower part of her body, holding one great wand gently with both hands, six wands rising from below.
+a serene young woman standing atop a high crag, holding one great wand gently with both hands, six wands rising from below.
 
 Main figure — the young woman on the crag — render exactly as specified: a 21-year-old young woman.
 Eyes: narrow dark-chestnut eyes behind half-lidded enchantment.
 Hair: dark espresso hair cropped close at the sides with messy curls on top.
 Skin: light olive — light warm olive, faintly golden at the shoulders and arms.
 Build: Level A — slender — slender, leaning gracefully at the forest’s edge.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small notch in her left eyebrow.
 Aura: the wood’s edge, night, a small fire.
 
@@ -1039,13 +1067,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene young woman wearing only a single thin strip of silk covering the lower part of her body, gently resting her hands on one standing wand, eight wands upright behind her like a palisade.
+a serene young woman, gently resting her hands on one standing wand, eight wands upright behind her like a palisade.
 
 Main figure — the young woman by the palisade — render exactly as specified: a 24-year-old young woman.
 Eyes: hooded umber eyes, half-closed and sultry.
 Hair: dark brown hair pulled back with a simple leather tie.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level B — svelte and graceful — tall and slim, resting languidly by the campfire, with naturally soft curves.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small rooster-comb strip of scar on her right shoulder.
 Aura: a campfire, night mist, warm firelight.
 
@@ -1073,13 +1102,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 23-year-old woman reclining gracefully on soft grass, wearing only a single thin strip of silk covering the lower part of her body, resting beside a boulder; leaning against the boulder behind her is one natural bundle of ten long wooden wands tied loosely at the middle with a thin cord, their upper ends spreading apart in a natural fan like an open hand fan, every wand the same length and thickness, evenly spaced with a clear gap of sky between each shaft, all ten tips clearly separated and countable, the lower ends gathered together in the grass, none crossing, none hidden, a distant sunlit castle beyond.
+a serene 23-year-old woman reclining gracefully on soft grass, resting beside a boulder; leaning against the boulder behind her is one natural bundle of ten long wooden wands tied loosely at the middle with a thin cord, their upper ends spreading apart in a natural fan like an open hand fan, every wand the same length and thickness, evenly spaced with a clear gap of sky between each shaft, all ten tips clearly separated and countable, the lower ends gathered together in the grass, none crossing, none hidden, a distant sunlit castle beyond.
 
 Main figure — the reclining woman — render exactly as specified: a 23-year-old young woman.
 Eyes: heavy-lidded deep-brown eyes ringed with amber, half-closed and proud.
 Hair: damp chestnut hair clinging softly to her brow.
 Skin: sand — even, smooth warm sand.
 Build: Level B — svelte and graceful — soft and slim, a gently swaying waist, resting like a dancer beside the bundle.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small burn scar on her left forearm.
 Aura: golden sun, wheat, warm earth.
 
@@ -1107,13 +1137,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene adult woman page standing farther back in the landscape so her whole figure sits smaller within the wide desert vista, wearing only a single thin strip of silk covering the lower part of her body, holding one living wand, desert dunes and pyramids behind her.
+a serene adult woman page standing farther back in the landscape so her whole figure sits smaller within the wide desert vista, holding one living wand, desert dunes and pyramids behind her.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
 Eyes: round ginger-amber eyes shining with curiosity.
 Hair: short tousled ginger-auburn hair cut in a playful textured bob.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — petite and quick, with a skipping graceful gait.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: fine freckles on both forearms.
 Aura: young sunlight, an open road, a drum.
 
@@ -1141,13 +1172,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 22-year-old female knight, wearing only a single thin strip of silk covering the lower part of her body, riding a calm pure-white horse trotting forward, holding one flourishing living wand out before her, a golden meadow and distant hills behind.
+a serene 22-year-old female knight, riding a calm pure-white horse trotting forward, holding one flourishing living wand out before her, a golden meadow and distant hills behind.
 
 Main figure — the knight — render exactly as specified: a 22-year-old young woman.
 Eyes: gold-green almond eyes with a roguish playful gleam.
 Hair: wind-whipped golden-brown curls beneath a feathered diadem.
 Skin: light olive — light warm olive, faintly golden at the shoulders and arms.
 Build: Level B — svelte and graceful — soft and slim, leaning into the gallop with flowing grace.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a fine gold chain around her right wrist.
 Aura: fire, hooves, feathers.
 
@@ -1175,13 +1207,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene queen with dark loosened hair on a lion-carved throne, wearing only a single thin strip of silk covering the lower part of her body, one sunflower wand held gently in her hand, a black cat at her feet, her throne set at the edge of a bright spring birch grove — slender white birch trunks, soft green undergrowth and a carpet of wildflowers and sunflowers, dappled sunlight filtering through young leaves.
+a serene queen with dark loosened hair on a lion-carved throne, one sunflower wand held gently in her hand, a black cat at her feet, her throne set at the edge of a bright spring birch grove — slender white birch trunks, soft green undergrowth and a carpet of wildflowers and sunflowers, dappled sunlight filtering through young leaves.
 
 Main figure — the queen — render exactly as specified: a 24-year-old young woman.
 Eyes: upturned russet-amber eyes, warm and bewitching.
 Hair: a magnificent mane of rich russet-red waves crowning her head.
 Skin: honey — golden honey, glinting in sunlight.
 Build: Level D — average shapely — softly full and feminine within the average range, seated proudly on her lion throne.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small sun-shaped gold ornament on her left brow.
 Aura: warm fire, leopard skin, spices.
 
@@ -1209,13 +1242,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 25-year-old female sovereign with a lion-carved crown seated on a flame-carved throne, wearing only a single thin strip of silk covering the lower part of her body, holding one blossoming wand gently in her hand, her throne set in a clearing of a majestic ancient oak forest — towering dark oak trunks with warm golden sunlight streaming down through the dense canopy, shafts of amber light and drifting golden embers between the trees.
+a serene 25-year-old female sovereign with a lion-carved crown seated on a flame-carved throne, holding one blossoming wand gently in her hand, her throne set in a clearing of a majestic ancient oak forest — towering dark oak trunks with warm golden sunlight streaming down through the dense canopy, shafts of amber light and drifting golden embers between the trees.
 
 Main figure — the sovereign — render exactly as specified: a 25-year-old young woman.
 Eyes: hooded bronze-gold eyes, deep and seductive.
 Hair: dark bronze hair swept back in an ornate crown braid woven with fiery orange ribbons.
 Skin: light bronze — light gleaming bronze — still a luminous light tone.
 Build: Level B — svelte and graceful — tall and svelte, a proud ethereal sovereign bearing.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: an orange-ribbon tattoo band around her right wrist.
 Aura: dragons, gold, fire-wind.
 
@@ -1274,13 +1308,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a young woman wearing only a single thin strip of silk covering the lower part of her body and a fair-skinned young man facing one another, her body turned three-quarters toward the viewer with one arm across her chest, each raising one chalice in a toast, a caduceus with a lion head above them.
+a young woman and a fair-skinned young man in a simple loincloth facing one another, her body turned three-quarters toward the viewer with one arm across her chest, each raising one chalice in a toast, a caduceus with a lion head above them.
 
 Main figure — the young woman of the pair — render exactly as specified: a 21-year-old young woman.
 Eyes: soft hazel-green upturned eyes gazing in rapture at her partner.
 Hair: soft ash-brown hair worn in a low intertwined romantic braid.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — slender, leaning gracefully into the union.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a dimple on her left cheek.
 Aura: rainwater, a promise, apple blossom.
 
@@ -1315,6 +1350,7 @@ Eyes: three distinct pairs — chocolate-brown doe eyes, amber almond eyes, and 
 Hair: rich chocolate-brown, golden-blonde and copper hair among the three maidens.
 Skin: Three light tones among them — warm peach, honey and fair.
 Build: Level C — average soft — three harmonious builds — one slender, one average-soft, one softly rounded (none beyond the average range).
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: each maiden wears one different flower in her hair — a rose, an iris, a daisy.
 Aura: laughter, wine, a garden in harvest.
 
@@ -1342,13 +1378,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a contemplative young woman wearing only a single thin strip of silk covering the lower part of her body, seated beneath a tree, arms crossed, regarding three cups on the grass while a celestial hand offers a fourth cup from a cloud.
+a contemplative young woman, seated beneath a tree, arms crossed, regarding three cups on the grass while a celestial hand offers a fourth cup from a cloud.
 
 Main figure — the contemplative young woman — render exactly as specified: a 22-year-old young woman.
 Eyes: misty grey-blue downturned eyes, bored and distant.
 Hair: dark wavy hair falling over her shoulder in contemplative thought.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — slender, seated in loose indifference.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a tiny beauty mark on her right cheekbone.
 Aura: tree shade, a soft melancholy, a stream.
 
@@ -1376,13 +1413,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a graceful adult woman in a dark cloak, standing bowed with her back to the light by the river, three spilled chalices lying emptied and overturned in the foreground at her feet, two full chalices still standing upright on the bank behind her.
+a graceful adult woman standing bowed with her back to the light by the river, three spilled chalices lying emptied and overturned in the foreground at her feet, two full chalices still standing upright on the bank behind her.
 
 Main figure — the mourning woman — render exactly as specified: a 22-year-old young woman.
 Eyes: watery hazel downturned eyes, wet at the corners.
 Hair: long mahogany hair unbound and draping over her cloaked shoulders.
 Skin: porcelain — cool porcelain-white with faint blue veining and a pearlescent sheen.
 Build: Level A — slender — slender, with a sorrowfully bowed slender neck.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: raindrop-like freckles on the back of her hand.
 Aura: drizzle, a soaked cloak.
 
@@ -1417,6 +1455,7 @@ Eyes: baby-blue doe eyes, innocent.
 Hair: pale golden hair styled in a delicate maiden crown knot.
 Skin: warm peach — warm peach, sun-kissed with a natural rosy glow.
 Build: Level A — slender — petite and soft, a sweetly standing figure.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a faint petal-shaped lavender birthmark on her right shoulder.
 Aura: a garden courtyard, honey sweets, memory.
 
@@ -1444,13 +1483,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a mesmerized young woman wearing only a single thin strip of silk covering the lower part of her body, seen from behind, marveling at seven floating cups within glowing clouds containing mystical treasures.
+a mesmerized young woman, seen from behind, marveling at seven floating cups within glowing clouds containing mystical treasures.
 
 Main figure — the mesmerized young woman — render exactly as specified: a 21-year-old young woman.
 Eyes: dreamy violet-grey eyes, half-closed in enchantment.
 Hair: dark raven curls drifting in a mystical haze.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — slender, standing mesmerized with hands gently raised.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small silver crescent earring on the cartilage of her right ear.
 Aura: dream-smoke, mirrors, illusions.
 
@@ -1478,13 +1518,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a solitary young woman in a deep crimson cloak walking away with a staff, leaving eight stacked cups behind to journey toward misty moonlit peaks.
+a solitary young woman walking away with a staff, leaving eight stacked cups behind to journey toward misty moonlit peaks.
 
 Main figure — the wanderer — render exactly as specified: a 23-year-old young woman.
 Eyes: narrow deep-brown eyes, half-lidded with distant sorrow.
 Hair: deep brown hair tucked under a travel cloak.
 Skin: light olive — light warm olive, faintly golden at the shoulders and arms.
 Build: Level B — svelte and graceful — trim and slim, an enchanting wanderer’s silhouette.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small compass-shaped scar on her left palm.
 Aura: rain, footfalls, far mountains.
 
@@ -1512,13 +1553,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a content adult woman with bare shoulders wearing only a single thin strip of silk covering the lower part of her body, seated at a banquet table, before nine golden chalices proudly arranged in a neat grid on a shelf behind her.
+a content adult woman with bare shoulders, seated at a banquet table, before nine golden chalices proudly arranged in a neat grid on a shelf behind her.
 
 Main figure — the contented woman — render exactly as specified: a 24-year-old young woman.
 Eyes: upturned amber-brown eyes, smiling like a crescent moon.
 Hair: warm honey-brown hair in a relaxed loose chignon.
 Skin: honey — golden honey, glinting in sunlight.
 Build: Level C — average soft — softly balanced, naturally curved within the average range.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small gold rose earring on her right earlobe.
 Aura: sweet wine, candles, a warm armchair.
 
@@ -1546,13 +1588,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a blissful fair-skinned couple embracing in a meadow, she wearing only a single thin strip of silk covering the lower part of her body, the long line of her back to the light, his arms around her waist, ten chalices along a rainbow arc, a cottage and fair-skinned dancing children beyond.
+a blissful fair-skinned couple embracing in a meadow, she with the long line of her back to the light, his arms around her waist, ten chalices along a rainbow arc, a cottage and fair-skinned dancing children beyond.
 
 Main figure — the woman of the couple — render exactly as specified: a 22-year-old young woman.
 Eyes: soft warm hazel eyes, tender.
 Hair: warm hazel-brown hair cascading in silky ripples.
 Skin: warm peach — warm peach, sun-kissed with a natural rosy glow.
 Build: Level C — average soft — slender-soft, a young mother’s caring poise.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a faint heart-shaped birthmark on her left hip.
 Aura: hearth and home, a rainbow, children’s voices.
 
@@ -1580,13 +1623,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a graceful young woman page by the sea in a loose robe over a single thin strip of silk covering the lower part of her body, holding one chalice from which a curious fish looks out.
+a graceful young woman page by the sea holding one chalice from which a curious fish looks out.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
 Eyes: smoky-blue doe eyes wide with dreamy surprise.
 Hair: dark glossy hair in a single side fishtail braid over her collarbone.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — petite with slender limbs, cradling the chalice.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small silver star earring on her right ear.
 Aura: dreams, a silver fish, water.
 
@@ -1614,13 +1658,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a graceful 22-year-old female knight in winged silver armor riding a calm white steed beside a stream, extending a golden chalice of peace.
+a graceful 22-year-old female knight riding a calm white steed beside a stream, extending a golden chalice of peace.
 
 Main figure — the knight — render exactly as specified: a 22-year-old young woman.
 Eyes: gentle sea-blue almond eyes, romantic.
 Hair: fair sandy-blonde hair falling in soft romantic waves across her brow.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level B — svelte and graceful — slim and tall, a knight of poetry.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a fine feather-shaped scar on her right shoulder.
 Aura: a river of poems, water lilies, the moon.
 
@@ -1648,13 +1693,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a youthful adult queen seated on a shell throne at the water's edge, her shoulders bare beneath wet platinum-blonde hair, wearing only a single thin strip of white silk covering the lower part of her body, holding one lidded golden chalice in her lap, sea foam and breaking waves behind her.
+a youthful adult queen seated on a shell throne at the water's edge, her shoulders bare beneath wet platinum-blonde hair, holding one lidded golden chalice in her lap, sea foam and breaking waves behind her.
 
 Main figure — the queen — render exactly as specified: a 23-year-old young woman.
 Eyes: heavy-lidded silver-platinum eyes, mystical.
 Hair: long shimmering platinum-blonde hair falling straight like water to her thighs.
 Skin: porcelain — cool porcelain-white with faint blue veining and a pearlescent sheen.
 Build: Level A — slender — slender with a tiny waist, a dreamlike queenly beauty.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small silver crescent birthmark at the nape of her neck.
 Aura: crystal water, moonlight, whispers.
 
@@ -1682,13 +1728,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 25-year-old oceanic queen wearing only a single thin strip of silk covering the lower part of her body, on a throne floating upon rolling waves, holding a lotus scepter and a golden cup, a dolphin leaping in the distance.
+a serene 25-year-old oceanic queen, on a throne floating upon rolling waves, holding a lotus scepter and a golden cup, a dolphin leaping in the distance.
 
 Main figure — the oceanic queen — render exactly as specified: a 25-year-old young woman.
 Eyes: deep hooded ocean-blue eyes, a sovereign’s calm.
 Hair: deep-wave dark espresso hair crowned in sea-gold and pearls.
 Skin: light olive — light warm olive, faintly golden at the shoulders and arms.
 Build: Level C — average soft — tall and softly full within the average range, seated at ease like a calm sea.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a plain gold ring on her right middle finger.
 Aura: a calm sea, the tide, pearls.
 
@@ -1747,13 +1794,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a blindfolded adult woman wearing only a single thin strip of antique silk covering the lower part of her body, her shoulders bare, seated on a stone seat by the sea, two long swords crossed over her chest, the moon rising behind her.
+a blindfolded adult woman, her shoulders bare, seated on a stone seat by the sea, two long swords crossed over her chest, the moon rising behind her.
 
 Main figure — the blindfolded woman — render exactly as specified: a 21-year-old young woman.
 Eyes: flint-grey eyes veiled behind thin silk, deep and enigmatic.
 Hair: jet-black hair drawn back into a sleek flawless high knot.
 Skin: ivory — warm ivory-white, smooth as silk.
 Build: Level B — svelte and graceful — evenly slender with a slim waist, a gracefully balanced pose.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small gold clasp at her right temple holding the silk veil.
 Aura: tense silence, still water.
 
@@ -1814,6 +1862,7 @@ Eyes: eyes closed in rest, long pale-grey lashes.
 Hair: deep sable hair spread neatly around her resting head on stone.
 Skin: porcelain — cool porcelain-white with faint blue veining and a pearlescent sheen.
 Build: Level A — slender — slender, lying still as a sculpted effigy.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small cross-shaped silver scar on her left wrist.
 Aura: a chapel, ash, a cloister wind.
 
@@ -1841,13 +1890,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a confident young woman wearing only a single thin strip of silk covering the lower part of her body, holding three swords over her shoulder and watching two retreating female companions on a stormy coastline, two swords lying in the sand.
+a confident young woman, holding three swords over her shoulder and watching two retreating female companions on a stormy coastline, two swords lying in the sand.
 
 Main figure — the confident victor — render exactly as specified: a 22-year-old young woman.
 Eyes: dark-emerald almond eyes glancing sideways, confident and alluring.
 Hair: wind-blown dark brown hair with a subtle confident smirk.
 Skin: light olive — light warm olive, faintly golden at the shoulders and arms.
 Build: Level B — svelte and graceful — quick and slim, turning with feline grace.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a fine scar splitting her right eyebrow.
 Aura: a victor’s wind, dry leaves, a sly smile.
 
@@ -1875,13 +1925,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a cloaked woman and a fair-skinned child being poled across a river by a fair-skinned ferryman, six swords upright along the boat.
+a woman and a fair-skinned child being poled across a river by a fair-skinned ferryman, six swords upright along the boat.
 
 Main figure — the cloaked passenger — render exactly as specified: a 21-year-old young woman.
 Eyes: soft misty-grey downturned eyes, quiet.
 Hair: light ash-brown hair gathered softly in a misty veil.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — slender, seated silently in the ferry boat.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a tiny silver boat-chain around her ankle.
 Aura: a misty river, oar strokes, a journey away.
 
@@ -1909,13 +1960,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a nimble young woman wearing only a single thin strip of silk covering the lower part of her body, stealthily carrying five swords in her arms while looking back at a military encampment where two swords remain upright.
+a nimble young woman, stealthily carrying five swords in her arms while looking back at a military encampment where two swords remain upright.
 
 Main figure — the nimble thief — render exactly as specified: a 20-year-old young woman.
 Eyes: dark-brown cat eyes with a swift mischievous glance.
 Hair: mischievous tousled dark chestnut hair.
 Skin: sand — even, smooth warm sand.
 Build: Level A — slender — lightly slender, tiptoeing with playful stealth.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a thin white scar across her right palm.
 Aura: darkness, hushed footsteps, silver.
 
@@ -1950,6 +2002,7 @@ Eyes: fear-bright hazel doe eyes rimmed with tears.
 Hair: dark brown hair bound loosely with a crimson ribbon.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — fragile and slender, a huddled pose.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a faint ribbon-shaped red birthmark on her right ankle.
 Aura: dusk, bindings, blade-edges.
 
@@ -1977,13 +2030,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a distressed woman sitting up in bed at night, her bare shoulder and back above the sheet, face in her hands, nine swords mounted in rows on the dark wall.
+a distressed woman sitting up in bed at night, face in her hands, nine swords mounted in rows on the dark wall.
 
 Main figure — the distressed woman — render exactly as specified: a 22-year-old young woman.
 Eyes: sorrowful grey-brown downturned eyes, wet.
 Hair: long black hair falling in sorrowful waves over her weeping hands.
 Skin: porcelain — cool porcelain-white with faint blue veining and a pearlescent sheen.
 Build: Level A — slender — slender and gaunt, sitting up in her nightgown.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a teardrop-shaped beauty mark on her right cheek.
 Aura: a sleepless night, weeping, wind.
 
@@ -2011,13 +2065,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a peaceful young woman wearing only a single thin strip of crimson silk covering the lower part of her body, lying on a shoreline at dawn beneath ten upright swords, golden sunlight breaking across dark waters.
+a peaceful young woman, lying on a shoreline at dawn beneath ten upright swords, golden sunlight breaking across dark waters.
 
 Main figure — the woman at rest — render exactly as specified: a 23-year-old young woman.
 Eyes: eyes closed, long lashes, at peace beneath the sun.
 Hair: dark silky hair strewn across the shoreline sand.
 Skin: warm peach — warm peach, sun-kissed with a natural rosy glow.
 Build: Level B — svelte and graceful — slender and serene, lying melted into the sand.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small star-shaped scar on her right elbow.
 Aura: dawn after the storm, waves, grass.
 
@@ -2045,13 +2100,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-an alert young woman page in a flowing cape on a windy mound holding one raised sword with both hands.
+an alert young woman page on a windy mound holding one raised sword with both hands.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
 Eyes: honey-hazel almond eyes with a quick keen glance.
 Hair: windswept honey-brown hair cut in a sharp feathered pixie cut.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level B — svelte and graceful — quick and slim, standing at ease on a windy hill.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small scar nicking her chin.
 Aura: stony hills, a cutting wind, footprints.
 
@@ -2079,13 +2135,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a fierce 21-year-old female knight in gleaming steel armor charging on a galloping horse, sword held high into the storm winds.
+a fierce 21-year-old female knight charging on a galloping horse, sword held high into the storm winds.
 
 Main figure — the knight — render exactly as specified: a 21-year-old young woman.
 Eyes: blazing grey-blue narrow eyes burning with fervor.
 Hair: dark hair streaming wildly back from beneath an open winged helmet.
 Skin: sand — even, smooth warm sand.
 Build: Level B — svelte and graceful — soft and slim, riding the wind in sensuous flowing curves.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small winged-helm tattoo on her left shoulder.
 Aura: thundering hooves, screaming wind, streaming silk.
 
@@ -2113,13 +2170,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a stern dignified adult queen wearing only a single thin strip of antique silk covering the lower part of her body, posed with sensual grace yet enthroned with majesty, seated on a butterfly-carved stone throne above a sea of clouds, one upright sword held in her hand.
+a stern dignified adult queen, posed with sensual grace yet enthroned with majesty, seated on a butterfly-carved stone throne above a sea of clouds, one upright sword held in her hand.
 
 Main figure — the queen — render exactly as specified: a 24-year-old young woman.
 Eyes: cold hooded jade eyes, icily alluring.
 Hair: deep mahogany-red hair in an intricate woven crown braid.
 Skin: ivory — warm ivory-white, smooth as silk.
 Build: Level B — svelte and graceful — tall and slender with softly shadowed collarbones, seated with proud poise.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a fine sword-shaped scar on her right collarbone.
 Aura: frost, intellect, ice blossoms.
 
@@ -2147,13 +2205,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a stern and majestic 25-year-old female supreme judge wearing only a single thin strip of silk covering the lower part of her body, on a high stone throne, holding an upright sword of truth, clear blue skies behind.
+a stern and majestic 25-year-old female supreme judge, on a high stone throne, holding an upright sword of truth, clear blue skies behind.
 
 Main figure — the supreme judge — render exactly as specified: a 25-year-old young woman.
 Eyes: narrow steel-grey eyes, serene and mesmerizing.
 Hair: clean-cut raven hair crowned with a sharp golden circlet.
 Skin: light olive — light warm olive, faintly golden at the shoulders and arms.
 Build: Level B — svelte and graceful — tall and svelte, a majestic sovereign bearing.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a thin white scar on her right thumb.
 Aura: a tribunal, golden light, justice.
 
@@ -2212,13 +2271,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a joyful 19-year-old young woman wearing only a single thin strip of silk covering the lower part of her body, dancing on a seaside terrace, juggling two golden pentacles looped inside an infinity ribbon with ships in rolling surf behind.
+a joyful 19-year-old young woman, dancing on a seaside terrace, juggling two golden pentacles looped inside an infinity ribbon with ships in rolling surf behind.
 
 Main figure — the dancing young woman — render exactly as specified: a 19-year-old young woman.
 Eyes: round merry hazel-gold eyes, sparkling.
 Hair: tousled sandy-gold curls bouncing with her dance.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level B — svelte and graceful — supple, a balancing dancer.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a round coin-shaped birthmark behind her right ear.
 Aura: street music, wind, laughter.
 
@@ -2246,13 +2306,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a young woman sculptor in a workshop apron, hair loose, chiseling a column, a fair-skinned monk and a fair-skinned architect commenting, three coins set in the arch above.
+a young woman sculptor hair loose, chiseling a column, a fair-skinned monk and a fair-skinned architect commenting, three coins set in the arch above.
 
 Main figure — the sculptor — render exactly as specified: a 22-year-old young woman.
 Eyes: walnut-brown almond eyes, heavy-lidded with absorption in her craft.
 Hair: dark auburn hair coiled in a practical braided crown.
 Skin: light olive — light warm olive, faintly golden at the shoulders and arms.
 Build: Level B — svelte and graceful — slender with deft hands, bending gracefully at her work.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: earth-toned freckles dusting both hands.
 Aura: stone, chalk, the sound of chisels.
 
@@ -2280,13 +2341,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a wealthy young woman wearing only a single thin strip of silk covering the lower part of her body, seated on a stone bench, holding one golden pentacle tight to her chest, one on her crown, and two under her feet.
+a wealthy young woman, seated on a stone bench, holding one golden pentacle tight to her chest, one on her crown, and two under her feet.
 
 Main figure — the wealthy young woman — render exactly as specified: a 24-year-old young woman.
 Eyes: deep-umber heavy-lidded eyes, discreetly half-closed.
 Hair: neatly combed dark brown hair.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level C — average soft — softly proportioned, leaning back at ease.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a plain gold ring on her left index finger.
 Aura: a strongbox, silence, earth.
 
@@ -2314,13 +2376,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-two fair-skinned ragged beggars passing a glowing church in the snow, five coins shining in the tall stained-glass window.
+two fair-skinned beggars passing a glowing church in the snow, five coins shining in the tall stained-glass window.
 
 Main figure — the foremost beggar — render exactly as specified: a 20-year-old young woman.
 Eyes: pale icy-grey doe eyes, shivering and weary.
 Hair: long windswept dark-brown hair catching falling snow.
 Skin: porcelain — cool porcelain-white with faint blue veining and a pearlescent sheen.
 Build: Level A — slender — slender, huddled beneath the church window.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a frost-white birthmark on her neck.
 Aura: snow, hunger, a lit window.
 
@@ -2348,13 +2411,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a prosperous young woman in rich robes holding scales in one hand, distributing golden coins to two kneeling maidens.
+a prosperous young woman holding scales in one hand, distributing golden coins to two kneeling maidens.
 
 Main figure — the prosperous young woman — render exactly as specified: a 23-year-old young woman.
 Eyes: warm hazel almond eyes, open-handed and candid.
 Hair: well-groomed golden-brown hair in merchant styling.
 Skin: sand — even, smooth warm sand.
 Build: Level C — average soft — kindly proportioned, standing gracefully as she gives.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a coin-shaped gold earring on her left earlobe.
 Aura: a market, bread, the chink of coins.
 
@@ -2382,13 +2446,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a patient young woman wearing only a single thin strip of silk covering the lower part of her body, leaning on her garden staff, contemplating seven golden pentacles blooming on a lush green vine.
+a patient young woman, leaning on her garden staff, contemplating seven golden pentacles blooming on a lush green vine.
 
 Main figure — the patient gardener — render exactly as specified: a 22-year-old young woman.
 Eyes: heavy-lidded hazel-green eyes, weary yet hopeful.
 Hair: sweat-touched warm chestnut hair resting against the hoe handle.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level B — svelte and graceful — soft and slim, leaning on the hoe in a sunlit curve.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small leaf-shaped scar on her right shoulder blade.
 Aura: sunlit fields, soil, the harvest.
 
@@ -2416,13 +2481,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a young woman apprentice in an apron, sleeves rolled, her chestnut hair pinned in a neat low chignon, chiseling a plain stone disc at a bench, eight coins in one row along the bench edge, a town through the window.
+a young woman apprentice her chestnut hair pinned in a neat low chignon, chiseling a plain stone disc at a bench, eight coins in one row along the bench edge, a town through the window.
 
 Main figure — the apprentice — render exactly as specified: a 21-year-old young woman.
 Eyes: seal-brown eyes lowered in absorbed concentration.
 Hair: chestnut hair bound in a neat focused low chignon.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — slender with meticulous hands, bending gracefully over the bench.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a gold-ink coin tattoo on her left wrist.
 Aura: a stone workshop, engraving sounds, oil.
 
@@ -2450,13 +2516,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-an elegant woman wearing only a single thin strip of silk covering the lower part of her body, a falcon on her gloved hand, her other hand touching ripe grapes, nine coins along the arbor beam, a snail at her feet.
+an elegant woman, a falcon on her hand, her other hand touching ripe grapes, nine coins along the arbor beam, a snail at her feet.
 
 Main figure — the elegant woman — render exactly as specified: a 23-year-old young woman.
 Eyes: deep-espresso almond eyes flecked with green, proudly serene.
 Hair: long vine-dark espresso hair loosely curled with gold thread.
 Skin: honey — golden honey, glinting in sunlight.
 Build: Level C — average soft — an elegant hourglass with softly average curves.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a fine gold ring around her right ankle.
 Aura: a vineyard, gold, sparrows.
 
@@ -2491,6 +2558,7 @@ Eyes: warm-brown almond eyes, gently prosperous.
 Hair: warm honey-brown hair in a thick braided crown.
 Skin: warm peach — warm peach, sun-kissed with a natural rosy glow.
 Build: Level C — average soft — soft, a kindly matriarchal poise.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a leaf-shaped birthmark behind her left ear.
 Aura: a family line, the dining table, harvest time.
 
@@ -2518,13 +2586,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a studious young woman page in a loose robe studying one large pentacle coin held in both hands, a plowed field behind her.
+a studious young woman page studying one large pentacle coin held in both hands, a plowed field behind her.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
 Eyes: round sunny-hazel eyes, earnest.
 Hair: golden-blonde hair falling loose past her shoulders, catching the meadow sun.
 Skin: fair — soft fair skin with a pearly blush.
 Build: Level A — slender — petite, a charming student’s bearing.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small cluster of freckles on her right collarbone.
 Aura: meadows, old books, flowers.
 
@@ -2552,13 +2621,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a steadfast 23-year-old female knight in dark armor holding a golden pentacle with calm reverence in a plowed field.
+a steadfast 23-year-old female knight holding a golden pentacle with calm reverence in a plowed field.
 
 Main figure — the knight — render exactly as specified: a 23-year-old young woman.
 Eyes: earth-brown almond eyes, patient and steadfast.
 Hair: dark bronze hair braided beneath an oak-leaf crested helmet.
 Skin: warm tan — lightly sun-warmed tan with a soft bronze blush at the shoulders and cheeks.
 Build: Level B — svelte and graceful — soft and slim, an unhurried graceful rider.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a small oak-leaf scar on her left forearm.
 Aura: a dirt road, dust, a horse’s breath.
 
@@ -2586,13 +2656,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a warm young queen wearing only a single thin strip of silk covering the lower part of her body, wearing a flower crown on a goat-carved throne, one pentacle resting in her lap, a rabbit in the garden.
+a warm young queen, wearing a flower crown on a goat-carved throne, one pentacle resting in her lap, a rabbit in the garden.
 
 Main figure — the queen — render exactly as specified: a 24-year-old young woman.
 Eyes: warm molten-brown upturned eyes, a generous queen’s gaze.
 Hair: deep chocolate hair with a ruddy golden sheen, crowned in blooming vines.
 Skin: honey — golden honey, glinting in sunlight.
 Build: Level D — average shapely — softly full and maternal within the average range.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a rose-shaped birthmark on her left shoulder.
 Aura: a fruit garden, avocado trees, clucking hens.
 
@@ -2620,13 +2691,14 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a wealthy 25-year-old female queen of wealth wearing only a single thin strip of silk covering the lower part of her body, seated on a bull-carved throne amid blooming grapevines and castle walls, holding a golden pentacle in her lap.
+a wealthy 25-year-old female queen of wealth, seated on a bull-carved throne amid blooming grapevines and castle walls, holding a golden pentacle in her lap.
 
 Main figure — the queen of wealth — render exactly as specified: a 25-year-old young woman.
 Eyes: deep-brown hooded eyes glinting amber, generous.
 Hair: dark wavy hair woven with golden laurel leaves and ripe grapes.
 Skin: sand — even, smooth warm sand.
 Build: Level C — average soft — softly proportioned, seated in unhurried ease.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: a gold laurel-leaf ring on her right ring finger.
 Aura: a castle, the grape harvest, coinage.
 

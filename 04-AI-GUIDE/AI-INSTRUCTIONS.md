@@ -102,13 +102,14 @@ Quality lock (hard rule): gallery-grade, maximum-detail rendering — razor-shar
 Masterpiece quality — ultra-detailed, razor-sharp, pristine high-fidelity rendering. Sensual fine-art anatomy, painterly warm lighting against subtle shadows, rich atmospheric perspective and depth, portrait orientation 7:12 aspect ratio, vintage gothic fine-art illustration, high detail. Absolutely no card border, no golden gothic frame, no gold ornamental line-work at the edges, no corner flourishes, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image, and the only text anywhere in the image is the card title.
 ```
 
-Khối `{CHARACTER_SPECIFICATION}` (8 trường — 72 lá có nhân vật; 6 lá vật thể thuần bỏ hẳn):
+Khối `{CHARACTER_SPECIFICATION}` (9 trường — 72 lá có nhân vật; 6 lá vật thể thuần bỏ hẳn):
 ```text
 Main figure — {VAI DIỆN} — render exactly as specified: a {TUỔI}-year-old young woman.
 Eyes: {MÀU MẮT}, {DÁNG MẮT} — {ÁNH NHÌN}.
 Hair: {KIỂU TÓC + MÀU}.
 Skin: {TÔNG DA} — {MÔ TẢ TÔNG DA}.
 Build: {CẤP A/B/C/D} — {MÔ TẢ VÓC DÁNG}.
+Wearing: only a single thin strip of silk covering the lower part of her body.
 Signature detail: {NÉT RIÊNG}.
 Aura: {KHÔNG KHÍ}.
 ```
