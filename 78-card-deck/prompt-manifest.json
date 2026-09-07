@@ -19,7 +19,7 @@
       "image_file": "cards/01-magician.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: exactly 4 suit objects on the altar. exactly four objects, one of each: one cup, one sword, one wand, one coin — all four resting on the altar table, all four wholly visible, no duplicates, nothing else on the table.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "02-priestess",
@@ -59,7 +59,7 @@
       "image_file": "cards/05-hierophant.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "06-lovers",
@@ -69,7 +69,7 @@
       "image_file": "cards/06-lovers.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "07-chariot",
@@ -79,7 +79,7 @@
       "image_file": "cards/07-chariot.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "08-strength",
@@ -89,7 +89,7 @@
       "image_file": "cards/08-strength.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "09-hermit",
@@ -109,7 +109,7 @@
       "image_file": "cards/10-wheel.png",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: exactly 1 sword. exactly one sword, held upright by the sphinx on top of the wheel; no other blade anywhere on the card.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "11-justice",
@@ -782,6 +782,6 @@
       "artwork_status": "pending-generation"
     }
   ],
-  "artwork_generated_count": 1,
-  "artwork_pending_count": 77
+  "artwork_generated_count": 7,
+  "artwork_pending_count": 71
 }
