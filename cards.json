@@ -4,7 +4,7 @@
     "version": "v2 (count-locked, sensual edition)",
     "refs": [
       "cards/card-blank.jpg (blank template, position 1)",
-      "cards/17-the-star.png (style anchor — inner image & outer border standard, position 2)"
+      "the moon.png (style anchor — inner image & outer border standard, position 2)"
     ],
     "note": "count = null -> emits the 'no suit objects' COUNT LOCK. count.n is a HARD constraint."
   },
