@@ -85,6 +85,8 @@ def main():
             "scene": scene_line(slug),
             "prompt": f"cards/prompts/{slug}.txt"
             if (CARDS / "prompts" / f"{slug}.txt").exists() else None,
+            "notext": f"cards-notext/{name}"
+            if (ROOT / "cards-notext" / name).exists() else None,
         })
 
     (CARDS / "manifest.json").write_text(
@@ -144,6 +146,14 @@ HTML = r"""<!DOCTYPE html>
   .dl{display:inline-block;margin-top:8px;color:#6f8fbf;font-size:11px;text-decoration:none;letter-spacing:.08em}
   .dl:hover{text-decoration:underline}
   .empty{text-align:center;color:#6b6455;padding:60px;font-style:italic}
+  .toggle{display:flex;gap:0;justify-content:center;margin:22px 0 0}
+  .toggle button{background:transparent;border:1px solid #3a3350;color:#8d8574;padding:8px 18px;
+     font-family:inherit;font-size:12px;letter-spacing:.14em;text-transform:uppercase;cursor:pointer}
+  .toggle button:first-child{border-radius:6px 0 0 6px}
+  .toggle button:last-child{border-radius:0 6px 6px 0;border-left:0}
+  .toggle button.on{background:#241f33;color:var(--gold);border-color:var(--gold-dim)}
+  .toggle button:disabled{opacity:.35;cursor:not-allowed}
+  .warn{text-align:center;color:#7a6a4a;font-size:11px;margin-top:8px;letter-spacing:.06em}
   /* lightbox */
   #lb{position:fixed;inset:0;background:rgba(6,5,9,.94);display:none;place-items:center;z-index:50;padding:24px}
   #lb.on{display:grid}
@@ -158,6 +168,11 @@ HTML = r"""<!DOCTYPE html>
   <h1>Sensual Tarot</h1>
   <p class="sub">Full-bleed · v5 · 78 lá</p>
   <p class="count"><span id="n">0</span> / 78 lá đã hoàn thành</p>
+  <div class="toggle">
+    <button id="btnText" class="on">Có chữ</button>
+    <button id="btnNoText">Không chữ</button>
+  </div>
+  <div class="warn" id="warn"></div>
   <div class="bar"><i id="bar" style="width:0%"></i></div>
 </header>
 <main class="cards" id="grid"></main>
@@ -170,10 +185,15 @@ HTML = r"""<!DOCTYPE html>
 
 <script>
 const DATA = /*DATA*/;
+let MODE = 'text';
+function pick(c){ return (MODE === 'notext' && c.notext) ? c.notext : c.file; }
+const nNoText = DATA.cards.filter(c => c.notext).length;
 const grid = document.getElementById('grid');
 const pct = Math.round(DATA.cards.length / DATA.total * 100);
 document.getElementById('n').textContent = DATA.cards.length;
 document.getElementById('bar').style.width = pct + '%';
+document.getElementById('warn').textContent =
+  nNoText + '/' + DATA.cards.length + ' lá có bản không chữ — bấm để đổi';
 document.getElementById('foot').textContent =
   'Sinh ' + DATA.generated + ' · prompt nguồn: prompts-full.json · tỉ lệ 7:12 full-bleed';
 
@@ -183,7 +203,7 @@ if (!DATA.cards.length) {
 for (const c of DATA.cards) {
   const f = document.createElement('figure');
   const size = c.width ? c.width + '×' + c.height : '';
-  const src = c.file + '?v=' + encodeURIComponent(DATA.generated);
+  const src = pick(c) + '?v=' + encodeURIComponent(DATA.generated);
   f.innerHTML =
     '<div class="frame"><img loading="lazy" src="' + src + '" alt="' + c.title_en + '"></div>' +
     '<figcaption>' +
@@ -199,10 +219,23 @@ for (const c of DATA.cards) {
 
 const lb = document.getElementById('lb');
 function open(c){
-  document.getElementById('lbimg').src = c.file + '?v=' + encodeURIComponent(DATA.generated);
+  document.getElementById('lbimg').src = pick(c) + '?v=' + encodeURIComponent(DATA.generated);
   document.getElementById('lbcap').textContent = c.title_en + ' — ' + c.title_vn;
   lb.classList.add('on');
 }
+const bT = document.getElementById('btnText'), bN = document.getElementById('btnNoText');
+function setMode(m){
+  MODE = m;
+  bT.classList.toggle('on', m === 'text');
+  bN.classList.toggle('on', m === 'notext');
+  document.querySelectorAll('.cards img').forEach((img, i) => {
+    img.src = pick(DATA.cards[i]) + '?v=' + encodeURIComponent(DATA.generated);
+  });
+}
+bT.onclick = () => setMode('text');
+bN.onclick = () => setMode('notext');
+if (!nNoText) { bN.disabled = true; }
+
 lb.onclick = () => lb.classList.remove('on');
 document.addEventListener('keydown', e => { if (e.key === 'Escape') lb.classList.remove('on'); });
 </script>

@@ -1,6 +1,6 @@
 {
   "deck": "Sensual Tarot 78",
-  "generated": "2026-09-07 17:10 UTC",
+  "generated": "2026-09-07 17:37 UTC",
   "cards": [
     {
       "slug": "00-fool",
@@ -11,7 +11,8 @@
       "width": 784,
       "height": 1360,
       "scene": "a carefree 19-year-old woman wanderer draped only in a transparent silk veil so fine it clings and reveals her bare body beneath, the veil slipping from one shoulder and streaming behind her, a white rose lifted in one hand and her eyes lowered to look at it, stepping lightly toward a cliff edge, a small white dog leaping at her heel, distant mountains under a golden morning sun",
-      "prompt": "cards/prompts/00-fool.txt"
+      "prompt": "cards/prompts/00-fool.txt",
+      "notext": "cards-notext/00-fool.png"
     },
     {
       "slug": "01-magician",
@@ -22,7 +23,8 @@
       "width": 784,
       "height": 1360,
       "scene": "a nude young woman magician, bare torso with a length of silk slung low across her hips, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her",
-      "prompt": "cards/prompts/01-magician.txt"
+      "prompt": "cards/prompts/01-magician.txt",
+      "notext": null
     },
     {
       "slug": "02-priestess",
@@ -33,7 +35,8 @@
       "width": 784,
       "height": 1360,
       "scene": "a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet",
-      "prompt": "cards/prompts/02-priestess.txt"
+      "prompt": "cards/prompts/02-priestess.txt",
+      "notext": null
     },
     {
       "slug": "03-empress",
@@ -44,7 +47,8 @@
       "width": 784,
       "height": 1360,
       "scene": "a slender nude empress, one breast bared, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her",
-      "prompt": "cards/prompts/03-empress.txt"
+      "prompt": "cards/prompts/03-empress.txt",
+      "notext": "cards-notext/03-empress.png"
     },
     {
       "slug": "04-emperor",
@@ -55,7 +59,8 @@
       "width": 784,
       "height": 1360,
       "scene": "a serene 25-year-old female emperor reclining gracefully on a stone throne carved with ram heads, draped only in a diaphanous transparent silk veil so fine it clings to her soft curves and glows with warm light against her skin, the gossamer fabric slipping from one shoulder, holding an ankh scepter loosely in one hand, barren rugged mountains behind her",
-      "prompt": "cards/prompts/04-emperor.txt"
+      "prompt": "cards/prompts/04-emperor.txt",
+      "notext": "cards-notext/04-emperor.png"
     },
     {
       "slug": "05-hierophant",
@@ -66,7 +71,8 @@
       "width": 784,
       "height": 1360,
       "scene": "a serene 24-year-old female high mystic priestess draped only in a diaphanous transparent red silk veil so fine it clings to her curves and glows with warm candlelight against her skin, the gossamer-thin fabric slipping from one shoulder, raising one blessing hand, two fair-skinned kneeling female acolytes before her, sacred temple pillars behind",
-      "prompt": "cards/prompts/05-hierophant.txt"
+      "prompt": "cards/prompts/05-hierophant.txt",
+      "notext": "cards-notext/05-hierophant.png"
     },
     {
       "slug": "06-lovers",
@@ -77,7 +83,8 @@
       "width": 784,
       "height": 1360,
       "scene": "a fair-skinned nude young man and a nude young woman standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer with silk fallen to her hip and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him",
-      "prompt": "cards/prompts/06-lovers.txt"
+      "prompt": "cards/prompts/06-lovers.txt",
+      "notext": null
     },
     {
       "slug": "07-chariot",
@@ -88,7 +95,8 @@
       "width": 784,
       "height": 1360,
       "scene": "a heroic bare-shouldered woman charioteer wrapped in loose sheer white silk with no armor, standing tall in a stone chariot between two sphinxes under a starry canopy, a walled city behind her",
-      "prompt": "cards/prompts/07-chariot.txt"
+      "prompt": "cards/prompts/07-chariot.txt",
+      "notext": "cards-notext/07-chariot.png"
     }
   ]
 }

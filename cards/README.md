@@ -34,11 +34,24 @@ và **cấm nhân vật/đạo cụ che mất chữ**. Kiểm chứng bằng `ed
 
 ```
 cards/
-├── <slug>.png            # ảnh lá bài (full-bleed 7:12)
-├── prompts/<slug>.txt    # prompt THỰC TẾ đã dùng để sinh ảnh đó
-├── manifest.json         # máy đọc được — dùng cho gallery / API
-└── README.md             # file này
+├── <slug>.png              # ảnh lá bài (full-bleed 7:12)
+├── prompts/<slug>.txt      # prompt THỰC TẾ đã dùng để sinh ảnh đó
+├── manifest.json           # máy đọc được — dùng cho gallery / API
+└── README.md               # file này
+cards-notext/
+└── <slug>.png              # BẢN KHÔNG CHỮ — chỉ xóa dải chữ, tranh giữ nguyên (~1% khác)
 ```
+
+### 🅰️ Bản không chữ (chắc chắn nhất)
+
+Model viết chữ hay sai (nhầm EMPEROR↔EMPRESS, thiếu/gấp chữ). Cách chắc chắn:
+dùng `cards-notext/<slug>.png` rồi tự đặt tên lá bằng đúng font của lá mẫu.
+
+- **5/8 lá đã có bản không chữ**: `00-fool`, `03-empress`, `04-emperor`, `05-hierophant`, `07-chariot`
+- Còn thiếu: `01-magician`, `02-priestess`, `06-lovers`
+- Gallery có **nút gạt "Có chữ / Không chữ"** ở đầu trang
+- Thông số đặt chữ (tọa độ, cỡ chữ, màu): 👉 `04-AI-GUIDE/TITLE-PLACEMENT.md`
+- Mẫu chữ phóng to để nhận diện font: 👉 `ref/title-specimen.png`
 
 ## 👗 Chuẩn trang phục toàn bộ 78 lá
 
