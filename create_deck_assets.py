@@ -61,7 +61,7 @@ COMMON = """A finished single tarot card in a portrait 7:12 composition. Use the
 
 The border and title treatment must be consistent across every card: same border thickness, same corner ornaments, same placement and scale, same typography, same portrait crop. The central scene must bleed slightly underneath the foreground gold border and fill the whole card interior from the top inner edge to the bottom title area. No stone arch, columns, or extra inner frame may squeeze the image unless they are part of the card's own scene. Only the card title may be lettered; no captions, labels, watermark, signature, or decorative top emblem/icon anywhere else. Preserve any named object or symbol that is explicitly part of the cards.json scene.
 
-Render ultra-detailed, high-resolution classical fine-art tarot imagery with crisp painterly brushwork, fine hair and fabric detail, precise natural anatomy, clean edges, warm painterly light, rich atmospheric depth, and high pixel-density finish. All specified people are adult women or adults as stated by the supplied record. Preserve natural anatomy: every person has one head, one torso, no more than two arms and two legs, correctly joined shoulders, elbows, wrists, hips, knees, ankles, and natural hands. Keep every named character visually distinct. Do not add people, animals, props, suit objects, blades, staffs, cups, coins, or other countable items beyond the exact scene and count lock below. Do not borrow the Moon card's specific wolves, crayfish, towers, or nymph pose unless the record asks for them.
+Render ultra-detailed, high-resolution classical fine-art tarot imagery with crisp painterly brushwork, fine hair and fabric microdetail, precise natural anatomy, clean edges, warm painterly light, rich atmospheric depth, and high pixel-density finish. Use razor-sharp focal detail and clear line separation; never use soft focus, motion blur, muddy textures, smeared hands, plastic skin, or low-resolution haze. All specified people are adult women or adults as stated by the supplied record. Preserve natural anatomy: every person has one head, one torso, no more than two arms and two legs, correctly joined shoulders, elbows, wrists, hips, knees, ankles, and natural hands. Keep every named character visually distinct. Do not add people, animals, props, suit objects, blades, staffs, cups, coins, or other countable items beyond the exact scene and count lock below. Do not borrow the Moon card's specific wolves, crayfish, towers, or nymph pose unless the record asks for them.
 """
 
 with (OUT / "prompt-manifest.json").open("w", encoding="utf-8") as mf:
@@ -93,7 +93,7 @@ with (OUT / "prompt-manifest.json").open("w", encoding="utf-8") as mf:
             + (f"BUILD FROM cards.json: {card['build']}\n" if card.get("build") else "")
             + trait_block
             + f"\n{count_block}\n"
-            + "\nFinal quality lock: complete card visible edge to edge, no cropped border, no duplicated limbs, no extra fingers, no accidental duplicate objects, exact title spelling, title centered at the bottom in the same antique-gold Gothic type as the Moon reference."
+            + "\nFinal quality lock: complete card visible edge to edge, no cropped border, no duplicated limbs, no extra fingers, no accidental duplicate objects, razor-sharp details without blur, exact title spelling, title centered at the bottom in the same antique-gold Gothic type as the Moon reference."
         )
         path = PROMPTS / f"{slug}.txt"
         path.write_text(prompt, encoding="utf-8")

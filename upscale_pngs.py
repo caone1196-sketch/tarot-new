@@ -24,6 +24,7 @@ for source in sorted(CARD_DIR.glob("*.png")):
         [
             "convert", str(source),
             "-filter", "Lanczos", "-resize", "200%",
+            "-unsharp", "0x1.0+0.8+0.02",
             "-define", "png:compression-level=9",
             str(temp),
         ],
