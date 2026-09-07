@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: TWO OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a joyful 19-year-old young woman dancing on a seaside terrace, juggling two golden pentacles looped inside an infinity ribbon with ships in rolling surf behind
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a joyful 19-year-old young woman dancing on a seaside terrace, juggling two golden pentacles looped inside an infinity ribbon with ships in rolling surf behind
 HAIR FROM cards.json: tousled sandy-gold curls bouncing with her dance
 AGE FROM cards.json: 19 years old
 BUILD FROM cards.json: agile, lithe and flexible young dancer balancing two coins in an infinity ribbon

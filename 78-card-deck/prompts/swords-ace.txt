@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: ACE OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a divine hand grasping one upright sword, a jeweled crown hovering at its tip, barren peaks below
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a divine hand grasping one upright sword, a jeweled crown hovering at its tip, barren peaks below
 
 COUNT LOCK: exactly 1 sword. exactly one sword, upright in the divine hand; no second blade anywhere.
 

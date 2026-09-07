@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: SIX OF WANDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a serene woman on a white horse, draped in a diaphanous transparent silk veil, a laurel wreath on her brow, one crowned wand raised gently in her hand, five admirers behind her each holding one wand
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a serene woman on a white horse, draped in a diaphanous transparent silk veil, a laurel wreath on her brow, one crowned wand raised gently in her hand, five admirers behind her each holding one wand
 HAIR FROM cards.json: honey-gold hair flowing softly in the breeze
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: graceful, poised and serene, elegant equestrian posture on horseback

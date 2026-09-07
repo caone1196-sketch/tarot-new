@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THE LOVERS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a nude man and a nude woman standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer with silk fallen to her hip and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a nude man and a nude woman standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer with silk fallen to her hip and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him
 HAIR FROM cards.json: warm chestnut-brown hair gathered in a loose romantic knot with soft wisps framing her cheeks
 AGE FROM cards.json: 21 years old
 BUILD FROM cards.json: slender hourglass silhouette, supple waist, graceful gentle curves beside her partner

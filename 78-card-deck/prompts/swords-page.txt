@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: PAGE OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): an alert young woman page in a flowing cape on a windy mound holding one raised sword with both hands
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): an alert young woman page in a flowing cape on a windy mound holding one raised sword with both hands
 HAIR FROM cards.json: windswept honey-brown hair cut in a sharp feathered pixie cut
 AGE FROM cards.json: 18 years old
 BUILD FROM cards.json: lithe, sharp and vigilant, athletic spring in her stance on rocky hill

@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THE MAGICIAN
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a nude young woman magician, bare torso with a length of silk slung low across her hips, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a nude young woman magician, bare torso with a length of silk slung low across her hips, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her
 HAIR FROM cards.json: jet-black straight hair falling past her waist like a sleek silk curtain, center-parted
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: statuesque and commanding, elegant elongated proportions with poised posture

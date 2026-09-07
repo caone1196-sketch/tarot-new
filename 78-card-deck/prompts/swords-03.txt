@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THREE OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a large anatomical heart pierced by three swords, rain and storm clouds behind
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a large anatomical heart pierced by three swords, rain and storm clouds behind
 
 COUNT LOCK: exactly 3 swords. exactly three swords through one heart — one vertical from above and two angled from the left and right; three separate hilts clearly countable against the storm sky, 1, 2, 3.
 

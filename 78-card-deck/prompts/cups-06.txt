@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: SIX OF CUPS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): two graceful young women in sheer summer dresses in an old courtyard garden, exchanging one flower-filled chalice, five more set along the wall behind them
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): two graceful young women in sheer summer dresses in an old courtyard garden, exchanging one flower-filled chalice, five more set along the wall behind them
 HAIR FROM cards.json: pale golden hair styled in a delicate maiden crown knot
 AGE FROM cards.json: 19 years old
 BUILD FROM cards.json: petite, innocent and delicate, sweet gentle posture

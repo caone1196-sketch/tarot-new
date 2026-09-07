@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: EIGHT OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a blindfolded woman in a flowing gown loosened from one shoulder and loosely bound, standing in a ring of eight swords, a fortress on the cliff behind
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a blindfolded woman in a flowing gown loosened from one shoulder and loosely bound, standing in a ring of eight swords, a fortress on the cliff behind
 HAIR FROM cards.json: dark brown hair bound loosely with a crimson ribbon
 AGE FROM cards.json: 20 years old
 BUILD FROM cards.json: slender, delicate and vulnerable silhouette surrounded by upright blades

@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: PAGE OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a studious young woman page in an open robe studying one large pentacle coin held in both hands, a plowed field behind her
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a studious young woman page in an open robe studying one large pentacle coin held in both hands, a plowed field behind her
 HAIR FROM cards.json: golden-blonde hair falling loose past shoulders, catching meadow sun
 AGE FROM cards.json: 18 years old
 BUILD FROM cards.json: petite, earnest scholar-student frame, holding coin aloft with reverence

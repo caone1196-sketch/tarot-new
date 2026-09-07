@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: TEN OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a peaceful young woman lying draped in crimson silk on a shoreline at dawn beneath ten upright swords, golden sunlight breaking across dark waters
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a peaceful young woman lying draped in crimson silk on a shoreline at dawn beneath ten upright swords, golden sunlight breaking across dark waters
 HAIR FROM cards.json: dark silky hair strewn across shoreline sand
 AGE FROM cards.json: 23 years old
 BUILD FROM cards.json: lean peaceful reclining maiden silhouette bathed in golden morning horizon light

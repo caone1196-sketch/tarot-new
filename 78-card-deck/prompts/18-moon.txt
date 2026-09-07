@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THE MOON
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a pale moon with a serene face dropping dew, two towers and a winding path, a nude water nymph rising from the dark pool with water streaming over her bare shoulders, a wolf and a dog howling, a crayfish in the water
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a pale moon with a serene face dropping dew, two towers and a winding path, a nude water nymph rising from the dark pool with water streaming over her bare shoulders, a wolf and a dog howling, a crayfish in the water
 HAIR FROM cards.json: ink-blue-black hair with cool silvery highlights, cascading like water to her hips
 AGE FROM cards.json: 21 years old
 BUILD FROM cards.json: slender, mysterious water-nymph silhouette, delicate waist and soft curving hips

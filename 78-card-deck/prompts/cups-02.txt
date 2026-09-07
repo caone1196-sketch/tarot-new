@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: TWO OF CUPS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a nude young woman and a nude young man facing one another, her body turned three-quarters toward the viewer with one arm across her breast, each raising one chalice in a toast, a caduceus with a lion head above them
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a nude young woman and a nude young man facing one another, her body turned three-quarters toward the viewer with one arm across her breast, each raising one chalice in a toast, a caduceus with a lion head above them
 HAIR FROM cards.json: soft ash-brown hair worn in a low intertwined romantic braid
 AGE FROM cards.json: 21 years old
 BUILD FROM cards.json: slender and graceful, gentle curving silhouette leaning in communion

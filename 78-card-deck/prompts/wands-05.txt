@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: FIVE OF WANDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): five graceful young women draped in diaphanous transparent silk veils standing in a loose circle in a soft meadow, each woman distinct and every one with fair skin tones — one porcelain-skinned with long platinum-blonde hair, one rosy ivory-skinned with copper-red waves, one warm ivory-skinned with deep chocolate-brown hair, one fair-skinned with raven-black straight hair, and one light golden-skinned with strawberry-blonde hair — each holding exactly one wand planted upright beside her
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): five graceful young women draped in diaphanous transparent silk veils standing in a loose circle in a soft meadow, each woman distinct and every one with fair skin tones — one porcelain-skinned with long platinum-blonde hair, one rosy ivory-skinned with copper-red waves, one warm ivory-skinned with deep chocolate-brown hair, one fair-skinned with raven-black straight hair, and one light golden-skinned with strawberry-blonde hair — each holding exactly one wand planted upright beside her
 HAIR FROM cards.json: distinct per woman: one blonde, one dark auburn curls, one tight black coils, one straight black, one copper waves
 AGE FROM cards.json: 21 years old
 BUILD FROM cards.json: all slender, graceful and light with distinct faces and figures, gentle dancing stances

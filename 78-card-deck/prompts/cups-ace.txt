@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: ACE OF CUPS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a divine hand offering one ornate chalice, a dove descending, five streams overflowing into a pool of lilies
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a divine hand offering one ornate chalice, a dove descending, five streams overflowing into a pool of lilies
 
 COUNT LOCK: exactly 1 chalice. exactly one chalice; the five overflowing streams are water, not cups — do not draw extra chalices in the pool.
 

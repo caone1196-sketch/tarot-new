@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: FIVE OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): two ragged beggars passing a glowing church in the snow, five coins shining in the tall stained-glass window
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): two ragged beggars passing a glowing church in the snow, five coins shining in the tall stained-glass window
 HAIR FROM cards.json: long windswept dark-brown hair catching falling snow
 AGE FROM cards.json: 20 years old
 BUILD FROM cards.json: slender, shivering yet enduring silhouette under church window

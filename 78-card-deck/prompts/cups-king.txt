@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: KING OF CUPS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a serene 25-year-old oceanic queen on a throne floating upon rolling waves, holding a lotus scepter and a golden cup, a dolphin leaping in the distance
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a serene 25-year-old oceanic queen on a throne floating upon rolling waves, holding a lotus scepter and a golden cup, a dolphin leaping in the distance
 HAIR FROM cards.json: deep-wave dark espresso hair crowned in sea-gold and pearls
 AGE FROM cards.json: 25 years old
 BUILD FROM cards.json: calm, statuesque oceanic sovereign with serene noble presence

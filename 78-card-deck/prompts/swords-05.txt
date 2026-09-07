@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: FIVE OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a confident young woman holding three swords over her shoulder and watching two retreating female companions on a stormy coastline, two swords lying in the sand
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a confident young woman holding three swords over her shoulder and watching two retreating female companions on a stormy coastline, two swords lying in the sand
 HAIR FROM cards.json: wind-blown dark brown hair with a subtle confident smirk
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: lean, agile and sharp-shouldered, turning with collected blades

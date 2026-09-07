@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: FOUR OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a wealthy young woman seated on a stone bench, holding one golden pentacle tight to her chest, one on her crown, and two under her feet
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a wealthy young woman seated on a stone bench, holding one golden pentacle tight to her chest, one on her crown, and two under her feet
 HAIR FROM cards.json: neatly combed dark brown hair holding gold close
 AGE FROM cards.json: 24 years old
 BUILD FROM cards.json: solid, grounded seated posture guarding her wealth

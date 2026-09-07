@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: SEVEN OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a nimble young woman stealthily carrying five swords in her arms while looking back at a military encampment where two swords remain upright
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a nimble young woman stealthily carrying five swords in her arms while looking back at a military encampment where two swords remain upright
 HAIR FROM cards.json: mischievous tousled dark chestnut hair
 AGE FROM cards.json: 20 years old
 BUILD FROM cards.json: light-footed, slender agile rogue build tiptoeing away

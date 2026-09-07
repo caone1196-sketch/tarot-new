@@ -4,6 +4,8 @@
     {
       "slug": "00-fool",
       "title": "THE FOOL",
+      "display_title": "THE FOOL",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/00-fool.txt",
       "image_file": "cards/00-fool.png",
@@ -14,6 +16,8 @@
     {
       "slug": "01-magician",
       "title": "THE MAGICIAN",
+      "display_title": "THE MAGICIAN",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/01-magician.txt",
       "image_file": "cards/01-magician.png",
@@ -24,6 +28,8 @@
     {
       "slug": "02-priestess",
       "title": "THE HIGH PRIESTESS",
+      "display_title": "THE HIGH PRIESTESS",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/02-priestess.txt",
       "image_file": "cards/02-priestess.png",
@@ -34,6 +40,8 @@
     {
       "slug": "03-empress",
       "title": "THE EMPRESS",
+      "display_title": "THE EMPRESS",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/03-empress.txt",
       "image_file": "cards/03-empress.png",
@@ -44,6 +52,8 @@
     {
       "slug": "04-emperor",
       "title": "THE EMPEROR",
+      "display_title": "THE EMPEROR",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/04-emperor.txt",
       "image_file": "cards/04-emperor.png",
@@ -54,6 +64,8 @@
     {
       "slug": "05-hierophant",
       "title": "THE HIEROPHANT",
+      "display_title": "THE HIEROPHANT",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/05-hierophant.txt",
       "image_file": "cards/05-hierophant.png",
@@ -64,6 +76,8 @@
     {
       "slug": "06-lovers",
       "title": "THE LOVERS",
+      "display_title": "THE LOVERS",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/06-lovers.txt",
       "image_file": "cards/06-lovers.png",
@@ -74,6 +88,8 @@
     {
       "slug": "07-chariot",
       "title": "THE CHARIOT",
+      "display_title": "THE CHARIOT",
+      "scene_override": "a heroic bare-shouldered woman charioteer wrapped in loose sheer white silk with no armor, standing tall in a stone chariot between two real roaring lions, both lions visibly roaring with open mouths and natural lion anatomy under a starry canopy, a walled city behind her",
       "group": "major",
       "prompt_file": "prompts/07-chariot.txt",
       "image_file": "cards/07-chariot.png",
@@ -84,6 +100,8 @@
     {
       "slug": "08-strength",
       "title": "STRENGTH",
+      "display_title": "STRENGTH",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/08-strength.txt",
       "image_file": "cards/08-strength.png",
@@ -94,6 +112,8 @@
     {
       "slug": "09-hermit",
       "title": "THE HERMIT",
+      "display_title": "THE HERMIT",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/09-hermit.txt",
       "image_file": "cards/09-hermit.png",
@@ -104,6 +124,8 @@
     {
       "slug": "10-wheel",
       "title": "WHEEL OF FORTUNE",
+      "display_title": "WHEEL OF FORTUNE",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/10-wheel.txt",
       "image_file": "cards/10-wheel.png",
@@ -114,6 +136,8 @@
     {
       "slug": "11-justice",
       "title": "JUSTICE",
+      "display_title": "JUSTICE",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/11-justice.txt",
       "image_file": "cards/11-justice.png",
@@ -124,6 +148,8 @@
     {
       "slug": "12-hanged",
       "title": "THE HANGED MAN",
+      "display_title": "THE HANGED",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/12-hanged.txt",
       "image_file": "cards/12-hanged.png",
@@ -134,6 +160,8 @@
     {
       "slug": "13-death",
       "title": "DEATH",
+      "display_title": "DEATH",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/13-death.txt",
       "image_file": "cards/13-death.png",
@@ -144,6 +172,8 @@
     {
       "slug": "14-temperance",
       "title": "TEMPERANCE",
+      "display_title": "TEMPERANCE",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/14-temperance.txt",
       "image_file": "cards/14-temperance.png",
@@ -154,6 +184,8 @@
     {
       "slug": "15-devil",
       "title": "THE DEVIL",
+      "display_title": "THE DEVIL",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/15-devil.txt",
       "image_file": "cards/15-devil.png",
@@ -164,6 +196,8 @@
     {
       "slug": "16-tower",
       "title": "THE TOWER",
+      "display_title": "THE TOWER",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/16-tower.txt",
       "image_file": "cards/16-tower.png",
@@ -174,6 +208,8 @@
     {
       "slug": "17-the-star",
       "title": "THE STAR",
+      "display_title": "THE STAR",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/17-the-star.txt",
       "image_file": "cards/17-the-star.png",
@@ -184,6 +220,8 @@
     {
       "slug": "18-moon",
       "title": "THE MOON",
+      "display_title": "THE MOON",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/18-moon.txt",
       "image_file": "cards/18-moon.png",
@@ -194,6 +232,8 @@
     {
       "slug": "19-sun",
       "title": "THE SUN",
+      "display_title": "THE SUN",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/19-sun.txt",
       "image_file": "cards/19-sun.png",
@@ -204,6 +244,8 @@
     {
       "slug": "20-judgement",
       "title": "JUDGEMENT",
+      "display_title": "JUDGEMENT",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/20-judgement.txt",
       "image_file": "cards/20-judgement.png",
@@ -214,6 +256,8 @@
     {
       "slug": "21-world",
       "title": "THE WORLD",
+      "display_title": "THE WORLD",
+      "scene_override": null,
       "group": "major",
       "prompt_file": "prompts/21-world.txt",
       "image_file": "cards/21-world.png",
@@ -224,6 +268,8 @@
     {
       "slug": "wands-ace",
       "title": "ACE OF WANDS",
+      "display_title": "ACE OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-ace.txt",
       "image_file": "cards/wands-ace.png",
@@ -234,6 +280,8 @@
     {
       "slug": "wands-02",
       "title": "TWO OF WANDS",
+      "display_title": "TWO OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-02.txt",
       "image_file": "cards/wands-02.png",
@@ -244,6 +292,8 @@
     {
       "slug": "wands-03",
       "title": "THREE OF WANDS",
+      "display_title": "THREE OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-03.txt",
       "image_file": "cards/wands-03.png",
@@ -254,6 +304,8 @@
     {
       "slug": "wands-04",
       "title": "FOUR OF WANDS",
+      "display_title": "FOUR OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-04.txt",
       "image_file": "cards/wands-04.png",
@@ -264,6 +316,8 @@
     {
       "slug": "wands-05",
       "title": "FIVE OF WANDS",
+      "display_title": "FIVE OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-05.txt",
       "image_file": "cards/wands-05.png",
@@ -274,6 +328,8 @@
     {
       "slug": "wands-06",
       "title": "SIX OF WANDS",
+      "display_title": "SIX OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-06.txt",
       "image_file": "cards/wands-06.png",
@@ -284,6 +340,8 @@
     {
       "slug": "wands-07",
       "title": "SEVEN OF WANDS",
+      "display_title": "SEVEN OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-07.txt",
       "image_file": "cards/wands-07.png",
@@ -294,6 +352,8 @@
     {
       "slug": "wands-08",
       "title": "EIGHT OF WANDS",
+      "display_title": "EIGHT OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-08.txt",
       "image_file": "cards/wands-08.png",
@@ -304,6 +364,8 @@
     {
       "slug": "wands-09",
       "title": "NINE OF WANDS",
+      "display_title": "NINE OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-09.txt",
       "image_file": "cards/wands-09.png",
@@ -314,6 +376,8 @@
     {
       "slug": "wands-10",
       "title": "TEN OF WANDS",
+      "display_title": "TEN OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-10.txt",
       "image_file": "cards/wands-10.png",
@@ -324,6 +388,8 @@
     {
       "slug": "wands-page",
       "title": "PAGE OF WANDS",
+      "display_title": "PAGE OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-page.txt",
       "image_file": "cards/wands-page.png",
@@ -334,6 +400,8 @@
     {
       "slug": "wands-knight",
       "title": "KNIGHT OF WANDS",
+      "display_title": "KNIGHT OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-knight.txt",
       "image_file": "cards/wands-knight.png",
@@ -344,6 +412,8 @@
     {
       "slug": "wands-queen",
       "title": "QUEEN OF WANDS",
+      "display_title": "QUEEN OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-queen.txt",
       "image_file": "cards/wands-queen.png",
@@ -354,6 +424,8 @@
     {
       "slug": "wands-king",
       "title": "KING OF WANDS",
+      "display_title": "KING OF WANDS",
+      "scene_override": null,
       "group": "wands",
       "prompt_file": "prompts/wands-king.txt",
       "image_file": "cards/wands-king.png",
@@ -364,6 +436,8 @@
     {
       "slug": "cups-ace",
       "title": "ACE OF CUPS",
+      "display_title": "ACE OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-ace.txt",
       "image_file": "cards/cups-ace.png",
@@ -374,6 +448,8 @@
     {
       "slug": "cups-02",
       "title": "TWO OF CUPS",
+      "display_title": "TWO OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-02.txt",
       "image_file": "cards/cups-02.png",
@@ -384,6 +460,8 @@
     {
       "slug": "cups-03",
       "title": "THREE OF CUPS",
+      "display_title": "THREE OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-03.txt",
       "image_file": "cards/cups-03.png",
@@ -394,6 +472,8 @@
     {
       "slug": "cups-04",
       "title": "FOUR OF CUPS",
+      "display_title": "FOUR OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-04.txt",
       "image_file": "cards/cups-04.png",
@@ -404,6 +484,8 @@
     {
       "slug": "cups-05",
       "title": "FIVE OF CUPS",
+      "display_title": "FIVE OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-05.txt",
       "image_file": "cards/cups-05.png",
@@ -414,6 +496,8 @@
     {
       "slug": "cups-06",
       "title": "SIX OF CUPS",
+      "display_title": "SIX OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-06.txt",
       "image_file": "cards/cups-06.png",
@@ -424,6 +508,8 @@
     {
       "slug": "cups-07",
       "title": "SEVEN OF CUPS",
+      "display_title": "SEVEN OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-07.txt",
       "image_file": "cards/cups-07.png",
@@ -434,6 +520,8 @@
     {
       "slug": "cups-08",
       "title": "EIGHT OF CUPS",
+      "display_title": "EIGHT OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-08.txt",
       "image_file": "cards/cups-08.png",
@@ -444,6 +532,8 @@
     {
       "slug": "cups-09",
       "title": "NINE OF CUPS",
+      "display_title": "NINE OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-09.txt",
       "image_file": "cards/cups-09.png",
@@ -454,6 +544,8 @@
     {
       "slug": "cups-10",
       "title": "TEN OF CUPS",
+      "display_title": "TEN OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-10.txt",
       "image_file": "cards/cups-10.png",
@@ -464,6 +556,8 @@
     {
       "slug": "cups-page",
       "title": "PAGE OF CUPS",
+      "display_title": "PAGE OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-page.txt",
       "image_file": "cards/cups-page.png",
@@ -474,6 +568,8 @@
     {
       "slug": "cups-knight",
       "title": "KNIGHT OF CUPS",
+      "display_title": "KNIGHT OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-knight.txt",
       "image_file": "cards/cups-knight.png",
@@ -484,6 +580,8 @@
     {
       "slug": "cups-queen",
       "title": "QUEEN OF CUPS",
+      "display_title": "QUEEN OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-queen.txt",
       "image_file": "cards/cups-queen.png",
@@ -494,6 +592,8 @@
     {
       "slug": "cups-king",
       "title": "KING OF CUPS",
+      "display_title": "KING OF CUPS",
+      "scene_override": null,
       "group": "cups",
       "prompt_file": "prompts/cups-king.txt",
       "image_file": "cards/cups-king.png",
@@ -504,6 +604,8 @@
     {
       "slug": "swords-ace",
       "title": "ACE OF SWORDS",
+      "display_title": "ACE OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-ace.txt",
       "image_file": "cards/swords-ace.png",
@@ -514,6 +616,8 @@
     {
       "slug": "swords-02",
       "title": "TWO OF SWORDS",
+      "display_title": "TWO OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-02.txt",
       "image_file": "cards/swords-02.png",
@@ -524,6 +628,8 @@
     {
       "slug": "swords-03",
       "title": "THREE OF SWORDS",
+      "display_title": "THREE OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-03.txt",
       "image_file": "cards/swords-03.png",
@@ -534,6 +640,8 @@
     {
       "slug": "swords-04",
       "title": "FOUR OF SWORDS",
+      "display_title": "FOUR OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-04.txt",
       "image_file": "cards/swords-04.png",
@@ -544,6 +652,8 @@
     {
       "slug": "swords-05",
       "title": "FIVE OF SWORDS",
+      "display_title": "FIVE OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-05.txt",
       "image_file": "cards/swords-05.png",
@@ -554,6 +664,8 @@
     {
       "slug": "swords-06",
       "title": "SIX OF SWORDS",
+      "display_title": "SIX OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-06.txt",
       "image_file": "cards/swords-06.png",
@@ -564,6 +676,8 @@
     {
       "slug": "swords-07",
       "title": "SEVEN OF SWORDS",
+      "display_title": "SEVEN OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-07.txt",
       "image_file": "cards/swords-07.png",
@@ -574,6 +688,8 @@
     {
       "slug": "swords-08",
       "title": "EIGHT OF SWORDS",
+      "display_title": "EIGHT OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-08.txt",
       "image_file": "cards/swords-08.png",
@@ -584,6 +700,8 @@
     {
       "slug": "swords-09",
       "title": "NINE OF SWORDS",
+      "display_title": "NINE OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-09.txt",
       "image_file": "cards/swords-09.png",
@@ -594,6 +712,8 @@
     {
       "slug": "swords-10",
       "title": "TEN OF SWORDS",
+      "display_title": "TEN OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-10.txt",
       "image_file": "cards/swords-10.png",
@@ -604,6 +724,8 @@
     {
       "slug": "swords-page",
       "title": "PAGE OF SWORDS",
+      "display_title": "PAGE OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-page.txt",
       "image_file": "cards/swords-page.png",
@@ -614,6 +736,8 @@
     {
       "slug": "swords-knight",
       "title": "KNIGHT OF SWORDS",
+      "display_title": "KNIGHT OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-knight.txt",
       "image_file": "cards/swords-knight.png",
@@ -624,6 +748,8 @@
     {
       "slug": "swords-queen",
       "title": "QUEEN OF SWORDS",
+      "display_title": "QUEEN OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-queen.txt",
       "image_file": "cards/swords-queen.png",
@@ -634,6 +760,8 @@
     {
       "slug": "swords-king",
       "title": "KING OF SWORDS",
+      "display_title": "KING OF SWORDS",
+      "scene_override": null,
       "group": "swords",
       "prompt_file": "prompts/swords-king.txt",
       "image_file": "cards/swords-king.png",
@@ -644,6 +772,8 @@
     {
       "slug": "pentacles-ace",
       "title": "ACE OF PENTACLES",
+      "display_title": "ACE OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-ace.txt",
       "image_file": "cards/pentacles-ace.png",
@@ -654,6 +784,8 @@
     {
       "slug": "pentacles-02",
       "title": "TWO OF PENTACLES",
+      "display_title": "TWO OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-02.txt",
       "image_file": "cards/pentacles-02.png",
@@ -664,6 +796,8 @@
     {
       "slug": "pentacles-03",
       "title": "THREE OF PENTACLES",
+      "display_title": "THREE OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-03.txt",
       "image_file": "cards/pentacles-03.png",
@@ -674,6 +808,8 @@
     {
       "slug": "pentacles-04",
       "title": "FOUR OF PENTACLES",
+      "display_title": "FOUR OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-04.txt",
       "image_file": "cards/pentacles-04.png",
@@ -684,6 +820,8 @@
     {
       "slug": "pentacles-05",
       "title": "FIVE OF PENTACLES",
+      "display_title": "FIVE OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-05.txt",
       "image_file": "cards/pentacles-05.png",
@@ -694,6 +832,8 @@
     {
       "slug": "pentacles-06",
       "title": "SIX OF PENTACLES",
+      "display_title": "SIX OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-06.txt",
       "image_file": "cards/pentacles-06.png",
@@ -704,6 +844,8 @@
     {
       "slug": "pentacles-07",
       "title": "SEVEN OF PENTACLES",
+      "display_title": "SEVEN OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-07.txt",
       "image_file": "cards/pentacles-07.png",
@@ -714,6 +856,8 @@
     {
       "slug": "pentacles-08",
       "title": "EIGHT OF PENTACLES",
+      "display_title": "EIGHT OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-08.txt",
       "image_file": "cards/pentacles-08.png",
@@ -724,6 +868,8 @@
     {
       "slug": "pentacles-09",
       "title": "NINE OF PENTACLES",
+      "display_title": "NINE OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-09.txt",
       "image_file": "cards/pentacles-09.png",
@@ -734,6 +880,8 @@
     {
       "slug": "pentacles-10",
       "title": "TEN OF PENTACLES",
+      "display_title": "TEN OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-10.txt",
       "image_file": "cards/pentacles-10.png",
@@ -744,6 +892,8 @@
     {
       "slug": "pentacles-page",
       "title": "PAGE OF PENTACLES",
+      "display_title": "PAGE OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-page.txt",
       "image_file": "cards/pentacles-page.png",
@@ -754,6 +904,8 @@
     {
       "slug": "pentacles-knight",
       "title": "KNIGHT OF PENTACLES",
+      "display_title": "KNIGHT OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-knight.txt",
       "image_file": "cards/pentacles-knight.png",
@@ -764,6 +916,8 @@
     {
       "slug": "pentacles-queen",
       "title": "QUEEN OF PENTACLES",
+      "display_title": "QUEEN OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-queen.txt",
       "image_file": "cards/pentacles-queen.png",
@@ -774,6 +928,8 @@
     {
       "slug": "pentacles-king",
       "title": "KING OF PENTACLES",
+      "display_title": "KING OF PENTACLES",
+      "scene_override": null,
       "group": "pentacles",
       "prompt_file": "prompts/pentacles-king.txt",
       "image_file": "cards/pentacles-king.png",

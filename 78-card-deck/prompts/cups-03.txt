@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THREE OF CUPS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): three nude maidens with flower wreaths dancing in a circle, their bodies turned to the light, each raising one chalice, fruits on the ground
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): three nude maidens with flower wreaths dancing in a circle, their bodies turned to the light, each raising one chalice, fruits on the ground
 HAIR FROM cards.json: rich chocolate-brown, golden-blonde, and copper hair among the three maidens
 AGE FROM cards.json: 20 years old
 BUILD FROM cards.json: harmonious, curvaceous, dancing together with joyful feminine grace

@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: TWO OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a blindfolded adult woman in a very thin veil of antique silk gauze, almost transparent, her shoulders bare, seated on a stone seat by the sea, two long swords crossed over her chest, the moon rising behind her
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a blindfolded adult woman in a very thin veil of antique silk gauze, almost transparent, her shoulders bare, seated on a stone seat by the sea, two long swords crossed over her chest, the moon rising behind her
 HAIR FROM cards.json: jet-black hair drawn back into a sleek, flawless high knot
 AGE FROM cards.json: 21 years old
 BUILD FROM cards.json: slender, perfectly balanced, taut core and crossed arms holding dual blades

@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: EIGHT OF CUPS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a solitary young woman in a deep crimson cloak walking away with a staff, leaving eight stacked cups behind to journey toward misty moonlit peaks
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a solitary young woman in a deep crimson cloak walking away with a staff, leaving eight stacked cups behind to journey toward misty moonlit peaks
 HAIR FROM cards.json: deep brown hair tucked under a travel cloak
 AGE FROM cards.json: 23 years old
 BUILD FROM cards.json: lean wanderer silhouette, resolute back turned toward mountains

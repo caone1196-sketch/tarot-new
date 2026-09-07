@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THE SUN
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a joyful nude young woman with a wreath of red flowers riding a calm white horse, her bare torso turned toward the light, a red banner streaming, a radiant sun with a gentle face, a low sunflower wall
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a joyful nude young woman with a wreath of red flowers riding a calm white horse, her bare torso turned toward the light, a red banner streaming, a radiant sun with a gentle face, a low sunflower wall
 HAIR FROM cards.json: radiant sunflower-blonde hair, bouncing loose curls garlanded in red blossoms
 AGE FROM cards.json: 19 years old
 BUILD FROM cards.json: youthful and vibrant, sun-kissed skin, energetic and joyful feminine curves

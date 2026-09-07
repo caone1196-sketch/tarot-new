@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: JUDGEMENT
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a serene winged female angel draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, gently lifting a golden trumpet with a white banner; below, rising from calm waters, three beautiful young women with softly open arms turning toward the divine light — one fair-skinned with flowing blonde hair, one warm-toned with dark auburn curls, and one deep-skinned with tight black coils — each with a distinct face and figure, each draped in sheer transparent silk
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a serene winged female angel draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, gently lifting a golden trumpet with a white banner; below, rising from calm waters, three beautiful young women with softly open arms turning toward the divine light — one fair-skinned with flowing blonde hair, one warm-toned with dark auburn curls, and one deep-skinned with tight black coils — each with a distinct face and figure, each draped in sheer transparent silk
 HAIR FROM cards.json: rich amber-honey hair in soft luminous waves catching gentle golden rays
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: graceful, soft and serene winged angel with gently sculpted curves and a tender, uplifting composure

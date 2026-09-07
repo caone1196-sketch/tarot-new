@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: WHEEL OF FORTUNE
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a great golden wheel of fortune inscribed with mystic letters, a serene winged female sphinx draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, seated gently atop the wheel holding a single upright sword loosely in one hand, a rising golden serpent on one side and a jackal deity on the other, four graceful winged female watchers in flowing transparent silk reclining softly at the four corners
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a great golden wheel of fortune inscribed with mystic letters, a serene winged female sphinx draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, seated gently atop the wheel holding a single upright sword loosely in one hand, a rising golden serpent on one side and a jackal deity on the other, four graceful winged female watchers in flowing transparent silk reclining softly at the four corners
 HAIR FROM cards.json: golden-amber hair in soft loose waves, crowned with delicate celestial laurels
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: graceful, soft and serene winged female guardian with gently sculpted curves and a tender, dreamy composure

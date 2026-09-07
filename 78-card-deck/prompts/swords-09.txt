@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: NINE OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a distressed woman sitting up in bed at night, her bare shoulder and back above the sheet, face in her hands, nine swords mounted in rows on the dark wall
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a distressed woman sitting up in bed at night, her bare shoulder and back above the sheet, face in her hands, nine swords mounted in rows on the dark wall
 HAIR FROM cards.json: long black hair falling in sorrowful waves over her weeping hands
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: slender, delicate nightgown silhouette seated in emotional release

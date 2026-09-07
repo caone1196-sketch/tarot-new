@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: NINE OF CUPS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a content adult woman with bare shoulders seated at a banquet table, silk slipping from one shoulder, before nine golden chalices proudly arranged in a neat grid on a shelf behind her
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a content adult woman with bare shoulders seated at a banquet table, silk slipping from one shoulder, before nine golden chalices proudly arranged in a neat grid on a shelf behind her
 HAIR FROM cards.json: warm honey-brown hair in a relaxed loose chignon
 AGE FROM cards.json: 24 years old
 BUILD FROM cards.json: luxurious, soft feminine curves, content and smiling seated posture

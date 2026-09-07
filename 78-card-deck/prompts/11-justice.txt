@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: JUSTICE
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a statuesque bare-shouldered queen, a length of sheer silk sliding fully off one shoulder to bare one breast and one hip, a sword upright in one hand and balanced scales in the other, seated on a stone throne between pillars
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a statuesque bare-shouldered queen, a length of sheer silk sliding fully off one shoulder to bare one breast and one hip, a sword upright in one hand and balanced scales in the other, seated on a stone throne between pillars
 HAIR FROM cards.json: sleek raven-black hair drawn back sharply into a high polished half-ponytail
 AGE FROM cards.json: 24 years old
 BUILD FROM cards.json: statuesque and regal, prominent collarbones, straight spine and austere balanced posture

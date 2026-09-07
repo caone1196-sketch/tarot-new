@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THE WORLD
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a serene adult woman dancer posed gracefully with a gentle curve, one hip softly out and one knee lightly lifted, her body relaxed with her head tilted back, draped only in a diaphanous transparent white silk veil that clings to her soft curves and streams softly behind her, one slim wand held lightly in each hand, dancing within a great oval laurel wreath, an angel, an eagle, a lion and a bull at the corners
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a serene adult woman dancer posed gracefully with a gentle curve, one hip softly out and one knee lightly lifted, her body relaxed with her head tilted back, draped only in a diaphanous transparent white silk veil that clings to her soft curves and streams softly behind her, one slim wand held lightly in each hand, dancing within a great oval laurel wreath, an angel, an eagle, a lion and a bull at the corners
 HAIR FROM cards.json: dark chocolate-chestnut hair in soft loose waves drifting gently with white silk ribbons
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: graceful, soft and serene dancer's physique, gentle curves, supple tender poise

@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: FOUR OF WANDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): four garlanded wands forming a festive canopy, two graceful young women dancing gently beneath it, both draped in diaphanous transparent silk veils and both with fair skin tones — one porcelain-skinned with flowing honey-gold hair and one rosy ivory-skinned with deep auburn ringlets, each with a distinct face and figure — a manor beyond
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): four garlanded wands forming a festive canopy, two graceful young women dancing gently beneath it, both draped in diaphanous transparent silk veils and both with fair skin tones — one porcelain-skinned with flowing honey-gold hair and one rosy ivory-skinned with deep auburn ringlets, each with a distinct face and figure — a manor beyond
 HAIR FROM cards.json: distinct per dancer: one with flowing honey-gold hair, one with tight black coils
 AGE FROM cards.json: 20 years old
 BUILD FROM cards.json: both lithe and celebratory, joyful dancer waists and graceful raised arms, distinct faces and figures

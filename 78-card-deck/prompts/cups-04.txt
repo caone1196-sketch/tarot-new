@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: FOUR OF CUPS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a contemplative young woman seated beneath a tree, arms crossed, regarding three cups on the grass while a celestial hand offers a fourth cup from a cloud
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a contemplative young woman seated beneath a tree, arms crossed, regarding three cups on the grass while a celestial hand offers a fourth cup from a cloud
 HAIR FROM cards.json: dark wavy hair falling over her shoulder in contemplative thought
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: slender, relaxed seated posture against a flowering tree

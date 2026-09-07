@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THE HIGH PRIESTESS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet
 HAIR FROM cards.json: deep auburn hair with soft natural waves, cascading beneath a sheer gossamer veil
 AGE FROM cards.json: 23 years old
 BUILD FROM cards.json: serene, slender and graceful, long neck and soft classical feminine curves

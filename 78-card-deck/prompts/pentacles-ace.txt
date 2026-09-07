@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: ACE OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a divine hand offering one large golden pentacle coin over a lush garden gateway with lilies, mountains beyond
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a divine hand offering one large golden pentacle coin over a lush garden gateway with lilies, mountains beyond
 
 COUNT LOCK: exactly 1 pentacle coin. exactly one large golden pentacle coin in the divine hand; no other coin, no coins scattered in the garden.
 

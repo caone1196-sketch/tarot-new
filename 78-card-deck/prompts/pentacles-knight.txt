@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: KNIGHT OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a steadfast 23-year-old female knight in dark armor holding a golden pentacle with calm reverence in a plowed field
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a steadfast 23-year-old female knight in dark armor holding a golden pentacle with calm reverence in a plowed field
 HAIR FROM cards.json: dark bronze hair braided under an oak-leaf crested helmet
 AGE FROM cards.json: 23 years old
 BUILD FROM cards.json: sturdy, athletic female knight on a calm heavy warhorse

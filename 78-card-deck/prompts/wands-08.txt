@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: EIGHT OF WANDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): eight wands with leaf tips drifting in one parallel diagonal row across a soft open sky toward a river town below
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): eight wands with leaf tips drifting in one parallel diagonal row across a soft open sky toward a river town below
 
 COUNT LOCK: exactly 8 wands. exactly eight wands in ONE single parallel diagonal row across the open sky — 1 row of 8, evenly spaced, all eight pointing the same way, none crossing, none cropped by the frame.
 

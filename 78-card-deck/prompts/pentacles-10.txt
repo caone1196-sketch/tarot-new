@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: TEN OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a family hall — a patriarch seated, a couple standing with his hand at her waist, a child playing with two dogs — ten coins in a pyramid emblem on the wall behind them
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a family hall — a patriarch seated, a couple standing with his hand at her waist, a child playing with two dogs — ten coins in a pyramid emblem on the wall behind them
 HAIR FROM cards.json: warm honey-brown hair in a thick braided crown
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: content, gentle matriarchal beauty surrounded by familial wealth

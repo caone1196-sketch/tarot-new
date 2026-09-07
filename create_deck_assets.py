@@ -73,6 +73,13 @@ with (OUT / "prompt-manifest.json").open("w", encoding="utf-8") as mf:
         count_block = "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects." if count is None else (
             f"COUNT LOCK: exactly {count['n']} {count['obj']}. {count['layout']}."
         )
+        display_title = "THE HANGED" if slug == "12-hanged" else card["title"]
+        scene_text = card["scene"]
+        if slug == "07-chariot":
+            scene_text = scene_text.replace(
+                "between two sphinxes",
+                "between two real roaring lions, both lions visibly roaring with open mouths and natural lion anatomy",
+            )
         trait = traits.get(slug)
         trait_block = ""
         if trait:
@@ -85,9 +92,9 @@ with (OUT / "prompt-manifest.json").open("w", encoding="utf-8") as mf:
             )
         prompt = (
             COMMON
-            + f"\nCARD TITLE: {card['title']}\n"
+            + f"\nCARD TITLE: {display_title}\n"
             + "TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.\n"
-            + f"SCENE FROM cards.json (follow verbatim): {card['scene']}\n"
+            + f"SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): {scene_text}\n"
             + (f"HAIR FROM cards.json: {card['hair']}\n" if card.get("hair") else "")
             + (f"AGE FROM cards.json: {card['age']}\n" if card.get("age") else "")
             + (f"BUILD FROM cards.json: {card['build']}\n" if card.get("build") else "")
@@ -101,6 +108,8 @@ with (OUT / "prompt-manifest.json").open("w", encoding="utf-8") as mf:
         manifest.append({
             "slug": slug,
             "title": card["title"],
+            "display_title": display_title,
+            "scene_override": scene_text if scene_text != card["scene"] else None,
             "group": card["group"],
             "prompt_file": f"prompts/{slug}.txt",
             "image_file": f"cards/{slug}.png",

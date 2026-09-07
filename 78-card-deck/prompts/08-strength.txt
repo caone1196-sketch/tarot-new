@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: STRENGTH
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a nude woman garlanded with roses, one knee raised, leaning in close to calmly close the jaws of a great golden lion, her bare back arched and her hip lit by low sun, an infinity sign glowing above her head
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a nude woman garlanded with roses, one knee raised, leaning in close to calmly close the jaws of a great golden lion, her bare back arched and her hip lit by low sun, an infinity sign glowing above her head
 HAIR FROM cards.json: burnished copper-red long wavy hair flowing down like a lion's mane
 AGE FROM cards.json: 23 years old
 BUILD FROM cards.json: lithe yet strong, defined muscular tone along the back, soft graceful curves

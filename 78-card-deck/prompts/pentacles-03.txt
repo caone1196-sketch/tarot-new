@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THREE OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a young woman sculptor in an open workshop apron slipping off one shoulder, hair loose, chiseling a column, a monk and an architect commenting, three coins set in the arch above
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a young woman sculptor in an open workshop apron slipping off one shoulder, hair loose, chiseling a column, a monk and an architect commenting, three coins set in the arch above
 HAIR FROM cards.json: dark auburn hair coiled in a practical braided crown
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: focused, toned artisan shoulders, sculpted hands crafting the cathedral

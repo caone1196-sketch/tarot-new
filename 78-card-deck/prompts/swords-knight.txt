@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: KNIGHT OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a fierce 21-year-old female knight in gleaming steel armor charging on a galloping horse, sword held high into the storm winds
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a fierce 21-year-old female knight in gleaming steel armor charging on a galloping horse, sword held high into the storm winds
 HAIR FROM cards.json: dark hair streaming wildly back from beneath an open winged helmet
 AGE FROM cards.json: 21 years old
 BUILD FROM cards.json: fierce, athletic female knight in full gallant charge

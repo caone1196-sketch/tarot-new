@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THE STAR
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a nude woman standing waist-deep in a clear pool at night, her body arched back and turned three-quarters toward the viewer, wet hair falling down her back, both arms raised pouring water from two jugs, one knee lifted, a great eight-pointed star and seven smaller stars above
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a nude woman standing waist-deep in a clear pool at night, her body arched back and turned three-quarters toward the viewer, wet hair falling down her back, both arms raised pouring water from two jugs, one knee lifted, a great eight-pointed star and seven smaller stars above
 HAIR FROM cards.json: very long pale shimmering gold hair, wet and silky, cascading down past one bare shoulder
 AGE FROM cards.json: 20 years old
 BUILD FROM cards.json: slender and lithe, narrow waist, long graceful legs, luminous maiden proportions

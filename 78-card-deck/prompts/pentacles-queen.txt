@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: QUEEN OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a warm nude queen with a flower crown on a goat-carved throne, one breast bared, one pentacle resting in her lap, a rabbit in the garden
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a warm nude queen with a flower crown on a goat-carved throne, one breast bared, one pentacle resting in her lap, a rabbit in the garden
 HAIR FROM cards.json: deep chocolate hair with a ruddy golden sheen, crowned in blooming vines
 AGE FROM cards.json: 24 years old
 BUILD FROM cards.json: voluptuous, maternal, generous warm feminine curves on carved beast throne

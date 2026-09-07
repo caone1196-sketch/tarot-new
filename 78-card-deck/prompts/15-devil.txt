@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THE DEVIL
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a horned winged female arch-devil draped in sheer black silk upon a dark pedestal; beside her two alluring nude young women arched in golden chains, their bodies glowing in candlelit shadow inside an obsidian cavern
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a horned winged female arch-devil draped in sheer black silk upon a dark pedestal; beside her two alluring nude young women arched in golden chains, their bodies glowing in candlelit shadow inside an obsidian cavern
 HAIR FROM cards.json: midnight-black wavy hair with deep wine-red undertones, wild and untamed
 AGE FROM cards.json: 21 years old
 BUILD FROM cards.json: sultry and curvaceous, arched back and soft full hips, magnetic alluring presence

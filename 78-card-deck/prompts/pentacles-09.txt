@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: NINE OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): an elegant woman in a sheer flowing gown that clings to breast and hip, a falcon on her gloved hand, her other hand touching ripe grapes, nine coins along the arbor beam, a snail at her feet
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): an elegant woman in a sheer flowing gown that clings to breast and hip, a falcon on her gloved hand, her other hand touching ripe grapes, nine coins along the arbor beam, a snail at her feet
 HAIR FROM cards.json: long vine-dark espresso hair loosely curled with gold thread
 AGE FROM cards.json: 23 years old
 BUILD FROM cards.json: graceful, refined aristocratic hourglass build in blooming grape vineyard

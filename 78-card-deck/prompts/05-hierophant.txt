@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THE HIEROPHANT
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a serene 24-year-old female high mystic priestess draped only in a diaphanous transparent red silk veil so fine it clings to her curves and glows with warm candlelight against her skin, the gossamer-thin fabric slipping from one shoulder, raising one blessing hand, two kneeling female acolytes before her, sacred temple pillars behind
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a serene 24-year-old female high mystic priestess draped only in a diaphanous transparent red silk veil so fine it clings to her curves and glows with warm candlelight against her skin, the gossamer-thin fabric slipping from one shoulder, raising one blessing hand, two kneeling female acolytes before her, sacred temple pillars behind
 HAIR FROM cards.json: thick espresso-brown waves falling loose over her bare shoulders and back
 AGE FROM cards.json: 24 years old
 BUILD FROM cards.json: tall, noble and serene female high priestess with graceful dignified poise

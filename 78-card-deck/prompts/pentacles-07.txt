@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: SEVEN OF PENTACLES
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a patient young woman leaning on her garden staff, contemplating seven golden pentacles blooming on a lush green vine
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a patient young woman leaning on her garden staff, contemplating seven golden pentacles blooming on a lush green vine
 HAIR FROM cards.json: sweat-touched warm chestnut hair resting on hoe handle
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: lean, hardworking farm-toned musculature, patient contemplative stance

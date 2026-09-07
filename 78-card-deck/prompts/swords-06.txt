@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: SIX OF SWORDS
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a cloaked woman and a child being poled across a river by a ferryman, six swords upright along the boat
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a cloaked woman and a child being poled across a river by a ferryman, six swords upright along the boat
 HAIR FROM cards.json: light ash-brown hair gathered softly in a misty veil
 AGE FROM cards.json: 21 years old
 BUILD FROM cards.json: slender, quiet passenger silhouette seated in the ferry boat

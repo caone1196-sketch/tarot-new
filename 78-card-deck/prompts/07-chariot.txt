@@ -6,7 +6,7 @@ Render ultra-detailed, high-resolution classical fine-art tarot imagery with cri
 
 CARD TITLE: THE CHARIOT
 TOP SYMBOL LOCK: the cards.json emblem is metadata only and must NOT be drawn as a top frame emblem; remove the entire top medallion/icon area while preserving symbols explicitly required inside the scene.
-SCENE FROM cards.json (follow verbatim): a heroic bare-shouldered woman charioteer wrapped in loose sheer white silk with no armor, standing tall in a stone chariot between two sphinxes under a starry canopy, a walled city behind her
+SCENE FROM cards.json (follow verbatim, with the explicit Chariot lion override when applicable): a heroic bare-shouldered woman charioteer wrapped in loose sheer white silk with no armor, standing tall in a stone chariot between two real roaring lions, both lions visibly roaring with open mouths and natural lion anatomy under a starry canopy, a walled city behind her
 HAIR FROM cards.json: dark sable-brown hair tightly plaited in a single thick warrior braid over one shoulder
 AGE FROM cards.json: 22 years old
 BUILD FROM cards.json: athletic and toned, sculpted shoulders and taut waist, resolute and heroic stance
