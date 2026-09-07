@@ -138,7 +138,7 @@ Aura: {KHÔNG KHÍ}.
 ## 7. Ví dụ hoàn chỉnh — THE MOON (v4 full-bleed)
 
 ```text
-A full-bleed tarot card artwork "THE MOON": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image's outer border and frame.
+A full-bleed tarot card artwork "THE MOON": the painted scene fills the ENTIRE image edge to edge like a classical fine-art painting, matching the painterly style, warm lighting and level of detail of the inner artwork of THE MOON reference image — but completely ignoring the reference image’s outer border and frame.
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
