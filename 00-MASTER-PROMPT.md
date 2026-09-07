@@ -2,7 +2,7 @@
 
 Bản chuẩn hóa quy chuẩn tạo hình và bố cục toàn bộ 78 lá bài Tarot:
 
-1. **Quy chuẩn hiển thị nội dung & khung viền (Visual Anchor Standard — THE STAR)**:
+1. **Quy chuẩn hiển thị nội dung & khung viền (Visual Anchor Standard — the moon)**:
    * Lấy lá **`the moon.png`** làm quy chuẩn DUY NHẤT cho toàn bộ bộ bài — chuẩn cho cả **phần ảnh bên trong** lẫn **phần viền bên ngoài**.
    * **Phần viền ngoài**: khung viền mạ vàng Gothic mỏng, sắc nét, đối xứng hoàn hảo trên nền giấy da cổ (*aged parchment/vellum*).
    * **Phần ảnh bên trong**: phong cách hội họa fine-art của The Star — phối cảnh thoáng đãng, ánh sáng ấm, chiều sâu không gian lùi dần về hậu cảnh, chi tiết sắc nét. Mỗi lá vẫn giữ bối cảnh và bảng màu riêng của mình, chỉ chuẩn hóa về chất lượng nét vẽ, cách đổ sáng và độ chi tiết theo The Star.
