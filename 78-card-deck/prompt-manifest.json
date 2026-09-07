@@ -29,7 +29,7 @@
       "image_file": "cards/02-priestess.jpg",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "03-empress",
@@ -39,7 +39,7 @@
       "image_file": "cards/03-empress.jpg",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "04-emperor",
@@ -209,7 +209,7 @@
       "image_file": "cards/20-judgement.jpg",
       "character_traits_included": true,
       "count_lock": "COUNT LOCK: no suit objects are required by this record; do not introduce countable suit objects.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "21-world",
@@ -229,7 +229,7 @@
       "image_file": "cards/wands-ace.jpg",
       "character_traits_included": false,
       "count_lock": "COUNT LOCK: exactly 1 wand. exactly one wand, sprouting and alive, held by the divine hand; no second staff anywhere, not even in the landscape.",
-      "artwork_status": "pending-generation"
+      "artwork_status": "generated"
     },
     {
       "slug": "wands-02",
@@ -782,6 +782,6 @@
       "artwork_status": "pending-generation"
     }
   ],
-  "artwork_generated_count": 13,
-  "artwork_pending_count": 65
+  "artwork_generated_count": 17,
+  "artwork_pending_count": 61
 }
