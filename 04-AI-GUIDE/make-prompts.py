@@ -56,8 +56,21 @@ TITLE_LETTERING = (
     " Spelling lock (hard rule): the title reads EXACTLY \"{TITLE}\" — spelled {SPELLED}. Do not add, drop, double or "
     "reorder any letter; no Roman numeral, no extra word, no subtitle, no second line of text anywhere on the card."
     " Place it in the clear lower band of the card, fully legible and unobstructed — no figure, animal, prop or "
-    "shadow may cover, crop or overlap the letters."
+    "shadow may cover, crop or overlap the letters.{DISAMBIG}"
 )
+
+# Cặp tên dễ bị model nhầm (nhân vật nữ -> model tự đổi EMPEROR thành EMPRESS và ngược lại)
+TITLE_DISAMBIGUATION = {
+    "04-emperor": (
+        " Disambiguation (hard rule): the title word is E-M-P-E-R-O-R — spelled with an O, the word for a ruler. "
+        "Although the figure on this card is a woman, the title text is NOT 'THE EMPRESS', NOT 'EMPRES', NOT 'EMPREROR'. "
+        "The letters must read T-H-E E-M-P-E-R-O-R and nothing else."
+    ),
+    "03-empress": (
+        " Disambiguation (hard rule): the title word is E-M-P-R-E-S-S — ending in a double S. "
+        "It is NOT 'THE EMPEROR' and NOT 'EMPRES'. The letters must read T-H-E E-M-P-R-E-S-S and nothing else."
+    ),
+}
 
 RE_TITLE_PARA = re.compile(
     r"^At the BOTTOM of the image, elegantly overlaid on the artwork: the title \".*?\" "
@@ -126,7 +139,10 @@ def main(slugs=None):
 
         # 2) đoạn tiêu đề -> title lettering lock (bám mẫu chữ)
         spelled = " ".join("-".join(w.upper()) for w in title.split())
-        text, n = RE_TITLE_PARA.subn(TITLE_LETTERING.format(TITLE=title, SPELLED=spelled), text, count=1)
+        text, n = RE_TITLE_PARA.subn(
+            TITLE_LETTERING.format(TITLE=title, SPELLED=spelled,
+                                   DISAMBIG=TITLE_DISAMBIGUATION.get(slug, "")),
+            text, count=1)
         assert n == 1, f"{slug}: không thay được đoạn tiêu đề"
 
         # 3) chuẩn trang phục (từ wardrobe-standard.json)
