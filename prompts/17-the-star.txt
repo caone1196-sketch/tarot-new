@@ -1,0 +1,14 @@
+A single tarot card "THE STAR", vertical portrait, full-bleed painted artwork covering the ENTIRE card — top, side and bottom edges beneath the golden border like THE STAR reference. No parchment strip anywhere; the title sits DIRECTLY on the painted scene.
+OUTPUT CANVAS: exactly 784x1360 pixels, portrait, same canvas as the reference cards.
+
+The FIRST reference (blank card) gives ONLY its thin double golden border lines and corner scrollwork — the TWO PARALLEL THIN golden lines and golden corner flourishes must be replicated EXACTLY, overlaid ON TOP of the painting; a single-line border is an error. Do NOT copy its empty parchment areas. THE SECOND (THE STAR) is only a quality/lettering reference — do not copy her face or identity.
+
+WARDROBE LOCK: dress the figure(s) exactly like the woman in THE STAR reference — essentially bare classical fine-art figure, at most a thin wisp of translucent silk as an accent, long hair as natural drapery. NO dresses, NO gowns, NO armor unless the scene requires a minimal story piece.
+
+IDENTITY: She is 20 years old. Eyes: starlight grey-blue, wide-set, long lanh như nước đêm. Hair: very long pale shimmering gold hair, wet and silky, cascading down past one bare shoulder. Build: A mảnh, chân dài, thần thái nữ thần thanh khiết. Skin tone: ivory. UNIQUE SIGNATURE that must be clearly visible on her: chòm tàn nhang vàng trên hai vai. Mood/aura of the scene: nước đêm, sao, làn da ướt.
+
+Scene: A woman standing waist-deep in a clear pool at night, her body arched back and turned three-quarters toward the viewer, wet hair falling down her back, both arms raised pouring water from two jugs, one knee lifted, a great eight-pointed star and seven smaller stars above HARD COUNT RULE — exactly two jugs, one in each hand, both fully visible Count every instance before finalizing; a wrong count is a critical error that forces a repaint.
+
+At the bottom center, over the painting, the title "THE STAR" in antique gold Blackletter lettering identical in style to THE STAR's title. Spelling must be exact, letter-for-letter: "THE STAR". No box, no strip, no frame around the letters.
+
+Anatomy: each figure exactly one head, one torso, two arms, two legs, natural joints, correct fingers.

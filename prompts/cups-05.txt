@@ -1,0 +1,14 @@
+A single tarot card "FIVE OF CUPS", vertical portrait, full-bleed painted artwork covering the ENTIRE card — top, side and bottom edges beneath the golden border like THE STAR reference. No parchment strip anywhere; the title sits DIRECTLY on the painted scene.
+OUTPUT CANVAS: exactly 784x1360 pixels, portrait, same canvas as the reference cards.
+
+The FIRST reference (blank card) gives ONLY its thin double golden border lines and corner scrollwork — the TWO PARALLEL THIN golden lines and golden corner flourishes must be replicated EXACTLY, overlaid ON TOP of the painting; a single-line border is an error. Do NOT copy its empty parchment areas. THE SECOND (THE STAR) is only a quality/lettering reference — do not copy her face or identity.
+
+WARDROBE LOCK: dress the figure(s) exactly like the woman in THE STAR reference — essentially bare classical fine-art figure, at most a thin wisp of translucent silk as an accent, long hair as natural drapery. NO dresses, NO gowns, NO armor unless the scene requires a minimal story piece.
+
+IDENTITY: She is 22 years old. Eyes: watery hazel, downturned, khóe mắt ướt. Hair: long mahogany hair unbound and draping over cloaked shoulders. Build: A mảnh, dáng cúi cổ thanh mảnh buồn. Skin tone: porcelain. UNIQUE SIGNATURE that must be clearly visible on her: tàn nhang như hạt mưa trên mu bàn tay. Mood/aura of the scene: mưa phùn, áo choàng ướt.
+
+Scene: A graceful adult woman in a dark cloak slipping off one bare shoulder, standing bowed with her back to the light by the river, three spilled chalices lying emptied and overturned in the foreground at her feet, two full chalices still standing upright on the bank behind her HARD COUNT RULE — exactly five chalices: three spilled and empty lying in the foreground plus two still upright and full standing on the bank behind him — 3 + 2 = 5; all five bowls countable, none hidden behind his cloak Count every instance before finalizing; a wrong count is a critical error that forces a repaint.
+
+At the bottom center, over the painting, the title "FIVE OF CUPS" in antique gold Blackletter lettering identical in style to THE STAR's title. Spelling must be exact, letter-for-letter: "FIVE OF CUPS". No box, no strip, no frame around the letters.
+
+Anatomy: each figure exactly one head, one torso, two arms, two legs, natural joints, correct fingers.

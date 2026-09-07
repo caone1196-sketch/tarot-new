@@ -1,0 +1,14 @@
+A single tarot card "THE EMPEROR", vertical portrait, full-bleed painted artwork covering the ENTIRE card — top, side and bottom edges beneath the golden border like THE STAR reference. No parchment strip anywhere; the title sits DIRECTLY on the painted scene.
+OUTPUT CANVAS: exactly 784x1360 pixels, portrait, same canvas as the reference cards.
+
+The FIRST reference (blank card) gives ONLY its thin double golden border lines and corner scrollwork — the TWO PARALLEL THIN golden lines and golden corner flourishes must be replicated EXACTLY, overlaid ON TOP of the painting; a single-line border is an error. Do NOT copy its empty parchment areas. THE SECOND (THE STAR) is only a quality/lettering reference — do not copy her face or identity.
+
+WARDROBE LOCK: dress the figure(s) exactly like the woman in THE STAR reference — essentially bare classical fine-art figure, at most a thin wisp of translucent silk as an accent, long hair as natural drapery. NO dresses, NO gowns, NO armor unless the scene requires a minimal story piece.
+
+IDENTITY: She is 25 years old. Eyes: storm-grey, hooded, lạnh lùng ra lệnh. Hair: sleek dark bronze-brown hair in a sharp warrior braid, crowned with a golden ram-horn circlet. Build: B cao, vai rộng, săn chắc theo kiểu chiến binh, không thô. Skin tone: sand. UNIQUE SIGNATURE that must be clearly visible on her: sẹo nhỏ khía chân mày phải. Mood/aura of the scene: đá granit, sắt, gió núi.
+
+Scene: A serene 25-year-old female emperor reclining gracefully on a stone throne carved with ram heads, draped only in a diaphanous transparent silk veil so fine it clings to her soft curves and glows with warm light against her skin, the gossamer fabric slipping from one shoulder, holding an ankh scepter loosely in one hand, barren rugged mountains behind her No cup, sword, wand or coin appears anywhere on the card.
+
+At the bottom center, over the painting, the title "THE EMPEROR" in antique gold Blackletter lettering identical in style to THE STAR's title. Spelling must be exact, letter-for-letter: "THE EMPEROR". No box, no strip, no frame around the letters.
+
+Anatomy: each figure exactly one head, one torso, two arms, two legs, natural joints, correct fingers.
