@@ -1,0 +1,5 @@
+# Temporary image-generation artifacts
+78-card-deck/cards/*.jpg
+78-card-deck/cards/*.hires.png
+78-card-deck/contact-sheet*
+*.tmp
