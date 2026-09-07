@@ -18,7 +18,19 @@ cards/
 └── README.md             # file này
 ```
 
-## ⚠️ Điểm khác so với `03-PROMPTS-78-FULL.md` (bản v3)
+## 👗 Chuẩn trang phục toàn bộ 78 lá
+
+**Dải lụa mỏng quấn ngang hông** — định nghĩa nằm trong `04-AI-GUIDE/wardrobe-standard.json`:
+
+> `narrow band of fine translucent silk wrapped low across her hips` — dải lụa mỏng quấn thấp qua hông,
+> che phần hông và đùi trên; thêm một dải lụa mỏng lướt ngang ngực và voan mỏng bay từ vai.
+> **Cấm**: váy, áo choàng, corset, nịt, giáp, dây đai, vải dày/mờ (velvet, brocade).
+> Da trần ở vai, lưng, eo, hông, chân — sự gợi cảm đến từ da thịt và dải lụa, không phải từ quần áo.
+
+Sửa chuẩn → sửa **1 file** `wardrobe-standard.json` → chạy lại `make-prompts.py` → 78 lá cùng đổi.
+Lá nào cần câu riêng thì thêm vào `scene_rewrites` (theo slug); không có thì dùng `generic_rewrites`.
+
+## ⚠️ Điểm khác so với `03-PROMPTS-78-FULL.md` (bản v4)
 
 `04-AI-GUIDE/make-prompts.py` lấy prompt gốc và áp **4 chỉnh sửa**:
 
@@ -27,7 +39,7 @@ cards/
 | 1 | Đoạn "matching … THE MOON reference image" → **STYLE ANCHOR** bằng chữ | Ảnh tham chiếu nguyên lá làm model **kéo bối cảnh THE MOON sang lá khác** |
 | 2 | Thêm **Subject lock** + danh sách chống lẫn | Chốt đúng chủ đề, cấm mượn hình lá khác |
 | 3 | **Title lettering lock** — bám mẫu chữ `ref/title-lettering.png` | v2 viết chữ tự do → **sai kiểu chữ so với lá mẫu** |
-| 4 | Vải = **GOSSAMER** siêu mỏng | v2 ra lụa còn dày → cấm rõ vải dày/mờ |
+| 4 | **Wardrobe standard** = dải lụa mỏng quấn hông (đọc từ `wardrobe-standard.json`) | Thống nhất trang phục cho cả 78 lá |
 
 **Tham chiếu kiểu chữ** — tách riêng dải chữ từ `the moon.png` (y 1206–1290) dán lên nền tối
 784×1360, nên model chỉ học **chữ**, không học bối cảnh:
@@ -60,7 +72,8 @@ Bố cục, nhân vật (mắt/tóc/da/vóc dáng/nét riêng), đạo cụ, cou
 
 - **v1** (`63b94c4`) — tham chiếu `the moon.png` + váy kín → sai tham chiếu, sai chủ đề, sai trang phục
 - **v2** (`390bd12`) — bỏ tham chiếu + subject lock + lụa dính → **sai kiểu chữ, lụa quá dày**
-- **v3** (hiện tại) — + title lettering lock bám mẫu chữ, + vải gossamer siêu mỏng
+- **v3** (`6b2feb6`) — + title lettering lock bám mẫu chữ, + vải gossamer siêu mỏng
+- **v4** (hiện tại) — **thống nhất trang phục: dải lụa mỏng quấn ngang hông**, chuẩn nằm riêng ở `04-AI-GUIDE/wardrobe-standard.json`
 
 ## Sinh thêm lá
 

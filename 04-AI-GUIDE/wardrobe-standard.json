@@ -1,0 +1,38 @@
+{
+  "standard": "hip-sash",
+  "version": "v4",
+  "vn": "TRANG PHỤC CHUẨN TOÀN BỘ 78 LÁ: chỉ là một DẢI LỤA MỎNG quấn ngang hông, che phần hông/đùi trên; có thể kèm dải lụa mỏng lướt qua ngực và tấm voan mỏng bay từ vai. Cấm váy, áo choàng, corset, nịt, giáp, vải dày/mờ. Cơ thể trần ở vai, lưng, eo, hông, chân.",
+  "wardrobe_lock": "Wardrobe standard (hard rule — identical on every card of this deck): her ONLY garment is a NARROW BAND of fine translucent silk wrapped low across her hips, a hip-sash that covers the pelvis and the tops of the thighs, the silk so thin it clings and lets the line of her body read through it. A second narrow ribbon of the same gossamer silk drifts across her chest, and the same silk may stream from her shoulders or behind her. FORBIDDEN: gowns, dresses, bodices, corsets, skirts, capes, cloaks, armour, straps, harnesses, thick or opaque cloth, velvet, brocade, layered drapery. The silhouette stays bare and uncluttered — the sensuality comes from skin and the single band of silk, never from clothing. No explicit nudity: no visible breasts or nipples, no buttocks or genitals; the chest ribbon and the hip band always cover those areas. Bare skin of the shoulders, arms, back, waist, hips and legs is expected and desired; the fabric must read as a whisper of silk, not as clothing.",
+  "scene_rewrites": {
+    "00-fool": {
+      "find": "draped only in a transparent silk veil so fine it clings and reveals her bare body beneath, the veil slipping from one shoulder and streaming behind her",
+      "replace": "wearing nothing but a narrow band of fine translucent silk wrapped low across her hips, a gossamer veil of the same silk slipping from one shoulder and streaming behind her"
+    },
+    "01-magician": {
+      "find": "a nude young woman magician, bare torso with a length of silk slung low across her hips",
+      "replace": "a young woman magician wearing nothing but a narrow band of fine translucent silk wrapped low across her hips, her shoulders, arms, back and midriff bare"
+    },
+    "02-priestess": {
+      "find": "a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze",
+      "replace": "a serene priestess wearing nothing but a narrow band of fine translucent silk wrapped low across her hips, her shoulders, arms and long neck bare, a ribbon of the same gossamer silk drifting across her chest"
+    }
+  },
+  "generic_rewrites": [
+    {
+      "find": "\\b(?:completely |fully |entirely )?nude\\b",
+      "replace": "wearing nothing but a narrow band of fine translucent silk wrapped low across her hips"
+    },
+    {
+      "find": "\\bnaked\\b",
+      "replace": "wearing nothing but a narrow band of fine translucent silk wrapped low across her hips"
+    },
+    {
+      "find": "\\bbare torso\\b",
+      "replace": "bare torso above a narrow band of fine translucent silk wrapped low across her hips"
+    },
+    {
+      "find": "\\btopless\\b",
+      "replace": "bare-shouldered, wearing nothing but a narrow band of fine translucent silk wrapped low across her hips"
+    }
+  ]
+}

@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Tạo prompt render thực tế từ prompts-full.json (nguồn sự thật) — BẢN v3.
+"""Tạo prompt render thực tế từ prompts-full.json (nguồn sự thật) — BẢN v4.
+
+v4: TRANG PHỤC đọc từ 04-AI-GUIDE/wardrobe-standard.json (chuẩn dải lụa mỏng quấn hông),
+    áp dụng thống nhất cho mọi lá — sửa chuẩn thì sửa 1 file, 78 lá cùng đổi.
 
 Lịch sử:
   v1  tham chiếu the moon.png + váy kín        -> sai tham chiếu, sai chủ đề, sai trang phục
   v2  bỏ tham chiếu + subject lock + lụa dính  -> sai kiểu chữ so với lá mẫu, lụa quá dày
   v3  + TITLE LETTERING LOCK (bám mẫu chữ ref/title-lettering.png)
       + lụa GOSSAMER siêu mỏng (cấm vải dày/mờ)
+  v4  + CHUẨN TRANG PHỤC thống nhất: dải lụa mỏng quấn ngang hông (wardrobe-standard.json)
 
 Mọi khóa gốc (framing / skin-tone / anatomy / count / quality) GIỮ NGUYÊN 100%.
 
@@ -73,34 +77,22 @@ PROPS_GUARD = {
 }
 
 # ---------------------------------------------------------- 4. TRANG PHỤC
-WARDROBE_EDITS = {
-    "00-fool": (
-        r"draped only in a transparent silk veil so fine it clings and reveals her bare body beneath",
-        "draped only in a veil of gossamer-fine transparent silk, near-weightless and almost see-through, "
-        "clinging wetly to her so the whole line of her body reads clearly through the fabric",
-    ),
-    "01-magician": (
-        r"a nude young woman magician, bare torso with a length of silk slung low across her hips",
-        "a young woman magician, her bare shoulders, arms, back and midriff above a length of gossamer-fine "
-        "translucent silk wrapped across her chest and slung low across her hips, the fabric so sheer that the "
-        "line of her body and her warm skin tone read clearly through it",
-    ),
-    "02-priestess": (
-        r"a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze",
-        "a serene priestess, her bare shoulders and long neck rising above a drift of gossamer-fine sheer gauze "
-        "that covers her breasts and falls to the stone floor, the gauze so diaphanous that the line of her body "
-        "reads clearly beneath it",
-    ),
-}
+# Chuẩn trang phục nằm riêng trong wardrobe-standard.json — sửa 1 chỗ, áp dụng mọi lá.
+STD = json.loads((Path(__file__).resolve().parent / "wardrobe-standard.json").read_text(encoding="utf-8"))
+WARDROBE_LOCK = STD["wardrobe_lock"]
 
-WARDROBE_LOCK = (
-    "Wardrobe lock (hard rule): the fabric is GOSSAMER — ultra-fine, near-transparent silk chiffon and gauze, "
-    "weightless and wet-clinging, reading as a second skin so that the body's contours, muscles and warm skin "
-    "tone are legible through it. FORBIDDEN: thick, heavy, stiff or opaque cloth — no velvet, no brocade, no "
-    "heavy layered drapery, no quilted or padded panels, no opaque gowns. The cloth must read as a whisper of "
-    "silk, not as clothing. No explicit nudity: no visible breasts or nipples, no buttocks or genitals, "
-    "no see-through fabric directly over intimate areas, no sexual acts or overtly sexual posing."
-)
+
+def scene_rewrite(slug: str, text: str) -> str:
+    """Áp dụng chuẩn trang phục vào câu tả cảnh của lá."""
+    rw = STD["scene_rewrites"].get(slug)
+    if rw:
+        text, n = re.subn(re.escape(rw["find"]), rw["replace"], text)
+        if n:
+            return text
+    # không có rewrite riêng -> dùng rule chung
+    for g in STD["generic_rewrites"]:
+        text = re.sub(g["find"], g["replace"], text)
+    return text
 
 
 def main():
@@ -121,10 +113,10 @@ def main():
         text, n = RE_TITLE_PARA.subn(TITLE_LETTERING.format(TITLE=title), text, count=1)
         assert n == 1, f"{slug}: không thay được đoạn tiêu đề"
 
-        # 3) trang phục gossamer
-        pattern, repl = WARDROBE_EDITS[slug]
-        text, n = re.subn(pattern, repl, text)
-        assert n == 1, f"{slug}: không khớp mẫu trang phục (n={n})"
+        # 3) chuẩn trang phục (từ wardrobe-standard.json)
+        before = text
+        text = scene_rewrite(slug, text)
+        assert text != before, f"{slug}: không áp dụng được chuẩn trang phục"
         text = text.replace("Main figure —", WARDROBE_LOCK + "\n\nMain figure —", 1)
 
         # 4) subject lock (trước skin-tone lock)
