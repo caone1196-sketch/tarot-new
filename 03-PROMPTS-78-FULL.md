@@ -27,7 +27,7 @@ A full-bleed tarot card artwork "THE FOOL": the painted scene fills the ENTIRE i
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE FOOL" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE FOOL" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a carefree 19-year-old woman wanderer draped only in a transparent silk veil so fine it clings and reveals her bare body beneath, the veil slipping from one shoulder and streaming behind her, a white rose lifted in one hand and her eyes lowered to look at it, stepping lightly toward a cliff edge, a small white dog leaping at her heel, distant mountains under a golden morning sun.
@@ -61,7 +61,7 @@ A full-bleed tarot card artwork "THE MAGICIAN": the painted scene fills the ENTI
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE MAGICIAN" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE MAGICIAN" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a nude young woman magician, bare torso with a length of silk slung low across her hips, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her.
@@ -95,7 +95,7 @@ A full-bleed tarot card artwork "THE HIGH PRIESTESS": the painted scene fills th
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HIGH PRIESTESS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HIGH PRIESTESS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet.
@@ -129,7 +129,7 @@ A full-bleed tarot card artwork "THE EMPRESS": the painted scene fills the ENTIR
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE EMPRESS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE EMPRESS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a slender nude empress, one breast bared, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her.
@@ -163,7 +163,7 @@ A full-bleed tarot card artwork "THE EMPEROR": the painted scene fills the ENTIR
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE EMPEROR" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE EMPEROR" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene 25-year-old female emperor reclining gracefully on a stone throne carved with ram heads, draped only in a diaphanous transparent silk veil so fine it clings to her soft curves and glows with warm light against her skin, the gossamer fabric slipping from one shoulder, holding an ankh scepter loosely in one hand, barren rugged mountains behind her.
@@ -197,7 +197,7 @@ A full-bleed tarot card artwork "THE HIEROPHANT": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HIEROPHANT" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HIEROPHANT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene 24-year-old female high mystic priestess draped only in a diaphanous transparent red silk veil so fine it clings to her curves and glows with warm candlelight against her skin, the gossamer-thin fabric slipping from one shoulder, raising one blessing hand, two fair-skinned kneeling female acolytes before her, sacred temple pillars behind.
@@ -231,7 +231,7 @@ A full-bleed tarot card artwork "THE LOVERS": the painted scene fills the ENTIRE
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE LOVERS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE LOVERS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a fair-skinned nude young man and a nude young woman standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer with silk fallen to her hip and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him.
@@ -265,7 +265,7 @@ A full-bleed tarot card artwork "THE CHARIOT": the painted scene fills the ENTIR
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE CHARIOT" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE CHARIOT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a heroic bare-shouldered woman charioteer wrapped in loose sheer white silk with no armor, standing tall in a stone chariot between two sphinxes under a starry canopy, a walled city behind her.
@@ -299,7 +299,7 @@ A full-bleed tarot card artwork "STRENGTH": the painted scene fills the ENTIRE i
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "STRENGTH" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "STRENGTH" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a nude woman garlanded with roses, one knee raised, leaning in close to calmly close the jaws of a great golden lion, her bare back arched and her hip lit by low sun, an infinity sign glowing above her head.
@@ -333,7 +333,7 @@ A full-bleed tarot card artwork "THE HERMIT": the painted scene fills the ENTIRE
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HERMIT" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HERMIT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a hermit woman standing on a bare mountain peak under a deep star-filled night sky, holding up a lit lantern with warm golden light pouring out of it, draped only in a loose sheer white silk gauze that slips from her bare shoulders and pools low around her hips, her bare back and the curve of one breast veiled and revealed by the golden lantern light.
@@ -367,7 +367,7 @@ A full-bleed tarot card artwork "WHEEL OF FORTUNE": the painted scene fills the 
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "WHEEL OF FORTUNE" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "WHEEL OF FORTUNE" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a great golden wheel of fortune inscribed with mystic letters, a serene fair-skinned winged female sphinx draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, seated gently atop the wheel holding a single upright sword loosely in one hand, a rising golden serpent on one side and a golden jackal-headed deity on the other, four graceful fair-skinned winged female watchers in flowing transparent silk reclining softly at the four corners.
@@ -401,7 +401,7 @@ A full-bleed tarot card artwork "JUSTICE": the painted scene fills the ENTIRE im
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "JUSTICE" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "JUSTICE" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a statuesque bare-shouldered queen, a length of sheer silk sliding fully off one shoulder to bare one breast and one hip, a sword upright in one hand and balanced scales in the other, seated on a stone throne between pillars.
@@ -435,7 +435,7 @@ A full-bleed tarot card artwork "THE HANGED MAN": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HANGED MAN" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HANGED MAN" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene nude 21-year-old young woman suspended upside-down by one ankle from a living tree shaped like a cross, one leg bent gracefully, a radiant halo of golden light glowing around her head.
@@ -469,7 +469,7 @@ A full-bleed tarot card artwork "DEATH": the painted scene fills the ENTIRE imag
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "DEATH" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "DEATH" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a striking 22-year-old pale female figure draped in sheer black silk that veils and reveals her bare form, riding a calm black charger, holding a black banner adorned with a five-petaled white rose, a golden sunrise glowing between twin distant towers.
@@ -503,7 +503,7 @@ A full-bleed tarot card artwork "TEMPERANCE": the painted scene fills the ENTIRE
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEMPERANCE" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEMPERANCE" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a graceful winged figure with long loosened hair, draped in a diaphanous transparent silk veil, seated gracefully on a mossy stone by the pool with one leg trailing into the water, pouring from a golden chalice tilted high in her raised hand while her other hand holds a second golden chalice positioned directly beneath the upper chalice's lip so that its open mouth catches the falling water, a single smooth unbroken stream of water pouring straight down from the tilted upper chalice and landing inside the lower chalice's bowl, irises blooming around the pool, warm sepia and ochre light.
@@ -537,7 +537,7 @@ A full-bleed tarot card artwork "THE DEVIL": the painted scene fills the ENTIRE 
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE DEVIL" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE DEVIL" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a horned winged female arch-devil draped in sheer black silk upon a dark pedestal; beside her two alluring fair-skinned nude young women arched in golden chains, their bodies glowing in candlelit shadow inside an obsidian cavern.
@@ -571,7 +571,7 @@ A full-bleed tarot card artwork "THE TOWER": the painted scene fills the ENTIRE 
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE TOWER" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE TOWER" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a tall stone tower struck by a jagged bolt of lightning, its golden crown toppling in flames, two graceful fair-skinned young women falling through the storm and ash, their bodies illuminated by the brilliant flash.
@@ -605,7 +605,7 @@ A full-bleed tarot card artwork "THE STAR": the painted scene fills the ENTIRE i
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE STAR" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE STAR" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a nude woman standing waist-deep in a clear pool at night, her body arched back and turned three-quarters toward the viewer, wet hair falling down her back, both arms raised pouring water from two jugs, one knee lifted, a great eight-pointed star and seven smaller stars above.
@@ -639,7 +639,7 @@ A full-bleed tarot card artwork "THE MOON": the painted scene fills the ENTIRE i
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE MOON" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE MOON" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a pale moon with a serene face dropping dew, two towers and a winding path, a nude water nymph rising from the dark pool with water streaming over her bare shoulders, a wolf and a dog howling, a crayfish in the water.
@@ -673,7 +673,7 @@ A full-bleed tarot card artwork "THE SUN": the painted scene fills the ENTIRE im
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE SUN" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE SUN" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a joyful nude young woman with a wreath of red flowers riding a calm white horse, her bare torso turned toward the light, a red banner streaming, a radiant sun with a gentle face, a low sunflower wall.
@@ -707,7 +707,7 @@ A full-bleed tarot card artwork "JUDGEMENT": the painted scene fills the ENTIRE 
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "JUDGEMENT" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "JUDGEMENT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene fair-skinned winged female angel draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, gently lifting a golden trumpet with a white banner; below, rising from calm waters, three beautiful fair-skinned young women with softly open arms turning toward the divine light — one ivory-skinned with flowing golden-blonde hair, one warm-toned with dark auburn curls, and one porcelain-skinned with soft raven-black waves — each with a distinct face and figure, each draped in sheer transparent silk.
@@ -741,7 +741,7 @@ A full-bleed tarot card artwork "THE WORLD": the painted scene fills the ENTIRE 
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE WORLD" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE WORLD" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene adult woman dancer posed gracefully with a gentle curve, one hip softly out and one knee lightly lifted, her body relaxed with her head tilted back, draped only in a diaphanous transparent white silk veil that clings to her soft curves and streams softly behind her, one slim wand held lightly in each hand, dancing within a great oval laurel wreath, a fair-skinned angel, an eagle, a lion and a bull at the corners.
@@ -780,7 +780,7 @@ A full-bleed tarot card artwork "ACE OF WANDS": the painted scene fills the ENTI
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a graceful feminine divine hand emerging from soft clouds offering a single living sprouting wand, a delicate transparent silk veil fluttering around the wrist, a serene landscape and a distant castle below.
@@ -806,7 +806,7 @@ A full-bleed tarot card artwork "TWO OF WANDS": the painted scene fills the ENTI
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene noblewoman on a battlement, draped in a diaphanous transparent silk veil slipping from one shoulder, a globe of the world resting in one palm with her eyes lowered to look at it, one wand upright in her other hand, the second wand mounted on the wall behind her.
@@ -840,7 +840,7 @@ A full-bleed tarot card artwork "THREE OF WANDS": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene woman merchant seen from behind on a high rocky headland, standing tall with her long back line turned to us, draped only in a diaphanous transparent silk veil that clings and reveals her soft curves and streams in the sea wind, one hand resting high on the staff beside her and the other raised to shade her eyes as she gazes far out to sea, three staves planted upright in a row around her, sailing ships on a golden sea.
@@ -874,7 +874,7 @@ A full-bleed tarot card artwork "FOUR OF WANDS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 four garlanded wands forming a festive canopy, two graceful young women dancing gently beneath it, both draped in diaphanous transparent silk veils and both fair-skinned — the foremost light-olive-skinned with blue-black hair piled high in a floral-pinned braided updo, the other rosy ivory-skinned with deep auburn ringlets — each with a distinct face and figure — a manor beyond.
@@ -908,7 +908,7 @@ A full-bleed tarot card artwork "FIVE OF WANDS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 five graceful young women draped in diaphanous transparent silk veils standing in a loose circle in a soft meadow, every one fair-skinned — the central woman sand-toned with a short tousled copper-brown bob, and around her four companions: one porcelain-skinned with long platinum-blonde hair, one rosy ivory-skinned with copper-red waves, one warm ivory-skinned with deep chocolate-brown hair, one fair-skinned with raven-black straight hair — each holding exactly one wand planted upright beside her.
@@ -942,7 +942,7 @@ A full-bleed tarot card artwork "SIX OF WANDS": the painted scene fills the ENTI
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene woman on a white horse, draped in a diaphanous transparent silk veil, a laurel wreath on her brow, one crowned wand raised gently in her hand, five fair-skinned admirers behind her each holding one wand.
@@ -976,7 +976,7 @@ A full-bleed tarot card artwork "SEVEN OF WANDS": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene young woman standing atop a high crag, draped in a diaphanous transparent silk veil, holding one great wand gently with both hands, six wands rising from below.
@@ -1010,7 +1010,7 @@ A full-bleed tarot card artwork "EIGHT OF WANDS": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 eight wands with leaf tips drifting in one parallel diagonal row across a soft open sky toward a river town below.
@@ -1036,7 +1036,7 @@ A full-bleed tarot card artwork "NINE OF WANDS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene young woman draped in a diaphanous transparent silk veil, gently resting her hands on one standing wand, eight wands upright behind her like a palisade.
@@ -1070,7 +1070,7 @@ A full-bleed tarot card artwork "TEN OF WANDS": the painted scene fills the ENTI
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene 23-year-old woman reclining gracefully on soft grass, nude but for a sheer transparent silk veil draped across her form, resting beside a boulder; leaning against the boulder behind her is one natural bundle of ten long wooden wands tied loosely at the middle with a thin cord, their upper ends spreading apart in a natural fan like an open hand fan, every wand the same length and thickness, evenly spaced with a clear gap of sky between each shaft, all ten tips clearly separated and countable, the lower ends gathered together in the grass, none crossing, none hidden, a distant sunlit castle beyond.
@@ -1104,7 +1104,7 @@ A full-bleed tarot card artwork "PAGE OF WANDS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene adult woman page standing farther back in the landscape so her whole figure sits smaller within the wide desert vista, draped in a diaphanous transparent silk veil sliding off one shoulder, holding one living wand, desert dunes and pyramids behind her.
@@ -1138,7 +1138,7 @@ A full-bleed tarot card artwork "KNIGHT OF WANDS": the painted scene fills the E
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene 22-year-old female knight, nearly bare with only a wisp of sheer transparent silk draped across her form, riding a calm pure-white horse trotting forward, holding one flourishing living wand out before her, a golden meadow and distant hills behind.
@@ -1172,7 +1172,7 @@ A full-bleed tarot card artwork "QUEEN OF WANDS": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene queen with dark loosened hair on a lion-carved throne, draped only in a diaphanous transparent silk veil that clings to her soft curves, one sunflower wand held gently in her hand, a black cat at her feet, her throne set at the edge of a bright spring birch grove — slender white birch trunks, soft green undergrowth and a carpet of wildflowers and sunflowers, dappled sunlight filtering through young leaves.
@@ -1206,7 +1206,7 @@ A full-bleed tarot card artwork "KING OF WANDS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF WANDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene 25-year-old female sovereign with a lion-carved crown seated on a flame-carved throne, draped in a diaphanous transparent silk veil, holding one blossoming wand gently in her hand, her throne set in a clearing of a majestic ancient oak forest — towering dark oak trunks with warm golden sunlight streaming down through the dense canopy, shafts of amber light and drifting golden embers between the trees.
@@ -1245,7 +1245,7 @@ A full-bleed tarot card artwork "ACE OF CUPS": the painted scene fills the ENTIR
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a divine hand offering one ornate chalice, a dove descending, five streams overflowing into a pool of lilies.
@@ -1271,7 +1271,7 @@ A full-bleed tarot card artwork "TWO OF CUPS": the painted scene fills the ENTIR
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a nude young woman and a fair-skinned nude young man facing one another, her body turned three-quarters toward the viewer with one arm across her breast, each raising one chalice in a toast, a caduceus with a lion head above them.
@@ -1305,7 +1305,7 @@ A full-bleed tarot card artwork "THREE OF CUPS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 three nude maidens with flower wreaths dancing in a circle, their bodies turned to the light, each raising one chalice, fruits on the ground.
@@ -1339,7 +1339,7 @@ A full-bleed tarot card artwork "FOUR OF CUPS": the painted scene fills the ENTI
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a contemplative young woman seated beneath a tree, arms crossed, regarding three cups on the grass while a celestial hand offers a fourth cup from a cloud.
@@ -1373,7 +1373,7 @@ A full-bleed tarot card artwork "FIVE OF CUPS": the painted scene fills the ENTI
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a graceful adult woman in a dark cloak slipping off one bare shoulder, standing bowed with her back to the light by the river, three spilled chalices lying emptied and overturned in the foreground at her feet, two full chalices still standing upright on the bank behind her.
@@ -1407,7 +1407,7 @@ A full-bleed tarot card artwork "SIX OF CUPS": the painted scene fills the ENTIR
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 two graceful young women in sheer summer dresses in an old courtyard garden, exchanging one flower-filled chalice, five more set along the wall behind them.
@@ -1441,7 +1441,7 @@ A full-bleed tarot card artwork "SEVEN OF CUPS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a mesmerized young woman seen from behind, marveling at seven floating cups within glowing clouds containing mystical treasures.
@@ -1475,7 +1475,7 @@ A full-bleed tarot card artwork "EIGHT OF CUPS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a solitary young woman in a deep crimson cloak walking away with a staff, leaving eight stacked cups behind to journey toward misty moonlit peaks.
@@ -1509,7 +1509,7 @@ A full-bleed tarot card artwork "NINE OF CUPS": the painted scene fills the ENTI
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a content adult woman with bare shoulders seated at a banquet table, silk slipping from one shoulder, before nine golden chalices proudly arranged in a neat grid on a shelf behind her.
@@ -1543,7 +1543,7 @@ A full-bleed tarot card artwork "TEN OF CUPS": the painted scene fills the ENTIR
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a blissful fair-skinned couple embracing in a meadow, she in slipping silk with one bare shoulder and the long line of her back to the light, his arms around her waist, ten chalices along a rainbow arc, a cottage and fair-skinned dancing children beyond.
@@ -1577,7 +1577,7 @@ A full-bleed tarot card artwork "PAGE OF CUPS": the painted scene fills the ENTI
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a graceful young woman page by the sea in an open robe sliding off one shoulder, holding one chalice from which a curious fish looks out.
@@ -1611,7 +1611,7 @@ A full-bleed tarot card artwork "KNIGHT OF CUPS": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a graceful 22-year-old female knight in winged silver armor riding a calm white steed beside a stream, extending a golden chalice of peace.
@@ -1645,7 +1645,7 @@ A full-bleed tarot card artwork "QUEEN OF CUPS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a youthful adult queen seated on a shell throne at the water's edge, her shoulders bare beneath wet platinum-blonde hair, wearing a gown of antique WHITE SILK GAUZE so sheer and transparent that the light shines through it and the long line of her body reads clearly beneath, holding one lidded golden chalice in her lap, sea foam and breaking waves behind her.
@@ -1679,7 +1679,7 @@ A full-bleed tarot card artwork "KING OF CUPS": the painted scene fills the ENTI
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF CUPS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a serene 25-year-old oceanic queen on a throne floating upon rolling waves, holding a lotus scepter and a golden cup, a dolphin leaping in the distance.
@@ -1718,7 +1718,7 @@ A full-bleed tarot card artwork "ACE OF SWORDS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a divine hand grasping one upright sword, a jeweled crown hovering at its tip, barren peaks below.
@@ -1744,7 +1744,7 @@ A full-bleed tarot card artwork "TWO OF SWORDS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a blindfolded adult woman in a very thin veil of antique silk gauze, almost transparent, her shoulders bare, seated on a stone seat by the sea, two long swords crossed over her chest, the moon rising behind her.
@@ -1778,7 +1778,7 @@ A full-bleed tarot card artwork "THREE OF SWORDS": the painted scene fills the E
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a large anatomical heart pierced by three swords, rain and storm clouds behind.
@@ -1804,7 +1804,7 @@ A full-bleed tarot card artwork "FOUR OF SWORDS": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a graceful adult woman in a flowing antique gown lying at rest on a stone tomb in a chapel, her hands folded, three swords mounted on the wall above her and one lying beneath her, a stained-glass window behind.
@@ -1838,7 +1838,7 @@ A full-bleed tarot card artwork "FIVE OF SWORDS": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a confident young woman holding three swords over her shoulder and watching two retreating female companions on a stormy coastline, two swords lying in the sand.
@@ -1872,7 +1872,7 @@ A full-bleed tarot card artwork "SIX OF SWORDS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a cloaked woman and a fair-skinned child being poled across a river by a fair-skinned ferryman, six swords upright along the boat.
@@ -1906,7 +1906,7 @@ A full-bleed tarot card artwork "SEVEN OF SWORDS": the painted scene fills the E
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a nimble young woman stealthily carrying five swords in her arms while looking back at a military encampment where two swords remain upright.
@@ -1940,7 +1940,7 @@ A full-bleed tarot card artwork "EIGHT OF SWORDS": the painted scene fills the E
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a blindfolded woman in a flowing gown loosened from one shoulder and loosely bound, standing in a ring of eight swords, a fortress on the cliff behind.
@@ -1974,7 +1974,7 @@ A full-bleed tarot card artwork "NINE OF SWORDS": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a distressed woman sitting up in bed at night, her bare shoulder and back above the sheet, face in her hands, nine swords mounted in rows on the dark wall.
@@ -2008,7 +2008,7 @@ A full-bleed tarot card artwork "TEN OF SWORDS": the painted scene fills the ENT
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a peaceful young woman lying draped in crimson silk on a shoreline at dawn beneath ten upright swords, golden sunlight breaking across dark waters.
@@ -2042,7 +2042,7 @@ A full-bleed tarot card artwork "PAGE OF SWORDS": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 an alert young woman page in a flowing cape on a windy mound holding one raised sword with both hands.
@@ -2076,7 +2076,7 @@ A full-bleed tarot card artwork "KNIGHT OF SWORDS": the painted scene fills the 
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a fierce 21-year-old female knight in gleaming steel armor charging on a galloping horse, sword held high into the storm winds.
@@ -2110,7 +2110,7 @@ A full-bleed tarot card artwork "QUEEN OF SWORDS": the painted scene fills the E
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a stern dignified adult queen whose body is wrapped in a single sheet of TRANSPARENT antique silk gauze, one shoulder and the curve of her breast left bare, posed with sensual grace yet enthroned with majesty, seated on a butterfly-carved stone throne above a sea of clouds, one upright sword held in her hand.
@@ -2144,7 +2144,7 @@ A full-bleed tarot card artwork "KING OF SWORDS": the painted scene fills the EN
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF SWORDS" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a stern and majestic 25-year-old female supreme judge on a high stone throne, holding an upright sword of truth, clear blue skies behind.
@@ -2183,7 +2183,7 @@ A full-bleed tarot card artwork "ACE OF PENTACLES": the painted scene fills the 
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a divine hand offering one large golden pentacle coin over a lush garden gateway with lilies, mountains beyond.
@@ -2209,7 +2209,7 @@ A full-bleed tarot card artwork "TWO OF PENTACLES": the painted scene fills the 
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a joyful 19-year-old young woman dancing on a seaside terrace, juggling two golden pentacles looped inside an infinity ribbon with ships in rolling surf behind.
@@ -2243,7 +2243,7 @@ A full-bleed tarot card artwork "THREE OF PENTACLES": the painted scene fills th
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a young woman sculptor in an open workshop apron slipping off one shoulder, hair loose, chiseling a column, a fair-skinned monk and a fair-skinned architect commenting, three coins set in the arch above.
@@ -2277,7 +2277,7 @@ A full-bleed tarot card artwork "FOUR OF PENTACLES": the painted scene fills the
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a wealthy young woman seated on a stone bench, holding one golden pentacle tight to her chest, one on her crown, and two under her feet.
@@ -2311,7 +2311,7 @@ A full-bleed tarot card artwork "FIVE OF PENTACLES": the painted scene fills the
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 two fair-skinned ragged beggars passing a glowing church in the snow, five coins shining in the tall stained-glass window.
@@ -2345,7 +2345,7 @@ A full-bleed tarot card artwork "SIX OF PENTACLES": the painted scene fills the 
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a prosperous young woman in rich robes holding scales in one hand, distributing golden coins to two kneeling maidens.
@@ -2379,7 +2379,7 @@ A full-bleed tarot card artwork "SEVEN OF PENTACLES": the painted scene fills th
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a patient young woman leaning on her garden staff, contemplating seven golden pentacles blooming on a lush green vine.
@@ -2413,7 +2413,7 @@ A full-bleed tarot card artwork "EIGHT OF PENTACLES": the painted scene fills th
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a young woman apprentice in an apron slipping off one shoulder, sleeves rolled, her chestnut hair pinned in a neat low chignon, chiseling a plain stone disc at a bench, eight coins in one row along the bench edge, a town through the window.
@@ -2447,7 +2447,7 @@ A full-bleed tarot card artwork "NINE OF PENTACLES": the painted scene fills the
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 an elegant woman in a sheer flowing gown that clings to breast and hip, a falcon on her gloved hand, her other hand touching ripe grapes, nine coins along the arbor beam, a snail at her feet.
@@ -2481,7 +2481,7 @@ A full-bleed tarot card artwork "TEN OF PENTACLES": the painted scene fills the 
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a fair-skinned family hall — a patriarch seated, a couple standing with his hand at her waist, a child playing with two dogs — ten coins in a pyramid emblem on the wall behind them.
@@ -2515,7 +2515,7 @@ A full-bleed tarot card artwork "PAGE OF PENTACLES": the painted scene fills the
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a studious young woman page in an open robe studying one large pentacle coin held in both hands, a plowed field behind her.
@@ -2549,7 +2549,7 @@ A full-bleed tarot card artwork "KNIGHT OF PENTACLES": the painted scene fills t
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a steadfast 23-year-old female knight in dark armor holding a golden pentacle with calm reverence in a plowed field.
@@ -2583,7 +2583,7 @@ A full-bleed tarot card artwork "QUEEN OF PENTACLES": the painted scene fills th
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a warm nude queen with a flower crown on a goat-carved throne, one breast bared, one pentacle resting in her lap, a rabbit in the garden.
@@ -2617,7 +2617,7 @@ A full-bleed tarot card artwork "KING OF PENTACLES": the painted scene fills the
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF PENTACLES" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 a wealthy 25-year-old female queen of wealth seated on a bull-carved throne amid blooming grapevines and castle walls, holding a golden pentacle in her lap.

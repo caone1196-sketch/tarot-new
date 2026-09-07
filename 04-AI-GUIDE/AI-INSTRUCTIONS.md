@@ -84,7 +84,7 @@ A full-bleed tarot card artwork "{TITLE}": the painted scene fills the ENTIRE im
 
 Framing lock (hard rule): no card border, no golden gothic frame, no gold line-work edges, no ornamental corners, no oval medallion, no emblem, no ribbon banner, no title cartouche, no parchment margin — the artwork runs full-bleed to all four edges of the image.
 
-At the BOTTOM of the image, elegantly overlaid on the artwork: the title "{TITLE}" in clean antique lettering with a soft shadow for legibility — this is the ONLY text on the card.
+At the BOTTOM of the image, elegantly overlaid on the artwork: the title "{TITLE}" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
 {SCENE}.
