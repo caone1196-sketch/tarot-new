@@ -30,7 +30,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE FOOL" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a carefree 19-year-old woman wanderer draped only in a transparent silk veil so fine it clings and reveals her bare body beneath, the veil slipping from one shoulder and streaming behind her, a white rose lifted in one hand and her eyes lowered to look at it, stepping lightly toward a cliff edge, a small white dog leaping at her heel, distant mountains under a golden morning sun.
+a carefree 19-year-old woman wanderer draped only in a thin strip of silk that covers the lower part of her body, a long silk train streaming behind her, a white rose lifted in one hand and her eyes lowered to look at it, stepping lightly toward a cliff edge, a small white dog leaping at her heel, distant mountains under a golden morning sun.
 
 Main figure — the carefree young wanderer — render exactly as specified: a 19-year-old young woman.
 Eyes: wide, bright doe eyes of honey-amber — innocent and utterly unguarded.
@@ -64,7 +64,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE MAGICIAN" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a nude young woman magician, bare torso with a length of silk slung low across her hips, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her.
+a young woman magician draped only in a thin strip of silk that covers the lower part of her body, one hand raising a wand to the sky and the other pointing down to the earth, the altar table before her laid with a cup, a sword, a wand and a pentacle, a garden of black roses behind her.
 
 Main figure — the magician — render exactly as specified: a 22-year-old young woman.
 Eyes: hooded pale-violet eyes, half-lidded and seductive — a mesmerizing gaze that is hard to escape.
@@ -98,11 +98,11 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HIGH PRIESTESS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene nude priestess, bare shoulders and the soft line of her breasts veiled only by a drift of sheer gauze, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet.
+a serene young priestess with bare shoulders, draped only in a thin strip of silk that covers the lower part of her body, seated between two stone pillars, a scroll of mystery resting in her lap, a silver crescent moon at her feet.
 
 Main figure — the high priestess — render exactly as specified: a 23-year-old young woman.
 Eyes: heavy-lidded deep sea-green eyes, half-closed and mystical.
-Hair: deep auburn hair with soft natural waves, cascading beneath a sheer gossamer veil.
+Hair: deep auburn hair with soft natural waves, cascading beneath a gossamer veil.
 Skin: ivory — warm ivory-white, smooth as silk.
 Build: Level A — slender — slender and delicate with a long graceful neck, seated in calm enigmatic poise.
 Signature detail: a small crescent-shaped birthmark behind her left ear.
@@ -132,7 +132,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE EMPRESS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a slender nude empress, one breast bared, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her.
+a slender young empress draped only in a thin strip of silk that covers the lower part of her body, a crown of flowers in loosened hair, reclining on a velvet throne amid ripe golden wheat and fruits, a heart-shaped shield of Venus leaning beside her.
 
 Main figure — the empress — render exactly as specified: a 24-year-old young woman.
 Eyes: warm topaz-amber almond eyes with a slight upward tilt, a soft sensual gaze.
@@ -166,7 +166,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE EMPEROR" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 25-year-old female emperor reclining gracefully on a stone throne carved with ram heads, draped only in a diaphanous transparent silk veil so fine it clings to her soft curves and glows with warm light against her skin, the gossamer fabric slipping from one shoulder, holding an ankh scepter loosely in one hand, barren rugged mountains behind her.
+a serene 25-year-old female emperor reclining gracefully on a stone throne carved with ram heads, draped only in a thin strip of silk that covers the lower part of her body, holding an ankh scepter loosely in one hand, barren rugged mountains behind her.
 
 Main figure — the female emperor — render exactly as specified: a 25-year-old young woman.
 Eyes: hooded storm-grey eyes, deep and compelling — a holding gaze.
@@ -200,7 +200,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HIEROPHANT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 24-year-old female high mystic priestess draped only in a diaphanous transparent red silk veil so fine it clings to her curves and glows with warm candlelight against her skin, the gossamer-thin fabric slipping from one shoulder, raising one blessing hand, two fair-skinned kneeling female acolytes before her, sacred temple pillars behind.
+a serene 24-year-old female high mystic priestess draped only in a thin strip of red silk that covers the lower part of her body, raising one blessing hand, two fair-skinned kneeling female acolytes before her, sacred temple pillars behind.
 
 Main figure — the high mystic priestess — render exactly as specified: a 24-year-old young woman.
 Eyes: dreamy moss-green eyes, gentle and knowing, softly lowered.
@@ -234,7 +234,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE LOVERS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a fair-skinned nude young man and a nude young woman standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer with silk fallen to her hip and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him.
+a fair-skinned young man and a young woman draped only in a thin strip of silk that covers the lower part of her body, standing hand in hand beneath a great winged angel, her body turned three-quarters toward the viewer and his hand at the small of her back, the tree of knowledge with a serpent behind her, the tree of flames behind him.
 
 Main figure — the young woman of the pair — render exactly as specified: a 21-year-old young woman.
 Eyes: chestnut-amber doe eyes glancing devotedly toward her partner.
@@ -268,7 +268,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE CHARIOT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a heroic bare-shouldered woman charioteer wrapped in loose sheer white silk with no armor, standing tall in a stone chariot between two sphinxes under a starry canopy, a walled city behind her.
+a heroic bare-shouldered woman charioteer draped only in a thin strip of white silk that covers the lower part of her body, wearing no armor, standing tall in a stone chariot between two sphinxes under a starry canopy, a walled city behind her.
 
 Main figure — the charioteer — render exactly as specified: a 22-year-old young woman.
 Eyes: narrow steel-blue eyes — a challenge softened with allure.
@@ -302,7 +302,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "STRENGTH" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a nude woman garlanded with roses, one knee raised, leaning in close to calmly close the jaws of a great golden lion, her bare back arched and her hip lit by low sun, an infinity sign glowing above her head.
+a young woman garlanded with roses, draped only in a thin strip of silk that covers the lower part of her body, one knee raised, leaning in close to calmly close the jaws of a great golden lion, her bare back arched and her hip lit by low sun, an infinity sign glowing above her head.
 
 Main figure — the maiden — render exactly as specified: a 23-year-old young woman.
 Eyes: amber-gold almond eyes like a lioness — radiant yet gentle.
@@ -336,11 +336,11 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HERMIT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a hermit woman standing on a bare mountain peak under a deep star-filled night sky, holding up a lit lantern with warm golden light pouring out of it, draped only in a loose sheer white silk gauze that slips from her bare shoulders and pools low around her hips, her bare back and the curve of one breast veiled and revealed by the golden lantern light.
+a hermit woman standing on a bare mountain peak under a deep star-filled night sky, holding up a lit lantern with warm golden light pouring out of it, draped only in a thin strip of white silk that covers the lower part of her body, her bare back softly aglow in the golden lantern light.
 
 Main figure — the hermit — render exactly as specified: a 23-year-old young woman.
 Eyes: dreamy silver-grey eyes, almost translucent, serene.
-Hair: ethereal silver-ash long hair falling loose in soft waves beneath a sheer white cowl gauze.
+Hair: ethereal silver-ash long hair falling loose in soft waves beneath a white cowl gauze.
 Skin: porcelain — cool porcelain-white with faint blue veining and a pearlescent sheen.
 Build: Level A — slender — slender and mystical, seated in pure meditation.
 Signature detail: a tiny moon-shaped birthmark on her inner right wrist.
@@ -370,7 +370,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "WHEEL OF FORTUNE" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a great golden wheel of fortune inscribed with mystic letters, a serene fair-skinned winged female sphinx draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, seated gently atop the wheel holding a single upright sword loosely in one hand, a rising golden serpent on one side and a golden jackal-headed deity on the other, four graceful fair-skinned winged female watchers in flowing transparent silk reclining softly at the four corners.
+a great golden wheel of fortune inscribed with mystic letters, a serene fair-skinned winged female sphinx draped only in a thin strip of silk that covers the lower part of her body, seated gently atop the wheel holding a single upright sword loosely in one hand, a rising golden serpent on one side and a golden jackal-headed deity on the other, four graceful fair-skinned winged female watchers each draped only in a thin strip of silk covering the lower part of the body, reclining softly at the four corners.
 
 Main figure — the winged sphinx atop the wheel — render exactly as specified: a 22-year-old young woman.
 Eyes: upturned golden-hazel eyes gazing dreamily into the distance like a prophetess.
@@ -404,7 +404,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "JUSTICE" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a statuesque bare-shouldered queen, a length of sheer silk sliding fully off one shoulder to bare one breast and one hip, a sword upright in one hand and balanced scales in the other, seated on a stone throne between pillars.
+a statuesque bare-shouldered queen, draped only in a thin strip of silk that covers the lower part of her body, a sword upright in one hand and balanced scales in the other, seated on a stone throne between pillars.
 
 Main figure — the queen of justice — render exactly as specified: a 24-year-old young woman.
 Eyes: wide-set grey-green eyes, candid and warmly alluring.
@@ -438,7 +438,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE HANGED MAN" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene nude 21-year-old young woman suspended upside-down by one ankle from a living tree shaped like a cross, one leg bent gracefully, a radiant halo of golden light glowing around her head.
+a serene 21-year-old young woman draped only in a thin strip of silk that covers the lower part of her body, suspended upside-down by one ankle from a living tree shaped like a cross, one leg bent gracefully, a radiant halo of golden light glowing around her head.
 
 Main figure — the suspended maiden — render exactly as specified: a 21-year-old young woman.
 Eyes: heavy-lidded deep teal eyes, calm even upside-down.
@@ -472,7 +472,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "DEATH" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a striking 22-year-old pale female figure draped in sheer black silk that veils and reveals her bare form, riding a calm black charger, holding a black banner adorned with a five-petaled white rose, a golden sunrise glowing between twin distant towers.
+a striking 22-year-old pale female figure draped only in a thin strip of black silk that covers the lower part of her body, riding a calm black charger, holding a black banner adorned with a five-petaled white rose, a golden sunrise glowing between twin distant towers.
 
 Main figure — the pale rider — render exactly as specified: a 22-year-old young woman.
 Eyes: pale hooded ice-blue eyes, deep as an enchanting night.
@@ -506,7 +506,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEMPERANCE" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a graceful winged figure with long loosened hair, draped in a diaphanous transparent silk veil, seated gracefully on a mossy stone by the pool with one leg trailing into the water, pouring from a golden chalice tilted high in her raised hand while her other hand holds a second golden chalice positioned directly beneath the upper chalice's lip so that its open mouth catches the falling water, a single smooth unbroken stream of water pouring straight down from the tilted upper chalice and landing inside the lower chalice's bowl, irises blooming around the pool, warm sepia and ochre light.
+a graceful winged figure with long loosened hair, draped only in a thin strip of silk that covers the lower part of her body, seated gracefully on a mossy stone by the pool with one leg trailing into the water, pouring from a golden chalice tilted high in her raised hand while her other hand holds a second golden chalice positioned directly beneath the upper chalice's lip so that its open mouth catches the falling water, a single smooth unbroken stream of water pouring straight down from the tilted upper chalice and landing inside the lower chalice's bowl, irises blooming around the pool, warm sepia and ochre light.
 
 Main figure — the winged water-pourer — render exactly as specified: a 22-year-old young woman.
 Eyes: light upturned aquamarine eyes, clear as water.
@@ -540,7 +540,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE DEVIL" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a horned winged female arch-devil draped in sheer black silk upon a dark pedestal; beside her two alluring fair-skinned nude young women arched in golden chains, their bodies glowing in candlelit shadow inside an obsidian cavern.
+a horned winged female arch-devil draped only in a thin strip of black silk that covers the lower part of her body, upon a dark pedestal; beside her two alluring fair-skinned young women draped only in thin strips of silk covering the lower parts of their bodies, arched in golden chains, their bodies glowing in candlelit shadow inside an obsidian cavern.
 
 Main figure — the horned arch-devil — render exactly as specified: a 21-year-old young woman.
 Eyes: heavy-lidded wine-plum cat eyes, burning.
@@ -574,7 +574,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE TOWER" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a tall stone tower struck by a jagged bolt of lightning, its golden crown toppling in flames, two graceful fair-skinned young women falling through the storm and ash, their bodies illuminated by the brilliant flash.
+a tall stone tower struck by a jagged bolt of lightning, its golden crown toppling in flames, two graceful fair-skinned young women draped only in thin strips of silk covering the lower parts of their bodies, falling through the storm and ash, their bodies illuminated by the brilliant flash.
 
 Main figure — the foremost falling woman — render exactly as specified: a 20-year-old young woman.
 Eyes: round slate-grey eyes wide with astonishment mid-fall.
@@ -608,7 +608,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE STAR" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a nude woman standing waist-deep in a clear pool at night, her body arched back and turned three-quarters toward the viewer, wet hair falling down her back, both arms raised pouring water from two jugs, one knee lifted, a great eight-pointed star and seven smaller stars above.
+a young woman draped only in a thin strip of silk that covers the lower part of her body, standing waist-deep in a clear pool at night, her body arched back and turned three-quarters toward the viewer, wet hair falling down her back, both arms raised pouring water from two jugs, one knee lifted, a great eight-pointed star and seven smaller stars above.
 
 Main figure — the star maiden — render exactly as specified: a 20-year-old young woman.
 Eyes: wide-set starlight grey-blue eyes, luminous as night water.
@@ -642,7 +642,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE MOON" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a pale moon with a serene face dropping dew, two towers and a winding path, a nude water nymph rising from the dark pool with water streaming over her bare shoulders, a wolf and a dog howling, a crayfish in the water.
+a pale moon with a serene face dropping dew, two towers and a winding path, a water nymph draped only in a thin strip of silk that covers the lower part of her body, rising from the dark pool with water streaming over her bare shoulders, a wolf and a dog howling, a crayfish in the water.
 
 Main figure — the water nymph — render exactly as specified: a 21-year-old young woman.
 Eyes: heavy-lidded moonstone silver-violet eyes, dreamy.
@@ -676,7 +676,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE SUN" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a joyful nude young woman with a wreath of red flowers riding a calm white horse, her bare torso turned toward the light, a red banner streaming, a radiant sun with a gentle face, a low sunflower wall.
+a joyful young woman draped only in a thin strip of silk that covers the lower part of her body, wearing a wreath of red flowers and riding a calm white horse, her shoulders turned toward the light, a red banner streaming, a radiant sun with a gentle face, a low sunflower wall.
 
 Main figure — the joyful rider — render exactly as specified: a 19-year-old young woman.
 Eyes: round gold-green (moss-gold) eyes sparkling with laughter.
@@ -710,7 +710,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "JUDGEMENT" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene fair-skinned winged female angel draped only in a diaphanous transparent silk veil that clings to her soft curves and glows with warm light, gently lifting a golden trumpet with a white banner; below, rising from calm waters, three beautiful fair-skinned young women with softly open arms turning toward the divine light — one ivory-skinned with flowing golden-blonde hair, one warm-toned with dark auburn curls, and one porcelain-skinned with soft raven-black waves — each with a distinct face and figure, each draped in sheer transparent silk.
+a serene fair-skinned winged female angel draped only in a thin strip of silk that covers the lower part of her body, gently lifting a golden trumpet with a white banner; below, rising from calm waters, three beautiful fair-skinned young women with softly open arms turning toward the divine light — one ivory-skinned with flowing golden-blonde hair, one warm-toned with dark auburn curls, and one porcelain-skinned with soft raven-black waves — each with a distinct face and figure, each draped only in a thin strip of silk covering the lower part of the body.
 
 Main figure — the winged angel — render exactly as specified: a 22-year-old young woman.
 Eyes: upturned amber eyes flecked with gold, wide open as if just awakened.
@@ -744,7 +744,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THE WORLD" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene adult woman dancer posed gracefully with a gentle curve, one hip softly out and one knee lightly lifted, her body relaxed with her head tilted back, draped only in a diaphanous transparent white silk veil that clings to her soft curves and streams softly behind her, one slim wand held lightly in each hand, dancing within a great oval laurel wreath, a fair-skinned angel, an eagle, a lion and a bull at the corners.
+a serene adult woman dancer posed gracefully with a gentle curve, one hip softly out and one knee lightly lifted, her body relaxed with her head tilted back, draped only in a thin strip of white silk that covers the lower part of her body, a soft silk train streaming behind her, one slim wand held lightly in each hand, dancing within a great oval laurel wreath, a fair-skinned angel, an eagle, a lion and a bull at the corners.
 
 Main figure — the dancing woman — render exactly as specified: a 22-year-old young woman.
 Eyes: wide-set deep emerald eyes, bright and complete.
@@ -783,7 +783,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "ACE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a graceful feminine divine hand emerging from soft clouds offering a single living sprouting wand, a delicate transparent silk veil fluttering around the wrist, a serene landscape and a distant castle below.
+a graceful feminine divine hand emerging from soft clouds offering a single living sprouting wand, a delicate ribbon of silk fluttering around the wrist, a serene landscape and a distant castle below.
 
 Skin-tone lock (hard rule): every human figure on this card — the main figure and every secondary or background figure (partners, companions, crowds, children) — is light-skinned only, within these ten tones: porcelain, ivory, fair, warm peach, light olive, sand, warm tan, honey, light bronze, amber-gold. No deep bronze, dark-brown or Black skin tones appear anywhere on the card; lighting, shadow and candle glow must never darken skin beyond these tones.
 
@@ -809,7 +809,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene noblewoman on a battlement, draped in a diaphanous transparent silk veil slipping from one shoulder, a globe of the world resting in one palm with her eyes lowered to look at it, one wand upright in her other hand, the second wand mounted on the wall behind her.
+a serene noblewoman on a battlement, draped only in a thin strip of silk that covers the lower part of her body, a globe of the world resting in one palm with her eyes lowered to look at it, one wand upright in her other hand, the second wand mounted on the wall behind her.
 
 Main figure — the noblewoman — render exactly as specified: a 22-year-old young woman.
 Eyes: auburn-brown almond eyes gazing distantly in thought.
@@ -843,7 +843,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene woman merchant seen from behind on a high rocky headland, standing tall with her long back line turned to us, draped only in a diaphanous transparent silk veil that clings and reveals her soft curves and streams in the sea wind, one hand resting high on the staff beside her and the other raised to shade her eyes as she gazes far out to sea, three staves planted upright in a row around her, sailing ships on a golden sea.
+a serene woman merchant seen from behind on a high rocky headland, standing tall with her long back line turned to us, draped only in a thin strip of silk that covers the lower part of her body, its long end streaming in the sea wind, one hand resting high on the staff beside her and the other raised to shade her eyes as she gazes far out to sea, three staves planted upright in a row around her, sailing ships on a golden sea.
 
 Main figure — the woman merchant — render exactly as specified: a 23-year-old young woman.
 Eyes: honey-brown almond eyes lost in a dreamy gaze toward the far sea.
@@ -877,7 +877,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-four garlanded wands forming a festive canopy, two graceful young women dancing gently beneath it, both draped in diaphanous transparent silk veils and both fair-skinned — the foremost light-olive-skinned with blue-black hair piled high in a floral-pinned braided updo, the other rosy ivory-skinned with deep auburn ringlets — each with a distinct face and figure — a manor beyond.
+four garlanded wands forming a festive canopy, two graceful young women dancing gently beneath it, both draped only in thin strips of silk covering the lower parts of their bodies and both fair-skinned — the foremost light-olive-skinned with blue-black hair piled high in a floral-pinned braided updo, the other rosy ivory-skinned with deep auburn ringlets — each with a distinct face and figure — a manor beyond.
 
 Main figure — the foremost dancer — render exactly as specified: a 20-year-old young woman.
 Eyes: round dark cherry-violet eyes sparkling with mischief.
@@ -911,7 +911,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-five graceful young women draped in diaphanous transparent silk veils standing in a loose circle in a soft meadow, every one fair-skinned — the central woman sand-toned with a short tousled copper-brown bob, and around her four companions: one porcelain-skinned with long platinum-blonde hair, one rosy ivory-skinned with copper-red waves, one warm ivory-skinned with deep chocolate-brown hair, one fair-skinned with raven-black straight hair — each holding exactly one wand planted upright beside her.
+five graceful young women each draped only in a thin strip of silk that covers the lower part of her body, standing in a loose circle in a soft meadow, every one fair-skinned — the central woman sand-toned with a short tousled copper-brown bob, and around her four companions: one porcelain-skinned with long platinum-blonde hair, one rosy ivory-skinned with copper-red waves, one warm ivory-skinned with deep chocolate-brown hair, one fair-skinned with raven-black straight hair — each holding exactly one wand planted upright beside her.
 
 Main figure — the central woman — render exactly as specified: a 21-year-old young woman.
 Eyes: narrow hazel-green eyes with a playful mischievous glint.
@@ -945,7 +945,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene woman on a white horse, draped in a diaphanous transparent silk veil, a laurel wreath on her brow, one crowned wand raised gently in her hand, five fair-skinned admirers behind her each holding one wand.
+a serene woman on a white horse, draped only in a thin strip of silk that covers the lower part of her body, a laurel wreath on her brow, one crowned wand raised gently in her hand, five fair-skinned admirers behind her each holding one wand.
 
 Main figure — the crowned heroine — render exactly as specified: a 22-year-old young woman.
 Eyes: upturned golden-amber eyes, proudly lifted.
@@ -979,7 +979,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene young woman standing atop a high crag, draped in a diaphanous transparent silk veil, holding one great wand gently with both hands, six wands rising from below.
+a serene young woman standing atop a high crag, draped only in a thin strip of silk that covers the lower part of her body, holding one great wand gently with both hands, six wands rising from below.
 
 Main figure — the young woman on the crag — render exactly as specified: a 21-year-old young woman.
 Eyes: narrow dark-chestnut eyes behind half-lidded enchantment.
@@ -1039,7 +1039,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene young woman draped in a diaphanous transparent silk veil, gently resting her hands on one standing wand, eight wands upright behind her like a palisade.
+a serene young woman draped only in a thin strip of silk that covers the lower part of her body, gently resting her hands on one standing wand, eight wands upright behind her like a palisade.
 
 Main figure — the young woman by the palisade — render exactly as specified: a 24-year-old young woman.
 Eyes: hooded umber eyes, half-closed and sultry.
@@ -1073,7 +1073,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 23-year-old woman reclining gracefully on soft grass, nude but for a sheer transparent silk veil draped across her form, resting beside a boulder; leaning against the boulder behind her is one natural bundle of ten long wooden wands tied loosely at the middle with a thin cord, their upper ends spreading apart in a natural fan like an open hand fan, every wand the same length and thickness, evenly spaced with a clear gap of sky between each shaft, all ten tips clearly separated and countable, the lower ends gathered together in the grass, none crossing, none hidden, a distant sunlit castle beyond.
+a serene 23-year-old woman reclining gracefully on soft grass, draped only in a thin strip of silk that covers the lower part of her body, resting beside a boulder; leaning against the boulder behind her is one natural bundle of ten long wooden wands tied loosely at the middle with a thin cord, their upper ends spreading apart in a natural fan like an open hand fan, every wand the same length and thickness, evenly spaced with a clear gap of sky between each shaft, all ten tips clearly separated and countable, the lower ends gathered together in the grass, none crossing, none hidden, a distant sunlit castle beyond.
 
 Main figure — the reclining woman — render exactly as specified: a 23-year-old young woman.
 Eyes: heavy-lidded deep-brown eyes ringed with amber, half-closed and proud.
@@ -1107,7 +1107,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene adult woman page standing farther back in the landscape so her whole figure sits smaller within the wide desert vista, draped in a diaphanous transparent silk veil sliding off one shoulder, holding one living wand, desert dunes and pyramids behind her.
+a serene adult woman page standing farther back in the landscape so her whole figure sits smaller within the wide desert vista, draped only in a thin strip of silk that covers the lower part of her body, holding one living wand, desert dunes and pyramids behind her.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
 Eyes: round ginger-amber eyes shining with curiosity.
@@ -1141,7 +1141,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KNIGHT OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 22-year-old female knight, nearly bare with only a wisp of sheer transparent silk draped across her form, riding a calm pure-white horse trotting forward, holding one flourishing living wand out before her, a golden meadow and distant hills behind.
+a serene 22-year-old female knight, draped only in a thin strip of silk that covers the lower part of her body, riding a calm pure-white horse trotting forward, holding one flourishing living wand out before her, a golden meadow and distant hills behind.
 
 Main figure — the knight — render exactly as specified: a 22-year-old young woman.
 Eyes: gold-green almond eyes with a roguish playful gleam.
@@ -1175,7 +1175,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene queen with dark loosened hair on a lion-carved throne, draped only in a diaphanous transparent silk veil that clings to her soft curves, one sunflower wand held gently in her hand, a black cat at her feet, her throne set at the edge of a bright spring birch grove — slender white birch trunks, soft green undergrowth and a carpet of wildflowers and sunflowers, dappled sunlight filtering through young leaves.
+a serene queen with dark loosened hair on a lion-carved throne, draped only in a thin strip of silk that covers the lower part of her body, one sunflower wand held gently in her hand, a black cat at her feet, her throne set at the edge of a bright spring birch grove — slender white birch trunks, soft green undergrowth and a carpet of wildflowers and sunflowers, dappled sunlight filtering through young leaves.
 
 Main figure — the queen — render exactly as specified: a 24-year-old young woman.
 Eyes: upturned russet-amber eyes, warm and bewitching.
@@ -1209,7 +1209,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF WANDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 25-year-old female sovereign with a lion-carved crown seated on a flame-carved throne, draped in a diaphanous transparent silk veil, holding one blossoming wand gently in her hand, her throne set in a clearing of a majestic ancient oak forest — towering dark oak trunks with warm golden sunlight streaming down through the dense canopy, shafts of amber light and drifting golden embers between the trees.
+a serene 25-year-old female sovereign with a lion-carved crown seated on a flame-carved throne, draped only in a thin strip of silk that covers the lower part of her body, holding one blossoming wand gently in her hand, her throne set in a clearing of a majestic ancient oak forest — towering dark oak trunks with warm golden sunlight streaming down through the dense canopy, shafts of amber light and drifting golden embers between the trees.
 
 Main figure — the sovereign — render exactly as specified: a 25-year-old young woman.
 Eyes: hooded bronze-gold eyes, deep and seductive.
@@ -1274,7 +1274,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a nude young woman and a fair-skinned nude young man facing one another, her body turned three-quarters toward the viewer with one arm across her breast, each raising one chalice in a toast, a caduceus with a lion head above them.
+a young woman draped only in a thin strip of silk that covers the lower part of her body and a fair-skinned young man facing one another, her body turned three-quarters toward the viewer with one arm across her chest, each raising one chalice in a toast, a caduceus with a lion head above them.
 
 Main figure — the young woman of the pair — render exactly as specified: a 21-year-old young woman.
 Eyes: soft hazel-green upturned eyes gazing in rapture at her partner.
@@ -1308,7 +1308,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-three nude maidens with flower wreaths dancing in a circle, their bodies turned to the light, each raising one chalice, fruits on the ground.
+three young maidens with flower wreaths, each draped only in a thin strip of silk that covers the lower part of her body, dancing in a circle, their bodies turned to the light, each raising one chalice, fruits on the ground.
 
 Main figure — the three maidens — render exactly as specified: three young women of 20, each with a distinct face and figure.
 Eyes: three distinct pairs — chocolate-brown doe eyes, amber almond eyes, and copper-green cat eyes — each gaze joyful and lifted in the dance.
@@ -1342,7 +1342,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a contemplative young woman seated beneath a tree, arms crossed, regarding three cups on the grass while a celestial hand offers a fourth cup from a cloud.
+a contemplative young woman draped only in a thin strip of silk that covers the lower part of her body, seated beneath a tree, arms crossed, regarding three cups on the grass while a celestial hand offers a fourth cup from a cloud.
 
 Main figure — the contemplative young woman — render exactly as specified: a 22-year-old young woman.
 Eyes: misty grey-blue downturned eyes, bored and distant.
@@ -1376,7 +1376,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a graceful adult woman in a dark cloak slipping off one bare shoulder, standing bowed with her back to the light by the river, three spilled chalices lying emptied and overturned in the foreground at her feet, two full chalices still standing upright on the bank behind her.
+a graceful adult woman in a dark cloak, standing bowed with her back to the light by the river, three spilled chalices lying emptied and overturned in the foreground at her feet, two full chalices still standing upright on the bank behind her.
 
 Main figure — the mourning woman — render exactly as specified: a 22-year-old young woman.
 Eyes: watery hazel downturned eyes, wet at the corners.
@@ -1410,7 +1410,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SIX OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-two graceful young women in sheer summer dresses in an old courtyard garden, exchanging one flower-filled chalice, five more set along the wall behind them.
+two graceful young women each draped only in a thin strip of silk that covers the lower part of her body, in an old courtyard garden, exchanging one flower-filled chalice, five more set along the wall behind them.
 
 Main figure — the young woman with the chalice — render exactly as specified: a 19-year-old young woman.
 Eyes: baby-blue doe eyes, innocent.
@@ -1444,7 +1444,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a mesmerized young woman seen from behind, marveling at seven floating cups within glowing clouds containing mystical treasures.
+a mesmerized young woman draped only in a thin strip of silk that covers the lower part of her body, seen from behind, marveling at seven floating cups within glowing clouds containing mystical treasures.
 
 Main figure — the mesmerized young woman — render exactly as specified: a 21-year-old young woman.
 Eyes: dreamy violet-grey eyes, half-closed in enchantment.
@@ -1512,7 +1512,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a content adult woman with bare shoulders seated at a banquet table, silk slipping from one shoulder, before nine golden chalices proudly arranged in a neat grid on a shelf behind her.
+a content adult woman with bare shoulders draped only in a thin strip of silk that covers the lower part of her body, seated at a banquet table, before nine golden chalices proudly arranged in a neat grid on a shelf behind her.
 
 Main figure — the contented woman — render exactly as specified: a 24-year-old young woman.
 Eyes: upturned amber-brown eyes, smiling like a crescent moon.
@@ -1546,7 +1546,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a blissful fair-skinned couple embracing in a meadow, she in slipping silk with one bare shoulder and the long line of her back to the light, his arms around her waist, ten chalices along a rainbow arc, a cottage and fair-skinned dancing children beyond.
+a blissful fair-skinned couple embracing in a meadow, she draped only in a thin strip of silk that covers the lower part of her body, the long line of her back to the light, his arms around her waist, ten chalices along a rainbow arc, a cottage and fair-skinned dancing children beyond.
 
 Main figure — the woman of the couple — render exactly as specified: a 22-year-old young woman.
 Eyes: soft warm hazel eyes, tender.
@@ -1580,7 +1580,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a graceful young woman page by the sea in an open robe sliding off one shoulder, holding one chalice from which a curious fish looks out.
+a graceful young woman page by the sea in a loose robe over a thin strip of silk that covers the lower part of her body, holding one chalice from which a curious fish looks out.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
 Eyes: smoky-blue doe eyes wide with dreamy surprise.
@@ -1648,7 +1648,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a youthful adult queen seated on a shell throne at the water's edge, her shoulders bare beneath wet platinum-blonde hair, wearing a gown of antique WHITE SILK GAUZE so sheer and transparent that the light shines through it and the long line of her body reads clearly beneath, holding one lidded golden chalice in her lap, sea foam and breaking waves behind her.
+a youthful adult queen seated on a shell throne at the water's edge, her shoulders bare beneath wet platinum-blonde hair, draped only in a thin strip of white silk that covers the lower part of her body, holding one lidded golden chalice in her lap, sea foam and breaking waves behind her.
 
 Main figure — the queen — render exactly as specified: a 23-year-old young woman.
 Eyes: heavy-lidded silver-platinum eyes, mystical.
@@ -1682,7 +1682,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF CUPS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a serene 25-year-old oceanic queen on a throne floating upon rolling waves, holding a lotus scepter and a golden cup, a dolphin leaping in the distance.
+a serene 25-year-old oceanic queen draped only in a thin strip of silk that covers the lower part of her body, on a throne floating upon rolling waves, holding a lotus scepter and a golden cup, a dolphin leaping in the distance.
 
 Main figure — the oceanic queen — render exactly as specified: a 25-year-old young woman.
 Eyes: deep hooded ocean-blue eyes, a sovereign’s calm.
@@ -1747,7 +1747,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a blindfolded adult woman in a very thin veil of antique silk gauze, almost transparent, her shoulders bare, seated on a stone seat by the sea, two long swords crossed over her chest, the moon rising behind her.
+a blindfolded adult woman draped only in a thin strip of antique silk that covers the lower part of her body, her shoulders bare, seated on a stone seat by the sea, two long swords crossed over her chest, the moon rising behind her.
 
 Main figure — the blindfolded woman — render exactly as specified: a 21-year-old young woman.
 Eyes: flint-grey eyes veiled behind thin silk, deep and enigmatic.
@@ -1841,7 +1841,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FIVE OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a confident young woman holding three swords over her shoulder and watching two retreating female companions on a stormy coastline, two swords lying in the sand.
+a confident young woman draped only in a thin strip of silk that covers the lower part of her body, holding three swords over her shoulder and watching two retreating female companions on a stormy coastline, two swords lying in the sand.
 
 Main figure — the confident victor — render exactly as specified: a 22-year-old young woman.
 Eyes: dark-emerald almond eyes glancing sideways, confident and alluring.
@@ -1909,7 +1909,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a nimble young woman stealthily carrying five swords in her arms while looking back at a military encampment where two swords remain upright.
+a nimble young woman draped only in a thin strip of silk that covers the lower part of her body, stealthily carrying five swords in her arms while looking back at a military encampment where two swords remain upright.
 
 Main figure — the nimble thief — render exactly as specified: a 20-year-old young woman.
 Eyes: dark-brown cat eyes with a swift mischievous glance.
@@ -2011,7 +2011,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TEN OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a peaceful young woman lying draped in crimson silk on a shoreline at dawn beneath ten upright swords, golden sunlight breaking across dark waters.
+a peaceful young woman draped only in a thin strip of crimson silk that covers the lower part of her body, lying on a shoreline at dawn beneath ten upright swords, golden sunlight breaking across dark waters.
 
 Main figure — the woman at rest — render exactly as specified: a 23-year-old young woman.
 Eyes: eyes closed, long lashes, at peace beneath the sun.
@@ -2113,7 +2113,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a stern dignified adult queen whose body is wrapped in a single sheet of TRANSPARENT antique silk gauze, one shoulder and the curve of her breast left bare, posed with sensual grace yet enthroned with majesty, seated on a butterfly-carved stone throne above a sea of clouds, one upright sword held in her hand.
+a stern dignified adult queen draped only in a thin strip of antique silk that covers the lower part of her body, posed with sensual grace yet enthroned with majesty, seated on a butterfly-carved stone throne above a sea of clouds, one upright sword held in her hand.
 
 Main figure — the queen — render exactly as specified: a 24-year-old young woman.
 Eyes: cold hooded jade eyes, icily alluring.
@@ -2147,7 +2147,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF SWORDS" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a stern and majestic 25-year-old female supreme judge on a high stone throne, holding an upright sword of truth, clear blue skies behind.
+a stern and majestic 25-year-old female supreme judge draped only in a thin strip of silk that covers the lower part of her body, on a high stone throne, holding an upright sword of truth, clear blue skies behind.
 
 Main figure — the supreme judge — render exactly as specified: a 25-year-old young woman.
 Eyes: narrow steel-grey eyes, serene and mesmerizing.
@@ -2212,7 +2212,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "TWO OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a joyful 19-year-old young woman dancing on a seaside terrace, juggling two golden pentacles looped inside an infinity ribbon with ships in rolling surf behind.
+a joyful 19-year-old young woman draped only in a thin strip of silk that covers the lower part of her body, dancing on a seaside terrace, juggling two golden pentacles looped inside an infinity ribbon with ships in rolling surf behind.
 
 Main figure — the dancing young woman — render exactly as specified: a 19-year-old young woman.
 Eyes: round merry hazel-gold eyes, sparkling.
@@ -2246,7 +2246,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "THREE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a young woman sculptor in an open workshop apron slipping off one shoulder, hair loose, chiseling a column, a fair-skinned monk and a fair-skinned architect commenting, three coins set in the arch above.
+a young woman sculptor in a workshop apron, hair loose, chiseling a column, a fair-skinned monk and a fair-skinned architect commenting, three coins set in the arch above.
 
 Main figure — the sculptor — render exactly as specified: a 22-year-old young woman.
 Eyes: walnut-brown almond eyes, heavy-lidded with absorption in her craft.
@@ -2280,7 +2280,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "FOUR OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a wealthy young woman seated on a stone bench, holding one golden pentacle tight to her chest, one on her crown, and two under her feet.
+a wealthy young woman draped only in a thin strip of silk that covers the lower part of her body, seated on a stone bench, holding one golden pentacle tight to her chest, one on her crown, and two under her feet.
 
 Main figure — the wealthy young woman — render exactly as specified: a 24-year-old young woman.
 Eyes: deep-umber heavy-lidded eyes, discreetly half-closed.
@@ -2382,7 +2382,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "SEVEN OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a patient young woman leaning on her garden staff, contemplating seven golden pentacles blooming on a lush green vine.
+a patient young woman draped only in a thin strip of silk that covers the lower part of her body, leaning on her garden staff, contemplating seven golden pentacles blooming on a lush green vine.
 
 Main figure — the patient gardener — render exactly as specified: a 22-year-old young woman.
 Eyes: heavy-lidded hazel-green eyes, weary yet hopeful.
@@ -2416,7 +2416,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "EIGHT OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a young woman apprentice in an apron slipping off one shoulder, sleeves rolled, her chestnut hair pinned in a neat low chignon, chiseling a plain stone disc at a bench, eight coins in one row along the bench edge, a town through the window.
+a young woman apprentice in an apron, sleeves rolled, her chestnut hair pinned in a neat low chignon, chiseling a plain stone disc at a bench, eight coins in one row along the bench edge, a town through the window.
 
 Main figure — the apprentice — render exactly as specified: a 21-year-old young woman.
 Eyes: seal-brown eyes lowered in absorbed concentration.
@@ -2450,7 +2450,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "NINE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-an elegant woman in a sheer flowing gown that clings to breast and hip, a falcon on her gloved hand, her other hand touching ripe grapes, nine coins along the arbor beam, a snail at her feet.
+an elegant woman draped only in a thin strip of silk that covers the lower part of her body, a falcon on her gloved hand, her other hand touching ripe grapes, nine coins along the arbor beam, a snail at her feet.
 
 Main figure — the elegant woman — render exactly as specified: a 23-year-old young woman.
 Eyes: deep-espresso almond eyes flecked with green, proudly serene.
@@ -2518,7 +2518,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "PAGE OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a studious young woman page in an open robe studying one large pentacle coin held in both hands, a plowed field behind her.
+a studious young woman page in a loose robe studying one large pentacle coin held in both hands, a plowed field behind her.
 
 Main figure — the page — render exactly as specified: a 18-year-old young woman.
 Eyes: round sunny-hazel eyes, earnest.
@@ -2586,7 +2586,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "QUEEN OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a warm nude queen with a flower crown on a goat-carved throne, one breast bared, one pentacle resting in her lap, a rabbit in the garden.
+a warm young queen draped only in a thin strip of silk that covers the lower part of her body, wearing a flower crown on a goat-carved throne, one pentacle resting in her lap, a rabbit in the garden.
 
 Main figure — the queen — render exactly as specified: a 24-year-old young woman.
 Eyes: warm molten-brown upturned eyes, a generous queen’s gaze.
@@ -2620,7 +2620,7 @@ Framing lock (hard rule): no card border, no golden gothic frame, no gold line-w
 At the BOTTOM of the image, elegantly overlaid on the artwork: the title "KING OF PENTACLES" in the deck's unified title lettering — elegant letter-spaced antique-gold serif capitals with a soft dark drop shadow for legibility, the identical font style, letter height and antique-gold color used on every card of this deck — this is the ONLY text on the card.
 
 The scene:
-a wealthy 25-year-old female queen of wealth seated on a bull-carved throne amid blooming grapevines and castle walls, holding a golden pentacle in her lap.
+a wealthy 25-year-old female queen of wealth draped only in a thin strip of silk that covers the lower part of her body, seated on a bull-carved throne amid blooming grapevines and castle walls, holding a golden pentacle in her lap.
 
 Main figure — the queen of wealth — render exactly as specified: a 25-year-old young woman.
 Eyes: deep-brown hooded eyes glinting amber, generous.

@@ -34,7 +34,7 @@ Giữ nguyên từ v4: bố cục **full-bleed** (bỏ khung · bỏ emblem · b
 | 5 | **Vóc dáng** | Cấp A–D + mô tả chi tiết |
 | 6 | **Nét riêng (signature)** | Đúng 1 chi tiết độc bản: nốt ruồi, sẹo nhỏ, tàn nhang, xăm nhỏ, khuyên, lúm đồng tiền, bớt… |
 | 7 | **Không khí (aura)** | 3–4 từ khoá cảm xúc/bối cảnh của nhân vật |
-| 8 | **Trang phục** | Theo scene (voan lụa trong suốt / tương ứng bối cảnh từng lá) |
+| 8 | **Trang phục** | Dải lụa mỏng che phần dưới cơ thể (`a thin strip of silk that covers the lower part of her body`) / đạo cụ nghề nghiệp giữ nguyên (giáp kỵ sĩ, áo choàng, tạp dề thợ…) |
 
 * **ANATOMY LOCK (HARD RULE)**: mỗi nhân vật tối đa **2 tay, 2 chân, 1 đầu, 1 thân**; mọi khớp nối tự nhiên — không thừa chi, không chi mọc dính sườn/hông/ngực, không tay cụt, không khớp biến dạng, không sai số lượng ngón. Ưu tiên tư thế 2 tay tách rõ khỏi thân. Thấy lỗi giải phẫu → vẽ lại, không chấp nhận.
 
