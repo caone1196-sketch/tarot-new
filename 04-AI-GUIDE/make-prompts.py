@@ -52,7 +52,11 @@ TITLE_LETTERING = (
     "serif shape and stroke weight, the same letter-spacing, the same capitals, the same size relative to the "
     "card width, the same warm gold colour with the same bright inner highlight and the same soft dark drop "
     "shadow for legibility. This is the ONLY text on the card. The reference image is a lettering specimen "
-    "only — copy its lettering style, but IGNORE the specimen's own wording and its dark panel, and render the title \"{TITLE}\"."
+    "only — copy its lettering style, but IGNORE the specimen's own wording and its dark panel, and render the title \"{TITLE}\". "
+    " Spelling lock (hard rule): the title reads EXACTLY \"{TITLE}\" — spelled {SPELLED}. Do not add, drop, double or "
+    "reorder any letter; no Roman numeral, no extra word, no subtitle, no second line of text anywhere on the card."
+    " Place it in the clear lower band of the card, fully legible and unobstructed — no figure, animal, prop or "
+    "shadow may cover, crop or overlap the letters."
 )
 
 RE_TITLE_PARA = re.compile(
@@ -82,7 +86,7 @@ PROPS_GUARD = {
     "04-emperor": " The stone throne carved with ram heads, the ankh sceptre and the barren mountains are required by this card and must not be removed by any other rule.",
     "05-hierophant": " The two kneeling female acolytes, the sacred temple pillars and the raised blessing hand are required by this card and must not be removed by any other rule.",
     "06-lovers": " The great winged angel, the tree of knowledge with the serpent and the tree of flames are required by this card and must not be removed by any other rule.",
-    "07-chariot": " The two sphinxes, the stone chariot, the starry canopy and the walled city are required by this card and must not be removed by any other rule.",
+    "07-chariot": " The two roaring lions — one white, one black — the stone chariot, the starry canopy and the walled city are required by this card; the lions are EXEMPT from the 'no pair of dogs' exclusion above and must not be removed or replaced by sphinxes.",
 }
 
 # ---------------------------------------------------------- 4. TRANG PHỤC
@@ -121,7 +125,8 @@ def main(slugs=None):
         assert n == 1, f"{slug}: không thay được đoạn tham chiếu"
 
         # 2) đoạn tiêu đề -> title lettering lock (bám mẫu chữ)
-        text, n = RE_TITLE_PARA.subn(TITLE_LETTERING.format(TITLE=title), text, count=1)
+        spelled = " ".join("-".join(w.upper()) for w in title.split())
+        text, n = RE_TITLE_PARA.subn(TITLE_LETTERING.format(TITLE=title, SPELLED=spelled), text, count=1)
         assert n == 1, f"{slug}: không thay được đoạn tiêu đề"
 
         # 3) chuẩn trang phục (từ wardrobe-standard.json)

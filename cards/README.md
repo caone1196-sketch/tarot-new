@@ -8,14 +8,27 @@ Mỗi lá = 1 file PNG tên theo `slug`, tỉ lệ **784×1360 (7:12)**, full-bl
 | `01-magician.png` | THE MAGICIAN | Pháp Sư | ✅ batch 1 |
 | `02-priestess.png` | THE HIGH PRIESTESS | Nữ Tư Tế | ✅ batch 1 |
 | `03-empress.png` | THE EMPRESS | Nữ Hoàng | ✅ batch 2 |
-| `04-emperor.png` | THE EMPEROR | Hoàng Đế | ✅ batch 2 ⚠️ xem chú thích |
+| `04-emperor.png` | THE EMPEROR | Hoàng Đế | ✅ batch 2 ⚠️ pose xem chú thích |
 | `05-hierophant.png` | THE HIEROPHANT | Giáo Hoàng | ✅ batch 2 |
 | `06-lovers.png` | THE LOVERS | Tình Nhân | ✅ batch 2 |
-| `07-chariot.png` | THE CHARIOT | Chiến Xa | ✅ batch 2 |
+| `07-chariot.png` | THE CHARIOT | Chiến Xa | ✅ 2 sư tử gầm (1 trắng 1 đen) |
 
-> ⚠️ **04-emperor**: bản gốc "nằm nghiêng trên ngai" bị bộ lọc nội dung chặn.
-> Đã đổi thành **ngồi ngự thẳng trên ngai** + voan che cả vai và ngực (hở một vai).
-> Tất cả các lá khác vẫn giữ đúng tư thế gốc. Chi tiết trong `wardrobe-standard.json` (trường `note`).
+> ⚠️ **04-emperor** — tư thế gốc "nằm nghiêng trên ngai" **bị bộ lọc chặn 2 lần**:
+> 1. `nằm nghiêng` → chặn → đổi thành ngồi ngự thẳng ✅
+> 2. `ngồi nghiêng languid, một chân co` → chặn → đổi thành **ngồi tạc tượng, thân xoay 3/4,
+>    dồn trọng tâm một hông, một tay vịn tựa ngai, cằm hơi ngẩng** ✅
+> Các lá khác giữ nguyên tư thế gốc (kể cả Empress đang nằm). Chi tiết trong `wardrobe-standard.json` (trường `note`).
+
+> 🦁 **07-chariot** — theo yêu cầu: thay **2 nhân sư** bằng **2 sư tử đang gầm, 1 trắng (trái) 1 đen (phải)**,
+> bờm bay, miệng mở giữa tiếng gầm. Sư tử được **miễn trừ** khỏi danh sách chống lẫn
+> ("no pair of dogs") để không bị xóa nhầm.
+
+### 🔤 Khóa tên lá (thêm từ bản này)
+
+Mọi prompt giờ có **Spelling lock**: tên lá được đánh vần từng chữ
+(`T-H-E E-M-P-R-E-S-S`), cấm thêm/xóa/gấp đôi/đổi chỗ, cấm số La Mã và chữ thừa —
+và **cấm nhân vật/đạo cụ che mất chữ**. Kiểm chứng bằng `edge_metric` trên dải chữ
+(mẫu 11.6 · các lá 9.9–15.4 · bản lỗi 6.0).
 
 ## Cấu trúc
 

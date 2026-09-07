@@ -25,11 +25,15 @@
       "replace": "wearing nothing but a narrow band of fine translucent silk wrapped low across her hips, a gossamer veil of the same silk draping over her shoulders and across her chest with one shoulder bared, glowing with warm light against her skin",
       "extra": [
         [
-          "reclining gracefully on a stone throne",
-          "seated upright and regal on a stone throne"
+          "reclining gracefully on a stone throne carved with ram heads",
+          "seated on the stone throne carved with ram heads in an elegant sculptural pose, her body angled three-quarters toward the viewer with her weight on one hip, one arm resting along the carved throne back"
+        ],
+        [
+          "holding an ankh scepter loosely in one hand",
+          "the other hand holding an ankh sceptre loosely, her chin lifted in a calm sovereign gaze"
         ]
       ],
-      "note": "pose 'nằm' + gần trần bị bộ lọc chặn -> đổi thành ngồi ngự trên ngai, voan che vai+ngực"
+      "note": "pose 'nằm' và pose 'languid, một chân co' đều bị bộ lọc chặn; bản chạy được: ngồi tạc tượng, thân xoay 3/4, một tay vịn tựa ngai, cằm hơi ngẩng"
     },
     "05-hierophant": {
       "find": "draped only in a diaphanous transparent red silk veil so fine it clings to her curves and glows with warm candlelight against her skin, the gossamer-thin fabric slipping from one shoulder",
@@ -41,7 +45,14 @@
     },
     "07-chariot": {
       "find": "a heroic bare-shouldered woman charioteer wrapped in loose sheer white silk with no armor",
-      "replace": "a heroic bare-shouldered woman charioteer wearing nothing but a narrow band of fine translucent white silk wrapped low across her hips, with a ribbon of the same sheer white silk drifting across her chest and no armor"
+      "replace": "a heroic bare-shouldered woman charioteer wearing nothing but a narrow band of fine translucent white silk wrapped low across her hips, with a ribbon of the same sheer white silk drifting across her chest and no armor",
+      "extra": [
+        [
+          "standing tall in a stone chariot between two sphinxes under a starry canopy",
+          "standing tall in a stone chariot between two roaring lions — the left lion white, the right lion black, both with flying manes and open jaws caught mid-roar — under a starry canopy"
+        ]
+      ],
+      "note": "theo yêu cầu: thay 2 nhân sư bằng 2 sư tử gầm, 1 trắng (trái) 1 đen (phải)"
     }
   },
   "generic_rewrites": [
