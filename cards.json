@@ -3,8 +3,7 @@
     "deck": "Sensual Tarot — 78 cards",
     "version": "v5 (full-bleed, quality-locked, count-locked, sensual edition, light-skin lock)",
     "refs": [
-      "card-blank.png (blank template, position 1)",
-      "the moon.png (style anchor — inner image & outer border standard, position 2)"
+      "the moon.png (optional style reference — inner artwork only; ignore its outer border and frame)"
     ],
     "note": "count = null -> emits the 'no suit objects' COUNT LOCK. count.n is a HARD constraint. v4: FULL-BLEED — no border, no emblem, no ribbon banner; only the card title remains. All scenes pass the light-skin lock (no dark/Black skin tones anywhere). Prompt source of truth = 03-PROMPTS-78-FULL.md / prompts-full.json."
   },

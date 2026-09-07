@@ -44,7 +44,6 @@
 | `01-CARD-TABLE.md` | Bảng chuẩn 72 nhân vật: mắt · tóc · da · vóc dáng A–D · nét riêng · không khí |
 | `00-MASTER-PROMPT.md` | Bản đặc tả đầy đủ mọi quy chuẩn (tiếng Việt) |
 | `the moon.png` | Ảnh tham chiếu phong cách (ảnh trong — bỏ khung) |
-| `card-blank.png` | *(không dùng nữa từ v4)* |
 
 ## 3. 5 KHÓA BẮT BUỘC (đã nhúng sẵn trong mọi prompt — không được bỏ, không được sửa)
 

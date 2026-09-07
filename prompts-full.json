@@ -3,8 +3,7 @@
     "deck": "Sensual Tarot — 78 cards",
     "version": "v5 (full-bleed + quality-lock prompts, light-skin lock)",
     "refs": [
-      "card-blank.png (blank template, position 1)",
-      "the moon.png (style anchor, position 2)"
+      "the moon.png (optional style reference — ignore its outer border)"
     ],
     "source": [
       "cards.json",

@@ -8,7 +8,7 @@
 > Mỗi prompt là MỘT khối copy-paste được ngay, đã gồm đủ: **bối cảnh chi tiết · 8 thông số nhân vật (tuổi · mắt · tóc · da · vóc dáng · nét riêng · không khí) · 
 > FRAMING LOCK · SKIN TONE LOCK · ANATOMY LOCK · COUNT LOCK · **QUALITY LOCK (chống nhòe · chống vỡ nét · chống noise — chi tiết tối đa)**.
 >
-> **Cách dùng**: (tùy chọn) đính kèm `the moon.png` làm tham chiếu phong cách ảnh trong — bỏ qua khung viền của nó; không cần `card-blank.png` nữa.
+> **Cách dùng**: (tùy chọn) đính kèm `the moon.png` làm tham chiếu phong cách ảnh trong — bỏ qua khung viền của nó.
 >
 > 6 lá vật thể thuần (không nhân vật): `wands-ace`, `wands-08`, `cups-ace`, `swords-ace`, `swords-03`, `pentacles-ace`.
 
