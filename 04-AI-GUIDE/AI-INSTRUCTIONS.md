@@ -38,6 +38,8 @@
 | File | Dùng khi |
 |---|---|
 | `04-AI-GUIDE/AI-INSTRUCTIONS.md` | Chính file này — bản vận hành cho AI |
+| `04-AI-GUIDE/DEPLOY.md` | Hướng dẫn triển khai cho người dùng (chat · Custom GPT/Gem · API) |
+| `04-AI-GUIDE/get-prompt.py` | Lấy prompt nhanh theo slug/tên Việt/tên Anh (để tự động hóa) |
 | `03-PROMPTS-78-FULL.md` | **Nguồn prompt chính** — 78 prompt hoàn chỉnh, copy-paste được ngay |
 | `prompts-full.json` | Như trên, bản máy đọc được (slug/title/prompt) |
 | `cards.json` | Dữ liệu nguồn 78 lá: scene, emblem, count lock, tóc/tuổi/vóc dáng |
